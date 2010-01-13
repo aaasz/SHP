@@ -1,4 +1,2 @@
-# Define SHP_HOME
-
-export SHP_HOME=/home/szekeres/SHP/git_SHP
-
+# Add path to collector executables 
+export PATH=$PATH:/home/szekeres/SHP/collector/bin
