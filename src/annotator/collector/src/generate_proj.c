@@ -38,9 +38,10 @@ int main(int argc, char** argv)
 
 		argv[1] = path to folder
 		argv[2] = name of the generated file / application
+		argv[3] = -sw or -hw	
 
-		argv[3] = number of hardware sources	
-		argv[4] .. argv[i1] = names of hardware sources
+		argv[4] = number of hardware sources	
+		argv[5] .. argv[i1] = names of hardware sources
 		argv[i1 + 1] = number of hardware headers
 		argv[i1+2] .. argv[i2] = names of hardware headers
  		argv[i2+1] = number of software sources	
@@ -81,7 +82,7 @@ int main(int argc, char** argv)
 						"$Option \"HWBuildSrcFiles="
 			);
 
-	arg_no = print_files(proj, 3, argv);	
+	arg_no = print_files(proj, 4, argv);	
 
 	fprintf(proj, "%s",	"$Option \"HWBuildIncFiles=");
 	arg_no = print_files(proj, arg_no, argv);	

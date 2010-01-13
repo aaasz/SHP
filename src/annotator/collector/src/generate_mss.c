@@ -12,8 +12,8 @@
 int main(int argc, char** argv)
 {
 	/*
-
 		argv[1] = path to folder
+		argv[2] = -sw or -hw
  	 */	
 
 	FILE *mss;
@@ -94,14 +94,16 @@ int main(int argc, char** argv)
 					" PARAMETER DRIVER_VER = 1.00.a\n"
 					" PARAMETER HW_INSTANCE = proc_sys_reset_0\n"
 					"END\n"
-					"\n"
-					"BEGIN DRIVER\n"
+					"\n");
+
+if (!strcmp(argv[2],"hw"))
+		fprintf(mss,"%s", "BEGIN DRIVER\n"
 					" PARAMETER DRIVER_NAME = fsl_hello\n" //architecture name - HARDCODED
 					" PARAMETER DRIVER_VER = 1.00.a\n"
 					" PARAMETER HW_INSTANCE = fsl_hello_0\n"
 					"END\n"
-					"\n"
-	); 
+					"\n");
+ 
 	fclose(mss);   	   
 	return 0;
 }

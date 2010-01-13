@@ -15,6 +15,7 @@ int main(int argc, char** argv)
 	/*
 
 		argv[1] = path to folder
+		argv[2] = -sw or -hw
  	 */	
 
 	FILE *mhs;
@@ -39,18 +40,24 @@ int main(int argc, char** argv)
 					 " PARAMETER INSTANCE = microblaze_0\n"
 					 " PARAMETER HW_VER = 7.10.a\n"
 					 " PARAMETER C_DEBUG_ENABLED = 1\n"
- 					 " PARAMETER C_AREA_OPTIMIZED = 1\n"
-					 " PARAMETER C_FSL_LINKS = 2\n"
-					 " PARAMETER C_FAMILY = spartan3e\n"
+ 					 " PARAMETER C_AREA_OPTIMIZED = 1\n");
+
+	if (!strcmp(argv[2],"hw"))
+		fprintf(mhs,"%s", " PARAMETER C_FSL_LINKS = 2\n");
+
+	fprintf(mhs,"%s"," PARAMETER C_FAMILY = spartan3e\n"
 					 " PARAMETER C_INSTANCE = microblaze_0\n"
 				     " BUS_INTERFACE DPLB = mb_plb\n"
 					 " BUS_INTERFACE IPLB = mb_plb\n"
 					 " BUS_INTERFACE DEBUG = microblaze_0_dbg\n"
 					 " BUS_INTERFACE DLMB = dlmb\n"
- 					 " BUS_INTERFACE ILMB = ilmb\n"
-					 " BUS_INTERFACE MFSL0 = fsl_v20_0\n"
-					 " BUS_INTERFACE SFSL1 = fsl_v20_1\n"
-				     " PORT MB_RESET = mb_reset\n"
+ 					 " BUS_INTERFACE ILMB = ilmb\n");
+
+	if (!strcmp(argv[2],"hw"))
+		fprintf(mhs,"%s", " BUS_INTERFACE MFSL0 = fsl_v20_0\n"
+					 	  " BUS_INTERFACE SFSL1 = fsl_v20_1\n");
+
+	fprintf(mhs,"%s"," PORT MB_RESET = mb_reset\n"
 					 "END\n"
 					 "\n"
 					 "BEGIN plb_v46\n"
@@ -164,8 +171,10 @@ int main(int argc, char** argv)
 					 " PORT MB_Debug_Sys_Rst = Debug_SYS_Rst\n"
 					 " PORT Peripheral_Reset = sys_periph_reset\n"
 					 "END\n"
-				 	 "\n"
-					 "BEGIN fsl_hello\n" //numele arhitecturii -HARDCODED
+				 	 "\n");
+
+	if (!strcmp(argv[2],"hw"))
+		fprintf(mhs,"%s", "BEGIN fsl_hello\n" //numele arhitecturii -HARDCODED
 					 " PARAMETER INSTANCE = fsl_hello_0\n"
 					 " PARAMETER HW_VER = 1.00.a\n"
 					 " BUS_INTERFACE MFSL1 = fsl_v20_1\n"
@@ -187,8 +196,7 @@ int main(int argc, char** argv)
 					 " PORT SYS_Rst = sys_bus_reset\n"
 					 " PORT FSL_Clk = sys_clk_s\n"
 					 "END\n"
-   					 "\n"
-	); 
+   					 "\n"); 
 	fclose(mhs);   	   
 	return 0;
 }
