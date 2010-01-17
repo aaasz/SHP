@@ -8,24 +8,61 @@
 Authors:
  		Silviu Baranga
 		Adriana Szekeres
-====================================================
+=====================================================================
 
 Prerequisites:
 
 To run the program you will need:
-		- llvm/clang ()
+		- llvm/clang 
+			(the version we used can be found in llvm folder)
 		- Spartan 3E Starter Kit
 		- Xilinx EDK 10.1
 		- CoDeveloper3
+		- serial port/cable or USB to serial converter
 		- patience
-====================================================
+=====================================================================
 
 Running the application:
 
-1. 
- 
-2. Modify the line in src/collector/init.sh to point
-to the location of collector's bin file
+1. Compile llvm/clang
 
+2. Compile collector's sources
+		- in $SHP_HOME/src/collector run: 
+			make 
+
+3. Modify the line in $SHP_HOME/src/collector/init.sh to point
+to the location of collector's bin file, which is written in 
+the Makefile: $SHP_HOME/bin  
+
+4. export the line from init.sh
+
+5. Modify the line in $SHP_HOME/src/collector/config_serial.sh
+to use the path to your serial port (/dev/ttyUSB0)
+
+6. ./config_serial.sh
+
+7. Modify necessary paths in $SHP_HOME/src/generator/Makefile
+
+8. Compile generator's sources
+		- in $SHP_HOME/src/generator run: 
+			make 
+
+9. Pick a test from $SHP_HOME/tests 
+
+10. Obtain the ast's for the software and hardware version of 
+the application.
+Ex.:
+	clang -emit-ast -I/usr/Impulse/CoDeveloper3/Include big_test_hw.c
+	clang -emit-ast -I./microblaze_includes big_test_sw.c
+
+11. Start the program with:
+Ex.:
+	$SHP_HOME/src/generator/callgraph big_test_hw.ast big_test_sw.ast \
+		start_function_name stop_function_name
+	TODO: modifica Makefile-ul sa puna in bin
+
+12. Wait ~ 90 minutes for the big test.
+	“The secret of patience is doing something else in the meanwhile”
+		 	
 
 
