@@ -1,1 +1,31 @@
+  ______   ____  ____  _______   
+.' ____ \ |_   ||   _||_   __ \  
+| (___ \_|  | |__| |    | |__) | 
+ _.____`.   |  __  |    |  ___/  
+| \____) | _| |  | |_  _| |_     
+ \______.'|____||____||_____| 
+================================
+Authors:
+ 		Silviu Baranga
+		Adriana Szekeres
+====================================================
+
+Prerequisites:
+
+To run the program you will need:
+		- llvm/clang ()
+		- Spartan 3E Starter Kit
+		- Xilinx EDK 10.1
+		- CoDeveloper3
+		- patience
+====================================================
+
+Running the application:
+
+1. 
+ 
+2. Modify the line in src/collector/init.sh to point
+to the location of collector's bin file
+
+
 
