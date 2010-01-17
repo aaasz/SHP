@@ -1,0 +1,3 @@
+clang -emit-ast -I/usr/Impulse/CoDeveloper3/Include big_test_hw.c
+clang -emit-ast -I./microblaze_includes big_test_sw.c
+../icconv/callgraph big_test_hw.ast big_test_sw.ast 

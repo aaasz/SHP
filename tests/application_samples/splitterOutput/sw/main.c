@@ -1,0 +1,81 @@
+typedef unsigned char Xuint8;
+typedef char Xint8;
+typedef unsigned short Xuint16;
+typedef short Xint16;
+typedef unsigned long Xuint32;
+typedef long Xint32;
+typedef float Xfloat32;
+typedef double Xfloat64;
+typedef unsigned long Xboolean;
+typedef struct {
+    Xuint32 Upper;
+    Xuint32 Lower;
+}Xuint64;
+typedef Xuint32 u32;
+typedef Xuint16 u16;
+typedef Xuint8 u8;
+typedef void (*XInterruptHandler)(void *);
+typedef void (*XExceptionHandler)(void *);
+typedef void (*XAssertCallback)(char *, int);
+typedef int XStatus;
+typedef u32 XIo_Address;
+typedef struct {
+    u16 DeviceId;
+    u32 BaseAddress;
+}XTmrCtr_Config;
+typedef void (*XTmrCtr_Handler)(void *, u8);
+typedef struct {
+    u32 Interrupts;
+}XTmrCtrStats;
+typedef struct {
+    XTmrCtrStats Stats;
+    u32 BaseAddress;
+    u32 IsReady;
+    XTmrCtr_Handler Handler;
+    void *CallBackRef;
+}XTmrCtr;
+int xil_printf();
+int XTmrCtr_Initialize(XTmrCtr *InstancePtr, u16 DeviceId);
+XTmrCtr TimerInst;
+void XTmrCtr_SetResetValue(XTmrCtr *InstancePtr, u8 TmrCtrNumber, u32 ResetValue);
+void XTmrCtr_Start(XTmrCtr *InstancePtr, u8 TmrCtrNumber);
+Xuint32 StartIF_TS;
+u32 XTmrCtr_GetValue(XTmrCtr *InstancePtr, u8 TmrCtrNumber);
+extern void function_one(int n,int *out1,int *out2,int *out3);
+extern void function_two(int n,int *out);
+extern void function_three(int n,int *out);
+extern void function_four(int n,int *out);
+extern void function_five(int n1,int n2,int n3,int *out1,int *out2);
+extern void function_six(int n,int *out);
+extern void function_seven(int n,int *out);
+extern void function_eight(int n1,int n2,int *out);
+Xuint32 FinishIF_TS;
+Xuint32 TimeSA;
+int main() {
+    int one_out1, one_out2, one_out3;
+    int two_out, three_out, four_out;
+    int five_out1, five_out2;
+    int six_out, seven_out;
+    int eight_out;
+    xil_printf("Microblaze:\n");
+    XTmrCtr_Initialize(&TimerInst, 0);
+    XTmrCtr_SetResetValue(&TimerInst, 0, 0);
+    XTmrCtr_Start(&TimerInst, 0);
+    StartIF_TS = XTmrCtr_GetValue(&TimerInst, 0);
+    function_one(10000000, &one_out1, &one_out2, &one_out3);
+    function_two(one_out1, &two_out);
+    function_three(one_out2, &three_out);
+    function_four(one_out3, &four_out);
+    function_five(two_out, three_out, four_out, &five_out1, &five_out2);
+    function_six(five_out1, &six_out);
+    function_seven(five_out2, &seven_out);
+    function_eight(six_out, seven_out, &eight_out);
+    xil_printf("Rezultat = %d \n", eight_out);
+    FinishIF_TS = XTmrCtr_GetValue(&TimerInst, 0);
+    TimeSA = (FinishIF_TS - StartIF_TS) / (50000000 / 1000);
+    xil_printf("0\n");
+    xil_printf("%d\n", TimeSA);
+    xil_printf("SERIALSTOP");
+    return 0;
+}
+
