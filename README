@@ -15,6 +15,7 @@ Prerequisites:
 To run the program you will need:
 		- llvm/clang 
 			(the version we used can be found in llvm folder)
+		- gaul (found in gaul folder)
 		- Spartan 3E Starter Kit
 		- Xilinx EDK 10.1
 		- CoDeveloper3
