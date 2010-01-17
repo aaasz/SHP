@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/85149/llvm/trunk/utils/unittest/googletest
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/utils/unittest/googletest/LICENSE.TXT
+END
+gtest-filepath.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/utils/unittest/googletest/gtest-filepath.cc
+END
+README.LLVM
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81093/llvm/trunk/utils/unittest/googletest/README.LLVM
+END
+gtest-death-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/utils/unittest/googletest/gtest-death-test.cc
+END
+gtest-typed-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/utils/unittest/googletest/gtest-typed-test.cc
+END
+gtest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/utils/unittest/googletest/gtest.cc
+END
+gtest-test-part.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/utils/unittest/googletest/gtest-test-part.cc
+END
+gtest-port.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/utils/unittest/googletest/gtest-port.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/85149/llvm/trunk/utils/unittest/googletest/Makefile
+END

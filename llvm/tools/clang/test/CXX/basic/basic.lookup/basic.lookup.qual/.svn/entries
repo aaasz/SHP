@@ -1,0 +1,37 @@
+10
+
+dir
+91430
+http://llvm.org/svn/llvm-project/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.qual
+http://llvm.org/svn/llvm-project
+
+
+
+2009-11-18T18:26:29.366519Z
+89216
+fjahanian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+class.qual
+dir
+
+concept.qual
+dir
+
+namespace.qual
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81314/llvm/trunk/test/Transforms/StripSymbols
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/StripSymbols/dg.exp
+END
+2007-01-15-llvm.used.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/81314/llvm/trunk/test/Transforms/StripSymbols/2007-01-15-llvm.used.ll
+END

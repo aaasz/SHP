@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/89844/llvm/trunk/test/Transforms/LoopUnswitch
+END
+2006-06-27-DeadSwitchCase.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2006-06-27-DeadSwitchCase.ll
+END
+2006-02-22-UnswitchCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2006-02-22-UnswitchCrash.ll
+END
+2007-05-09-tl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81540/llvm/trunk/test/Transforms/LoopUnswitch/2007-05-09-tl.ll
+END
+2007-10-04-DomFrontier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2007-10-04-DomFrontier.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/LoopUnswitch/dg.exp
+END
+2007-07-12-ExitDomInfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2007-07-12-ExitDomInfo.ll
+END
+2008-11-03-Invariant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2008-11-03-Invariant.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/basictest.ll
+END
+2008-06-02-DomInfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2008-06-02-DomInfo.ll
+END
+2007-07-13-DomInfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2007-07-13-DomInfo.ll
+END
+2008-06-17-DomFrontier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2008-06-17-DomFrontier.ll
+END
+2007-07-18-DomInfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2007-07-18-DomInfo.ll
+END
+2006-02-14-LoopSimplifyCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2006-02-14-LoopSimplifyCrash.ll
+END
+2006-06-13-SingleEntryPHI.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2006-06-13-SingleEntryPHI.ll
+END
+2007-08-01-LCSSA.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2007-08-01-LCSSA.ll
+END
+2007-05-09-Unreachable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2007-05-09-Unreachable.ll
+END
+2007-08-01-Dom.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/LoopUnswitch/2007-08-01-Dom.ll
+END
+preserve-analyses.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/82952/llvm/trunk/test/Transforms/LoopUnswitch/preserve-analyses.ll
+END

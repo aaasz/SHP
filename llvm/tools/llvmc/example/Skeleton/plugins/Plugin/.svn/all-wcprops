@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/tools/llvmc/example/Skeleton/plugins/Plugin
+END
+Plugin.td
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/tools/llvmc/example/Skeleton/plugins/Plugin/Plugin.td
+END
+PluginMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/tools/llvmc/example/Skeleton/plugins/Plugin/PluginMain.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/tools/llvmc/example/Skeleton/plugins/Plugin/Makefile
+END

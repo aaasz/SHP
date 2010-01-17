@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/Clang
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/Clang/lit.cfg
+END
+fsyntax-only.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/Clang/fsyntax-only.c
+END

@@ -1,0 +1,665 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/90631/llvm/trunk/test/FrontendC++
+END
+2007-04-05-PackedBitFieldsSmall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2007-04-05-PackedBitFieldsSmall.cpp
+END
+2004-03-15-CleanupsAndGotos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2004-03-15-CleanupsAndGotos.cpp
+END
+2005-01-03-StaticInitializers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-01-03-StaticInitializers.cpp
+END
+2007-04-05-StructPackedFieldUnpacked.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2007-04-05-StructPackedFieldUnpacked.cpp
+END
+2003-11-25-ReturningOpaqueByValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-11-25-ReturningOpaqueByValue.cpp
+END
+2003-11-27-MultipleInheritanceThunk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-11-27-MultipleInheritanceThunk.cpp
+END
+2009-04-23-bool2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2009-04-23-bool2.cpp
+END
+2007-07-04-NestedCatches.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-07-04-NestedCatches.cpp
+END
+2007-04-11-InlineStorageClassC++.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-04-11-InlineStorageClassC++.cpp
+END
+2006-03-06-C++RecurseCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2006-03-06-C++RecurseCrash.cpp
+END
+2009-07-16-PrivateCopyConstructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/76095/llvm/trunk/test/FrontendC++/2009-07-16-PrivateCopyConstructor.cpp
+END
+2003-08-21-EmptyClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-08-21-EmptyClass.cpp
+END
+2009-06-30-ByrefBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/74829/llvm/trunk/test/FrontendC++/2009-06-30-ByrefBlock.cpp
+END
+2004-03-09-UnmangledBuiltinMethods.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2004-03-09-UnmangledBuiltinMethods.cpp
+END
+2009-04-21-DtorNames-dbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2009-04-21-DtorNames-dbg.cpp
+END
+2003-09-30-ForIncrementExprBug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-09-30-ForIncrementExprBug.cpp
+END
+2007-01-06-PtrMethodInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-01-06-PtrMethodInit.cpp
+END
+2005-02-20-BrokenReferenceTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-02-20-BrokenReferenceTest.cpp
+END
+2003-08-24-Cleanup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2003-08-24-Cleanup.cpp
+END
+2007-07-29-RestrictPtrArg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-07-29-RestrictPtrArg.cpp
+END
+2009-06-16-DebugInfoCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/73565/llvm/trunk/test/FrontendC++/2009-06-16-DebugInfoCrash.cpp
+END
+member-alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/84782/llvm/trunk/test/FrontendC++/member-alignment.cpp
+END
+2006-03-01-GimplifyCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2006-03-01-GimplifyCrash.cpp
+END
+2004-11-27-EmitsUnusedInlineFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2004-11-27-EmitsUnusedInlineFunctions.cpp
+END
+2007-04-10-PackedUnion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-04-10-PackedUnion.cpp
+END
+2007-05-23-TryFinally.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-05-23-TryFinally.cpp
+END
+2007-08-01-RestrictMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-08-01-RestrictMethod.cpp
+END
+2003-11-18-EnumArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-11-18-EnumArray.cpp
+END
+2005-07-21-VirtualBaseAccess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-07-21-VirtualBaseAccess.cpp
+END
+2005-02-27-PlacementArrayNewCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-02-27-PlacementArrayNewCrash.cpp
+END
+2003-08-29-ArgPassingBug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2003-08-29-ArgPassingBug.cpp
+END
+2006-11-30-ConstantExprCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2006-11-30-ConstantExprCrash.cpp
+END
+2009-05-04-PureConstNounwind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2009-05-04-PureConstNounwind.cpp
+END
+2004-03-08-ReinterpretCastCopy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2004-03-08-ReinterpretCastCopy.cpp
+END
+2005-02-13-BadDynamicInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-02-13-BadDynamicInit.cpp
+END
+2003-10-17-BoolBitfields.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-10-17-BoolBitfields.cpp
+END
+2003-09-30-NestedFunctionDecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-09-30-NestedFunctionDecl.cpp
+END
+m64-ptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90160/llvm/trunk/test/FrontendC++/m64-ptr.cpp
+END
+2007-04-31-TryCatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-04-31-TryCatch.cpp
+END
+2006-09-12-OpaqueStructCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2006-09-12-OpaqueStructCrash.cpp
+END
+2006-11-06-StackTrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/90626/llvm/trunk/test/FrontendC++/2006-11-06-StackTrace.cpp
+END
+2004-09-27-DidntEmitTemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2004-09-27-DidntEmitTemplate.cpp
+END
+2003-11-29-DuplicatedCleanupTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-11-29-DuplicatedCleanupTest.cpp
+END
+alignstack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/84921/llvm/trunk/test/FrontendC++/alignstack.cpp
+END
+2009-02-16-CtorNames-dbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2009-02-16-CtorNames-dbg.cpp
+END
+2008-05-07-CrazyOffsetOf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2008-05-07-CrazyOffsetOf.cpp
+END
+2003-09-29-ArgumentNumberMismatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-09-29-ArgumentNumberMismatch.cpp
+END
+2003-09-30-CommaExprBug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-09-30-CommaExprBug.cpp
+END
+2005-02-11-AnonymousUnion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-02-11-AnonymousUnion.cpp
+END
+2009-07-16-Using.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/75924/llvm/trunk/test/FrontendC++/2009-07-16-Using.cpp
+END
+2004-11-27-ExceptionCleanupAssertion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2004-11-27-ExceptionCleanupAssertion.cpp
+END
+2007-09-10-RecursiveTypeResolution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-09-10-RecursiveTypeResolution.cpp
+END
+2007-07-29-RestrictRefArg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-07-29-RestrictRefArg.cpp
+END
+2003-08-28-SaveExprBug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-08-28-SaveExprBug.cpp
+END
+2009-02-07-VolatileArrayRefHack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2009-02-07-VolatileArrayRefHack.cpp
+END
+ptr-to-method-devirt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/ptr-to-method-devirt.cpp
+END
+2006-11-30-Pubnames.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/90626/llvm/trunk/test/FrontendC++/2006-11-30-Pubnames.cpp
+END
+2008-10-29-WrongOffset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2008-10-29-WrongOffset.cpp
+END
+2008-01-11-BadWarning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2008-01-11-BadWarning.cpp
+END
+2007-04-14-FNoBuiltin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-04-14-FNoBuiltin.cpp
+END
+2003-11-02-WeakLinkage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2003-11-02-WeakLinkage.cpp
+END
+2005-02-19-BitfieldStructCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-02-19-BitfieldStructCrash.cpp
+END
+2003-08-28-ForwardType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-08-28-ForwardType.cpp
+END
+2007-04-05-PackedBitFields-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2007-04-05-PackedBitFields-1.cpp
+END
+2004-01-11-DynamicInitializedConstant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2004-01-11-DynamicInitializedConstant.cpp
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/dg.exp
+END
+2007-01-02-UnboundedArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-01-02-UnboundedArray.cpp
+END
+varargs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/84830/llvm/trunk/test/FrontendC++/varargs.cpp
+END
+2007-01-06-ELF-Thunk-Sections.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-01-06-ELF-Thunk-Sections.cpp
+END
+2003-11-08-ArrayAddress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2003-11-08-ArrayAddress.cpp
+END
+2006-09-27-Debug-Protection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2006-09-27-Debug-Protection.cpp
+END
+2006-09-08-powi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2006-09-08-powi.cpp
+END
+2005-02-14-BitFieldOffset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-02-14-BitFieldOffset.cpp
+END
+2003-08-27-TypeNamespaces.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-08-27-TypeNamespaces.cpp
+END
+2004-11-27-FriendDefaultArgCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2004-11-27-FriendDefaultArgCrash.cpp
+END
+2009-06-20-DarwinPPCLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81400/llvm/trunk/test/FrontendC++/2009-06-20-DarwinPPCLayout.cpp
+END
+2003-08-20-ExceptionFail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-08-20-ExceptionFail.cpp
+END
+2004-06-08-LateTemplateInstantiation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2004-06-08-LateTemplateInstantiation.cpp
+END
+x86-64-abi-sret-vs-2word-struct-param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/72443/llvm/trunk/test/FrontendC++/x86-64-abi-sret-vs-2word-struct-param.cpp
+END
+2007-03-27-FunctionVarRename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-03-27-FunctionVarRename.cpp
+END
+2009-07-15-LineNumbers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/90631/llvm/trunk/test/FrontendC++/2009-07-15-LineNumbers.cpp
+END
+2008-01-12-VecInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2008-01-12-VecInit.cpp
+END
+2009-08-11-VectorRetTy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/78774/llvm/trunk/test/FrontendC++/2009-08-11-VectorRetTy.cpp
+END
+2003-12-08-ArrayOfPtrToMemberFunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-12-08-ArrayOfPtrToMemberFunc.cpp
+END
+2007-10-01-StructResize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-10-01-StructResize.cpp
+END
+2003-11-04-ArrayConstructors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-11-04-ArrayConstructors.cpp
+END
+2004-09-27-CompilerCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2004-09-27-CompilerCrash.cpp
+END
+2007-05-16-ReverseBitFieldCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-05-16-ReverseBitFieldCrash.cpp
+END
+2007-04-05-PackedBitFieldsOverlap-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2007-04-05-PackedBitFieldsOverlap-2.cpp
+END
+2007-04-05-PackedBitFieldsOverlap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2007-04-05-PackedBitFieldsOverlap.cpp
+END
+integration-O2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/85929/llvm/trunk/test/FrontendC++/integration-O2.cpp
+END
+2003-09-30-ForIncrementExprBug2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-09-30-ForIncrementExprBug2.cpp
+END
+2009-08-05-ZeroInitWidth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/78289/llvm/trunk/test/FrontendC++/2009-08-05-ZeroInitWidth.cpp
+END
+2005-02-19-UnnamedVirtualThunkArgument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2005-02-19-UnnamedVirtualThunkArgument.cpp
+END
+2003-11-04-CatchLabelName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-11-04-CatchLabelName.cpp
+END
+2009-09-09-packed-layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81400/llvm/trunk/test/FrontendC++/2009-09-09-packed-layout.cpp
+END
+weak-external.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/90623/llvm/trunk/test/FrontendC++/weak-external.cpp
+END
+2006-11-30-NoCompileUnit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/90626/llvm/trunk/test/FrontendC++/2006-11-30-NoCompileUnit.cpp
+END
+2003-11-18-PtrMemConstantInitializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-11-18-PtrMemConstantInitializer.cpp
+END
+2003-08-31-StructLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-08-31-StructLayout.cpp
+END
+2004-11-27-InlineAsmFunctionRedefinition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2004-11-27-InlineAsmFunctionRedefinition.cpp
+END
+2003-10-27-VirtualBaseClassCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-10-27-VirtualBaseClassCrash.cpp
+END
+2007-05-03-VectorInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2007-05-03-VectorInit.cpp
+END
+2003-10-21-InnerClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2003-10-21-InnerClass.cpp
+END
+2009-09-04-modify-crash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/81038/llvm/trunk/test/FrontendC++/2009-09-04-modify-crash.cpp
+END
+2003-09-22-CompositeExprValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/FrontendC++/2003-09-22-CompositeExprValue.cpp
+END
+2009-03-17-dbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2009-03-17-dbg.cpp
+END
+2006-10-30-ClassBitfield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2006-10-30-ClassBitfield.cpp
+END
+2006-11-20-GlobalSymbols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendC++/2006-11-20-GlobalSymbols.cpp
+END
+2009-10-27-crash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/85290/llvm/trunk/test/FrontendC++/2009-10-27-crash.cpp
+END

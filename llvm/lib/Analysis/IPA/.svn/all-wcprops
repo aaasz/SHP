@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/91421/llvm/trunk/lib/Analysis/IPA
+END
+GlobalsModRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/89599/llvm/trunk/lib/Analysis/IPA/GlobalsModRef.cpp
+END
+Andersens.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91421/llvm/trunk/lib/Analysis/IPA/Andersens.cpp
+END
+FindUsedTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/79830/llvm/trunk/lib/Analysis/IPA/FindUsedTypes.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Analysis/IPA/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Analysis/IPA/Makefile
+END
+CallGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/85717/llvm/trunk/lib/Analysis/IPA/CallGraph.cpp
+END
+CallGraphSCCPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/82949/llvm/trunk/lib/Analysis/IPA/CallGraphSCCPass.cpp
+END

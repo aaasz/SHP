@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Bitcode
+END
+AutoUpgradeIntrinsics.ll.bc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/AutoUpgradeIntrinsics.ll.bc
+END
+sse2_loadl_pd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_loadl_pd.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/dg.exp
+END
+metadata-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/Bitcode/metadata-2.ll
+END
+metadata.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/Bitcode/metadata.ll
+END
+sse2_movl_dq.ll.bc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_movl_dq.ll.bc
+END
+sse2_unpck_pd.ll.bc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_unpck_pd.ll.bc
+END
+sse2_movs_d.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_movs_d.ll
+END
+sse2_shuf_pd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_shuf_pd.ll
+END
+sse2_punpck_qdq.ll.bc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_punpck_qdq.ll.bc
+END
+extractelement.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Bitcode/extractelement.ll
+END
+AutoUpgradeIntrinsics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/AutoUpgradeIntrinsics.ll
+END
+2009-06-11-FirstClassAggregateConstant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/73220/llvm/trunk/test/Bitcode/2009-06-11-FirstClassAggregateConstant.ll
+END
+memcpy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/79992/llvm/trunk/test/Bitcode/memcpy.ll
+END
+sse2_loadl_pd.ll.bc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_loadl_pd.ll.bc
+END
+sse2_movl_dq.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_movl_dq.ll
+END
+sse2_unpck_pd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_unpck_pd.ll
+END
+sse2_punpck_qdq.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_punpck_qdq.ll
+END
+2006-12-11-Cast-ConstExpr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/2006-12-11-Cast-ConstExpr.ll
+END
+sse2_movs_d.ll.bc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_movs_d.ll.bc
+END
+sse2_shuf_pd.ll.bc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Bitcode/sse2_shuf_pd.ll.bc
+END

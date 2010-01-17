@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/89848/llvm/trunk/lib/System/Win32
+END
+Program.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/82548/llvm/trunk/lib/System/Win32/Program.inc
+END
+Memory.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/85086/llvm/trunk/lib/System/Win32/Memory.inc
+END
+DynamicLibrary.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/74982/llvm/trunk/lib/System/Win32/DynamicLibrary.inc
+END
+RWMutex.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/73710/llvm/trunk/lib/System/Win32/RWMutex.inc
+END
+TimeValue.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/79869/llvm/trunk/lib/System/Win32/TimeValue.inc
+END
+Alarm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/System/Win32/Alarm.inc
+END
+Path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/89848/llvm/trunk/lib/System/Win32/Path.inc
+END
+Host.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/System/Win32/Host.inc
+END
+Process.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81568/llvm/trunk/lib/System/Win32/Process.inc
+END
+Signals.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/82552/llvm/trunk/lib/System/Win32/Signals.inc
+END
+Win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/System/Win32/Win32.h
+END
+Mutex.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/73709/llvm/trunk/lib/System/Win32/Mutex.inc
+END
+ThreadLocal.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/74526/llvm/trunk/lib/System/Win32/ThreadLocal.inc
+END

@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/91316/llvm/trunk/lib/Support
+END
+APSInt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Support/APSInt.cpp
+END
+ErrorHandling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/79541/llvm/trunk/lib/Support/ErrorHandling.cpp
+END
+FoldingSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/82517/llvm/trunk/lib/Support/FoldingSet.cpp
+END
+GraphWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/79883/llvm/trunk/lib/Support/GraphWriter.cpp
+END
+regstrlcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/lib/Support/regstrlcpy.c
+END
+MemoryObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81402/llvm/trunk/lib/Support/MemoryObject.cpp
+END
+Triple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/89339/llvm/trunk/lib/Support/Triple.cpp
+END
+StringPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/79852/llvm/trunk/lib/Support/StringPool.cpp
+END
+regex_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/lib/Support/regex_impl.h
+END
+regex2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/lib/Support/regex2.h
+END
+Dwarf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/75640/llvm/trunk/lib/Support/Dwarf.cpp
+END
+ManagedStatic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/73512/llvm/trunk/lib/Support/ManagedStatic.cpp
+END
+SystemUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/81568/llvm/trunk/lib/Support/SystemUtils.cpp
+END
+ConstantRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86987/llvm/trunk/lib/Support/ConstantRange.cpp
+END
+SlowOperationInformer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/79842/llvm/trunk/lib/Support/SlowOperationInformer.cpp
+END
+IsNAN.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Support/IsNAN.cpp
+END
+SmallPtrSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Support/SmallPtrSet.cpp
+END
+FileUtilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Support/FileUtilities.cpp
+END
+TargetRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81272/llvm/trunk/lib/Support/TargetRegistry.cpp
+END
+regexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/lib/Support/regexec.c
+END
+raw_ostream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91316/llvm/trunk/lib/Support/raw_ostream.cpp
+END
+regcname.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/lib/Support/regcname.h
+END
+Twine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/79437/llvm/trunk/lib/Support/Twine.cpp
+END
+Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86544/llvm/trunk/lib/Support/Debug.cpp
+END
+APFloat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/85358/llvm/trunk/lib/Support/APFloat.cpp
+END
+regcomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/81223/llvm/trunk/lib/Support/regcomp.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90447/llvm/trunk/lib/Support/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Support/Makefile
+END
+DeltaAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90957/llvm/trunk/lib/Support/DeltaAlgorithm.cpp
+END
+COPYRIGHT.regex
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/lib/Support/COPYRIGHT.regex
+END
+FormattedStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/79785/llvm/trunk/lib/Support/FormattedStream.cpp
+END
+MemoryBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90275/llvm/trunk/lib/Support/MemoryBuffer.cpp
+END
+StringRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/89372/llvm/trunk/lib/Support/StringRef.cpp
+END
+regutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/81114/llvm/trunk/lib/Support/regutils.h
+END
+StringMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/Support/StringMap.cpp
+END
+SourceMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/89627/llvm/trunk/lib/Support/SourceMgr.cpp
+END
+Statistic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/82896/llvm/trunk/lib/Support/Statistic.cpp
+END
+IsInf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Support/IsInf.cpp
+END
+Regex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/82877/llvm/trunk/lib/Support/Regex.cpp
+END
+APInt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/82355/llvm/trunk/lib/Support/APInt.cpp
+END
+regcclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/lib/Support/regcclass.h
+END
+regfree.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/lib/Support/regfree.c
+END
+Allocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/85086/llvm/trunk/lib/Support/Allocator.cpp
+END
+Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/89056/llvm/trunk/lib/Support/Timer.cpp
+END
+raw_os_ostream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/79886/llvm/trunk/lib/Support/raw_os_ostream.cpp
+END
+PluginLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/79842/llvm/trunk/lib/Support/PluginLoader.cpp
+END
+CommandLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90473/llvm/trunk/lib/Support/CommandLine.cpp
+END
+regerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/81114/llvm/trunk/lib/Support/regerror.c
+END
+regengine.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81127/llvm/trunk/lib/Support/regengine.inc
+END
+PrettyStackTrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/79456/llvm/trunk/lib/Support/PrettyStackTrace.cpp
+END
+StringExtras.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/87084/llvm/trunk/lib/Support/StringExtras.cpp
+END

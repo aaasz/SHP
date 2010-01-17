@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/85012/llvm/trunk/test/Scripts
+END
+ignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Scripts/ignore
+END
+macho-dump
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/85012/llvm/trunk/test/Scripts/macho-dump
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Scripts/README.txt
+END

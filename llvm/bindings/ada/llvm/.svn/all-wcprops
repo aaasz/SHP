@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/llvm
+END
+llvm.ads
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/llvm/llvm.ads
+END
+llvm_linktimeoptimizer_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/llvm/llvm_linktimeoptimizer_wrap.cxx
+END
+llvm_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/llvm/llvm_wrap.cxx
+END
+llvm_link_time_optimizer-binding.ads
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/llvm/llvm_link_time_optimizer-binding.ads
+END
+llvm-binding.ads
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/llvm/llvm-binding.ads
+END
+llvm_link_time_optimizer.ads
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/llvm/llvm_link_time_optimizer.ads
+END

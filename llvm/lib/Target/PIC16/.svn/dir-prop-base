@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 57
+Release
+Debug
+PIC16Gen*.inc
+Release-Asserts
+Debug+Checks
+
+END

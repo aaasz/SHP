@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90774/llvm/trunk/tools/llvmc/plugins/Base
+END
+Hooks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/90771/llvm/trunk/tools/llvmc/plugins/Base/Hooks.cpp
+END
+PluginMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/tools/llvmc/plugins/Base/PluginMain.cpp
+END
+Base.td.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/90774/llvm/trunk/tools/llvmc/plugins/Base/Base.td.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/tools/llvmc/plugins/Base/Makefile
+END

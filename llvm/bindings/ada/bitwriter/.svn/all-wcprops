@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/bitwriter
+END
+llvm_bitwriter_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/bitwriter/llvm_bitwriter_wrap.cxx
+END
+llvm_bit_writer-binding.ads
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/bitwriter/llvm_bit_writer-binding.ads
+END
+llvm_bit_writer.ads
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/79295/llvm/trunk/bindings/ada/bitwriter/llvm_bit_writer.ads
+END

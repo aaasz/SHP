@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser
+END
+objc-forcollection-neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-forcollection-neg.m
+END
+cxx-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx-reference.cpp
+END
+cxx-typeid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx-typeid.cpp
+END
+cxx0x-attributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89543/cfe/trunk/test/Parser/cxx0x-attributes.cpp
+END
+char-literal-printing.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/char-literal-printing.c
+END
+designator.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/designator.c
+END
+objc-messaging-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-messaging-1.m
+END
+objc-synthesized-recover.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-synthesized-recover.m
+END
+objc-quirks.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-quirks.m
+END
+declarators.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/76709/cfe/trunk/test/Parser/declarators.c
+END
+pointer-arithmetic.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/pointer-arithmetic.c
+END
+if-scope-c99.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/Parser/if-scope-c99.c
+END
+objc-category-neg-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-category-neg-1.m
+END
+check-syntax-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/check-syntax-1.m
+END
+goto-ident.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/goto-ident.c
+END
+cxx-variadic-func.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx-variadic-func.cpp
+END
+c-namespace.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/c-namespace.c
+END
+function-decls.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/function-decls.c
+END
+enhanced-proto-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/enhanced-proto-1.m
+END
+objc-try-catch-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-try-catch-1.m
+END
+cxx-namespace-alias.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/67908/cfe/trunk/test/Parser/cxx-namespace-alias.cpp
+END
+namelookup-bug-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/namelookup-bug-2.c
+END
+attributes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/89894/cfe/trunk/test/Parser/attributes.c
+END
+cxx-attributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/89894/cfe/trunk/test/Parser/cxx-attributes.cpp
+END
+cxx-condition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx-condition.cpp
+END
+cxx-stmt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91016/cfe/trunk/test/Parser/cxx-stmt.cpp
+END
+selector-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/selector-1.m
+END
+method-prototype-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/method-prototype-1.m
+END
+cxx-bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx-bool.cpp
+END
+prefix-attributes.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/prefix-attributes.m
+END
+struct-recursion.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/struct-recursion.c
+END
+pragma-weak.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/77573/cfe/trunk/test/Parser/pragma-weak.c
+END
+recovery.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/76709/cfe/trunk/test/Parser/recovery.c
+END
+cxx-ambig-paren-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/77076/cfe/trunk/test/Parser/cxx-ambig-paren-expr.cpp
+END
+compound_literal.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/compound_literal.c
+END
+cxx-throw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/71927/cfe/trunk/test/Parser/cxx-throw.cpp
+END
+builtin_classify_type.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/builtin_classify_type.c
+END
+check-objc2-syntax-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/check-objc2-syntax-1.m
+END
+objc-alias-printing.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-alias-printing.m
+END
+cxx-friend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/90729/cfe/trunk/test/Parser/cxx-friend.cpp
+END
+cxx-using-declaration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/90410/cfe/trunk/test/Parser/cxx-using-declaration.cpp
+END
+top-level-semi-cxx0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/79913/cfe/trunk/test/Parser/top-level-semi-cxx0x.cpp
+END
+promote_types_in_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/promote_types_in_proto.c
+END
+MicrosoftExtensions.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/90069/cfe/trunk/test/Parser/MicrosoftExtensions.c
+END
+objc-init.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-init.m
+END
+namespace-alias-attr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/73626/cfe/trunk/test/Parser/namespace-alias-attr.cpp
+END
+if-scope-c90.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/Parser/if-scope-c90.c
+END
+cxx-extern-c-array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/90986/cfe/trunk/test/Parser/cxx-extern-c-array.cpp
+END
+cxx0x-rvalue-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx0x-rvalue-reference.cpp
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/67625/cfe/trunk/test/Parser/types.c
+END
+cxx-class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx-class.cpp
+END
+argument_qualified.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/argument_qualified.c
+END
+typeof.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/72255/cfe/trunk/test/Parser/typeof.c
+END
+cxx-typeof.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx-typeof.cpp
+END
+cxx-decl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91040/cfe/trunk/test/Parser/cxx-decl.cpp
+END
+encode.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/encode.m
+END
+objc-interfaces.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-interfaces.m
+END
+offsetof.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/74388/cfe/trunk/test/Parser/offsetof.c
+END
+cxx-member-initializers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81654/cfe/trunk/test/Parser/cxx-member-initializers.cpp
+END
+argument_scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/argument_scope.c
+END
+extension.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/71967/cfe/trunk/test/Parser/extension.c
+END
+block-pointer-decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/block-pointer-decl.c
+END
+objc-foreach-syntax.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-foreach-syntax.m
+END
+expressions.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/68932/cfe/trunk/test/Parser/expressions.c
+END
+namelookup-bug-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/namelookup-bug-1.c
+END
+objc-forcollection-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-forcollection-1.m
+END
+implicit-casts.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/76709/cfe/trunk/test/Parser/implicit-casts.c
+END
+CompoundStmtScope.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/76709/cfe/trunk/test/Parser/CompoundStmtScope.c
+END
+cxx-exception-spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70389/cfe/trunk/test/Parser/cxx-exception-spec.cpp
+END
+argument_redef.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/76709/cfe/trunk/test/Parser/argument_redef.c
+END
+control-scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Parser/control-scope.c
+END
+statements.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/77780/cfe/trunk/test/Parser/statements.c
+END
+cxx-casting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/cxx-casting.cpp
+END
+builtin_types_compatible.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/builtin_types_compatible.c
+END
+expressions.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/expressions.m
+END
+traditional_arg_scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/traditional_arg_scope.c
+END
+objc-property-syntax.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-property-syntax.m
+END
+2008-10-31-parse-noop-failure.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/88749/cfe/trunk/test/Parser/2008-10-31-parse-noop-failure.c
+END
+objc-type-printing.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-type-printing.m
+END
+cxx-using-directive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/73812/cfe/trunk/test/Parser/cxx-using-directive.cpp
+END
+bad-control.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/76709/cfe/trunk/test/Parser/bad-control.c
+END
+parmvardecl_conversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/parmvardecl_conversion.c
+END
+objc-messaging-neg-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-messaging-neg-1.m
+END
+block-block-storageclass.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/Parser/block-block-storageclass.c
+END
+cxx0x-literal-operators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/90064/cfe/trunk/test/Parser/cxx0x-literal-operators.cpp
+END
+cxx-template-decl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/90066/cfe/trunk/test/Parser/cxx-template-decl.cpp
+END
+asm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/asm.c
+END
+pragma-pack.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/pragma-pack.c
+END
+pointer_promotion.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/76858/cfe/trunk/test/Parser/pointer_promotion.c
+END
+check_cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Parser/check_cast.c
+END
+objc-forcollection-neg-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-forcollection-neg-2.m
+END
+objc-missing-impl.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91300/cfe/trunk/test/Parser/objc-missing-impl.m
+END

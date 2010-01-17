@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/84417/cfe/trunk/test/CXX/class/class.friend
+END
+p1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/84053/cfe/trunk/test/CXX/class/class.friend/p1.cpp
+END
+p2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/82848/cfe/trunk/test/CXX/class/class.friend/p2.cpp
+END
+p6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/78274/cfe/trunk/test/CXX/class/class.friend/p6.cpp
+END
+p1-ambiguous.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/80636/cfe/trunk/test/CXX/class/class.friend/p1-ambiguous.cpp
+END

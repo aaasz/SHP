@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/91430/cfe/trunk/lib/Frontend
+END
+InitHeaderSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91370/cfe/trunk/lib/Frontend/InitHeaderSearch.cpp
+END
+PCHWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/91198/cfe/trunk/lib/Frontend/PCHWriter.cpp
+END
+FixItRewriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90441/cfe/trunk/lib/Frontend/FixItRewriter.cpp
+END
+InitPreprocessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/90596/cfe/trunk/lib/Frontend/InitPreprocessor.cpp
+END
+RewriteBlocks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/82501/cfe/trunk/lib/Frontend/RewriteBlocks.cpp
+END
+PlistDiagnostics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/90478/cfe/trunk/lib/Frontend/PlistDiagnostics.cpp
+END
+PCHReaderDecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90965/cfe/trunk/lib/Frontend/PCHReaderDecl.cpp
+END
+GeneratePCH.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90033/cfe/trunk/lib/Frontend/GeneratePCH.cpp
+END
+ASTConsumers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90838/cfe/trunk/lib/Frontend/ASTConsumers.cpp
+END
+ASTUnit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91370/cfe/trunk/lib/Frontend/ASTUnit.cpp
+END
+Backend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91229/cfe/trunk/lib/Frontend/Backend.cpp
+END
+DeclXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/lib/Frontend/DeclXML.cpp
+END
+Warnings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/86968/cfe/trunk/lib/Frontend/Warnings.cpp
+END
+DiagChecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90441/cfe/trunk/lib/Frontend/DiagChecker.cpp
+END
+FrontendOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89100/cfe/trunk/lib/Frontend/FrontendOptions.cpp
+END
+VerifyDiagnosticsClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/90110/cfe/trunk/lib/Frontend/VerifyDiagnosticsClient.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/89919/cfe/trunk/lib/Frontend/CMakeLists.txt
+END
+HTMLDiagnostics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90033/cfe/trunk/lib/Frontend/HTMLDiagnostics.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/83582/cfe/trunk/lib/Frontend/Makefile
+END
+DocumentXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/88969/cfe/trunk/lib/Frontend/DocumentXML.cpp
+END
+CompilerInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91176/cfe/trunk/lib/Frontend/CompilerInstance.cpp
+END
+AnalysisConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91430/cfe/trunk/lib/Frontend/AnalysisConsumer.cpp
+END
+PCHWriterDecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90965/cfe/trunk/lib/Frontend/PCHWriterDecl.cpp
+END
+FrontendActions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90437/cfe/trunk/lib/Frontend/FrontendActions.cpp
+END
+TypeXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/lib/Frontend/TypeXML.cpp
+END
+CompilerInvocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/91370/cfe/trunk/lib/Frontend/CompilerInvocation.cpp
+END
+PCHReaderStmt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90848/cfe/trunk/lib/Frontend/PCHReaderStmt.cpp
+END
+StmtXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/90033/cfe/trunk/lib/Frontend/StmtXML.cpp
+END
+PrintParserCallbacks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/89817/cfe/trunk/lib/Frontend/PrintParserCallbacks.cpp
+END
+FrontendAction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91207/cfe/trunk/lib/Frontend/FrontendAction.cpp
+END
+DependencyFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90033/cfe/trunk/lib/Frontend/DependencyFile.cpp
+END
+PCHWriterStmt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90743/cfe/trunk/lib/Frontend/PCHWriterStmt.cpp
+END
+RewriteObjC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90743/cfe/trunk/lib/Frontend/RewriteObjC.cpp
+END
+HTMLPrint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/91205/cfe/trunk/lib/Frontend/HTMLPrint.cpp
+END
+RewriteTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/lib/Frontend/RewriteTest.cpp
+END
+TextDiagnosticBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/90125/cfe/trunk/lib/Frontend/TextDiagnosticBuffer.cpp
+END
+LangStandards.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91207/cfe/trunk/lib/Frontend/LangStandards.cpp
+END
+RewriteMacros.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90110/cfe/trunk/lib/Frontend/RewriteMacros.cpp
+END
+CacheTokens.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90110/cfe/trunk/lib/Frontend/CacheTokens.cpp
+END
+PrintPreprocessedOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/90927/cfe/trunk/lib/Frontend/PrintPreprocessedOutput.cpp
+END
+PCHReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/91207/cfe/trunk/lib/Frontend/PCHReader.cpp
+END
+TextDiagnosticPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/90703/cfe/trunk/lib/Frontend/TextDiagnosticPrinter.cpp
+END

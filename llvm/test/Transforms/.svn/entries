@@ -1,0 +1,169 @@
+10
+
+dir
+91430
+http://llvm.org/svn/llvm-project/llvm/trunk/test/Transforms
+http://llvm.org/svn/llvm-project
+
+
+
+2009-12-14T19:07:25.977420Z
+91312
+echristo
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+BlockPlacement
+dir
+
+GlobalOpt
+dir
+
+LICM
+dir
+
+SRETPromotion
+dir
+
+LoopSimplify
+dir
+
+ConstProp
+dir
+
+ScalarRepl
+dir
+
+ABCD
+dir
+
+ArgumentPromotion
+dir
+
+ADCE
+dir
+
+TailCallElim
+dir
+
+LoopDeletion
+dir
+
+LoopUnswitch
+dir
+
+SSI
+dir
+
+IndVarSimplify
+dir
+
+LoopUnroll
+dir
+
+ConstantMerge
+dir
+
+LowerSwitch
+dir
+
+LowerSetJmp
+dir
+
+MemCpyOpt
+dir
+
+LoopStrengthReduce
+dir
+
+IPConstantProp
+dir
+
+CodeGenPrepare
+dir
+
+Internalize
+dir
+
+SCCP
+dir
+
+LoopRotate
+dir
+
+GVN
+dir
+
+Mem2Reg
+dir
+
+DeadArgElim
+dir
+
+BranchFolding
+dir
+
+JumpThreading
+dir
+
+Reassociate
+dir
+
+SimplifyLibCalls
+dir
+
+TailDup
+dir
+
+DeadStoreElimination
+dir
+
+FunctionAttrs
+dir
+
+LowerInvoke
+dir
+
+LCSSA
+dir
+
+CodeExtractor
+dir
+
+PruneEH
+dir
+
+InstCombine
+dir
+
+StripSymbols
+dir
+
+MergeFunc
+dir
+
+GlobalDCE
+dir
+
+SimplifyCFG
+dir
+
+LoopIndexSplit
+dir
+
+Inline
+dir
+

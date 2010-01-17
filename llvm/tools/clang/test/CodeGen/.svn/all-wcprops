@@ -1,0 +1,1307 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/CodeGen
+END
+variable-array.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/69567/cfe/trunk/test/CodeGen/variable-array.c
+END
+conditional.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/89023/cfe/trunk/test/CodeGen/conditional.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/init.c
+END
+address-space-cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/address-space-cast.c
+END
+decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/90883/cfe/trunk/test/CodeGen/decl.c
+END
+complex.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/67889/cfe/trunk/test/CodeGen/complex.c
+END
+merge-statics.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/merge-statics.c
+END
+functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/functions.c
+END
+opaque-pointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/opaque-pointer.c
+END
+array.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/77089/cfe/trunk/test/CodeGen/array.c
+END
+struct-comma.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/struct-comma.c
+END
+global-with-initialiser.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/CodeGen/global-with-initialiser.c
+END
+shared-string-literals.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/shared-string-literals.c
+END
+int-to-pointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/int-to-pointer.c
+END
+typedef-func.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/typedef-func.c
+END
+2009-05-22-callingconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/73672/cfe/trunk/test/CodeGen/2009-05-22-callingconv.c
+END
+pragma-weak.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81238/cfe/trunk/test/CodeGen/pragma-weak.c
+END
+2009-10-20-GlobalDebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86318/cfe/trunk/test/CodeGen/2009-10-20-GlobalDebug.c
+END
+rdr-6098585-unsigned-caserange.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/rdr-6098585-unsigned-caserange.c
+END
+static-forward-decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/static-forward-decl.c
+END
+2007-11-29-ArraySizeFromInitializer.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2007-11-29-ArraySizeFromInitializer.c
+END
+attr-cleanup.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/CodeGen/attr-cleanup.c
+END
+x86_64-arguments.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/x86_64-arguments.c
+END
+cfstring2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/69135/cfe/trunk/test/CodeGen/cfstring2.c
+END
+call-knr-indirect.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/73514/cfe/trunk/test/CodeGen/call-knr-indirect.c
+END
+const-label-addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/const-label-addr.c
+END
+address-space-field2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/83578/cfe/trunk/test/CodeGen/address-space-field2.c
+END
+pragma-pack-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/pragma-pack-2.c
+END
+weak-incomplete.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/72408/cfe/trunk/test/CodeGen/weak-incomplete.c
+END
+struct-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/CodeGen/struct-init.c
+END
+2008-07-30-redef-of-bitcasted-decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/2008-07-30-redef-of-bitcasted-decl.c
+END
+const-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/89609/cfe/trunk/test/CodeGen/const-init.c
+END
+conditional-gnu-ext.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/conditional-gnu-ext.c
+END
+PR3709-int-to-pointer-sign.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/PR3709-int-to-pointer-sign.c
+END
+alias.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/alias.c
+END
+struct-x86-darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/struct-x86-darwin.c
+END
+address-space-compound-literal.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/80131/cfe/trunk/test/CodeGen/address-space-compound-literal.c
+END
+attr-nodebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/attr-nodebug.c
+END
+emit-all-decls.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/emit-all-decls.c
+END
+x86_32-arguments.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/x86_32-arguments.c
+END
+inline2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/inline2.c
+END
+2008-09-22-bad-switch-type.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2008-09-22-bad-switch-type.c
+END
+rdr-6098585-default-fallthrough-to-caserange.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/rdr-6098585-default-fallthrough-to-caserange.c
+END
+enum.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/enum.c
+END
+function-attributes.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/85278/cfe/trunk/test/CodeGen/function-attributes.c
+END
+c-strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/c-strings.c
+END
+designated-initializers.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/designated-initializers.c
+END
+blocks-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/CodeGen/blocks-1.c
+END
+offsetof.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/offsetof.c
+END
+unwind-attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/unwind-attr.c
+END
+blocks.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/blocks.c
+END
+dllimport-dllexport.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/dllimport-dllexport.c
+END
+align-local.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/align-local.c
+END
+vla.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/72585/cfe/trunk/test/CodeGen/vla.c
+END
+2009-05-28-const-typedef.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/72552/cfe/trunk/test/CodeGen/2009-05-28-const-typedef.c
+END
+statements.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/83957/cfe/trunk/test/CodeGen/statements.c
+END
+pointer-to-int.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/pointer-to-int.c
+END
+builtin-attributes.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81756/cfe/trunk/test/CodeGen/builtin-attributes.c
+END
+PR2413-void-address-cast-error.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/PR2413-void-address-cast-error.c
+END
+2008-08-19-cast-of-typedef.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/2008-08-19-cast-of-typedef.c
+END
+regparm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/CodeGen/regparm.c
+END
+target-data.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/target-data.c
+END
+always_inline.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/always_inline.c
+END
+OpaqueStruct.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/OpaqueStruct.c
+END
+string-literal.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/string-literal.c
+END
+PR2643-null-store-to-bitfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/PR2643-null-store-to-bitfield.c
+END
+2009-06-01-addrofknr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/76690/cfe/trunk/test/CodeGen/2009-06-01-addrofknr.c
+END
+bitfield-assign.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/bitfield-assign.c
+END
+illegal-UTF8.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/71776/cfe/trunk/test/CodeGen/illegal-UTF8.m
+END
+arm_asm_clobber.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90872/cfe/trunk/test/CodeGen/arm_asm_clobber.c
+END
+dostmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/dostmt.c
+END
+bool-bitfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/bool-bitfield.c
+END
+builtin-rename.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/builtin-rename.c
+END
+pointer-cmp-type.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/pointer-cmp-type.c
+END
+stdcall-fastcall.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/stdcall-fastcall.c
+END
+func-return-member.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/89465/cfe/trunk/test/CodeGen/func-return-member.c
+END
+volatile.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/volatile.c
+END
+sizeof-vla.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/sizeof-vla.c
+END
+asm-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/asm-2.c
+END
+cfstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/cfstring.c
+END
+asm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/asm.c
+END
+address-space-field3.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/83578/cfe/trunk/test/CodeGen/address-space-field3.c
+END
+bitfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/bitfield.c
+END
+function-decay.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/CodeGen/function-decay.m
+END
+pragma-pack-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/pragma-pack-3.c
+END
+attr-noinline.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/attr-noinline.c
+END
+extern-block-var.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/extern-block-var.c
+END
+struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/CodeGen/struct.c
+END
+stack-protector.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90072/cfe/trunk/test/CodeGen/stack-protector.c
+END
+2009-08-14-vararray-crash.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/79071/cfe/trunk/test/CodeGen/2009-08-14-vararray-crash.c
+END
+weak-global.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/weak-global.c
+END
+cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/cast.c
+END
+cxx-default-arg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/cxx-default-arg.cpp
+END
+bool-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/bool-init.c
+END
+2009-03-22-increment-bitfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2009-03-22-increment-bitfield.c
+END
+mandel.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/CodeGen/mandel.c
+END
+boolassign.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/76638/cfe/trunk/test/CodeGen/boolassign.c
+END
+switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/89465/cfe/trunk/test/CodeGen/switch.c
+END
+kr-style-block.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/68878/cfe/trunk/test/CodeGen/kr-style-block.c
+END
+blocks-seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/blocks-seq.c
+END
+pointer-arithmetic.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/pointer-arithmetic.c
+END
+2009-07-31-DbgDeclare.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/77698/cfe/trunk/test/CodeGen/2009-07-31-DbgDeclare.c
+END
+blocks-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/89153/cfe/trunk/test/CodeGen/blocks-2.c
+END
+builtins-x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/builtins-x86.c
+END
+packed-union.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/packed-union.c
+END
+address-space.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/address-space.c
+END
+builtin-stackaddress.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/builtin-stackaddress.c
+END
+rdr-6098585-fallthrough-to-empty-range.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/rdr-6098585-fallthrough-to-empty-range.c
+END
+builtinmemcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/builtinmemcpy.c
+END
+parameter-passing.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/parameter-passing.c
+END
+static-forward-decl-fun.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/static-forward-decl-fun.c
+END
+compound.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/compound.c
+END
+attributes.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/86801/cfe/trunk/test/CodeGen/attributes.c
+END
+cxx-condition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/cxx-condition.cpp
+END
+union.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/union.c
+END
+PR3613-static-decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/PR3613-static-decl.c
+END
+2008-02-08-bitfield-bug.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2008-02-08-bitfield-bug.c
+END
+merge-attrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/merge-attrs.c
+END
+lineno-dbginfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/lineno-dbginfo.c
+END
+2008-07-30-implicit-initialization.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/2008-07-30-implicit-initialization.c
+END
+rdr-6098585-empty-case-range.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/rdr-6098585-empty-case-range.c
+END
+builtin-count-zeros.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/builtin-count-zeros.c
+END
+2008-07-21-mixed-var-fn-decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/85154/cfe/trunk/test/CodeGen/2008-07-21-mixed-var-fn-decl.c
+END
+vfprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/90936/cfe/trunk/test/CodeGen/vfprintf.c
+END
+writable-strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/writable-strings.c
+END
+typedef.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/typedef.c
+END
+2008-12-02-logical-or-fold.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2008-12-02-logical-or-fold.c
+END
+constant-comparison.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/constant-comparison.c
+END
+compound-type.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/compound-type.c
+END
+2008-08-04-void-pointer-arithmetic.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/2008-08-04-void-pointer-arithmetic.c
+END
+PR3589-freestanding-libcalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/CodeGen/PR3589-freestanding-libcalls.c
+END
+bitfield-promote.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/bitfield-promote.c
+END
+builtinshufflevector.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/builtinshufflevector.c
+END
+blocks-aligned-byref-variable.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/blocks-aligned-byref-variable.c
+END
+linkage-redecl.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/linkage-redecl.c
+END
+flexible-array-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/89514/cfe/trunk/test/CodeGen/flexible-array-init.c
+END
+attr-used.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/attr-used.c
+END
+unreachable.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/unreachable.c
+END
+2009-06-14-anonymous-union-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/73349/cfe/trunk/test/CodeGen/2009-06-14-anonymous-union-init.c
+END
+atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/atomic.c
+END
+cxx-value-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/cxx-value-init.cpp
+END
+compound-literal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/compound-literal.c
+END
+2008-07-29-override-alias-decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/86800/cfe/trunk/test/CodeGen/2008-07-29-override-alias-decl.c
+END
+inline.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/inline.c
+END
+object-size.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/90786/cfe/trunk/test/CodeGen/object-size.c
+END
+debug-info.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/debug-info.c
+END
+var-align.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/var-align.c
+END
+address-space-field4.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/83578/cfe/trunk/test/CodeGen/address-space-field4.c
+END
+x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/x86.c
+END
+constructor-attribute.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/CodeGen/constructor-attribute.c
+END
+builtin-nanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/builtin-nanf.c
+END
+struct-passing.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/struct-passing.c
+END
+2008-02-07-bitfield-bug.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2008-02-07-bitfield-bug.c
+END
+visibility.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90072/cfe/trunk/test/CodeGen/visibility.c
+END
+PR2743-reference-missing-static.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/PR2743-reference-missing-static.c
+END
+ext-vector-shuffle.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/ext-vector-shuffle.c
+END
+cleanup-stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/cleanup-stack.c
+END
+trapv.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/trapv.c
+END
+init-with-member-expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/CodeGen/init-with-member-expr.c
+END
+overloadable.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/overloadable.c
+END
+ext-vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/76726/cfe/trunk/test/CodeGen/ext-vector.c
+END
+PR3130-cond-constant.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/PR3130-cond-constant.c
+END
+static-order.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/89465/cfe/trunk/test/CodeGen/static-order.c
+END
+exprs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/90736/cfe/trunk/test/CodeGen/exprs.c
+END
+2008-02-26-inline-asm-bug.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2008-02-26-inline-asm-bug.c
+END
+2008-07-22-packed-bitfield-access.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2008-07-22-packed-bitfield-access.c
+END
+rdr-6098585-default-after-caserange.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/rdr-6098585-default-after-caserange.c
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/types.c
+END
+PR2001-bitfield-reload.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/89610/cfe/trunk/test/CodeGen/PR2001-bitfield-reload.c
+END
+bool-convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/bool-convert.c
+END
+union-init2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/85504/cfe/trunk/test/CodeGen/union-init2.c
+END
+2008-07-31-asm-labels.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/2008-07-31-asm-labels.c
+END
+asm-inout.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/asm-inout.c
+END
+private-extern.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/private-extern.c
+END
+globalinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/CodeGen/globalinit.c
+END
+PR5060-align.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/82868/cfe/trunk/test/CodeGen/PR5060-align.c
+END
+func-decl-cleanup.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/func-decl-cleanup.c
+END
+2009-04-23-dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/79991/cfe/trunk/test/CodeGen/2009-04-23-dbg.c
+END
+global-decls.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/global-decls.c
+END
+builtins.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/CodeGen/builtins.c
+END
+builtin-memfns.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/builtin-memfns.c
+END
+union-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/CodeGen/union-init.c
+END
+struct-copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/struct-copy.c
+END
+global-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/78583/cfe/trunk/test/CodeGen/global-init.c
+END
+incomplete-function-type.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/89465/cfe/trunk/test/CodeGen/incomplete-function-type.c
+END
+no-common.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/no-common.c
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/89498/cfe/trunk/test/CodeGen/vector.c
+END
+2009-01-21-invalid-debug-info.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/CodeGen/2009-01-21-invalid-debug-info.m
+END
+mangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/85400/cfe/trunk/test/CodeGen/mangle.c
+END
+darwin-string-literals.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/darwin-string-literals.c
+END
+static-local-union.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/static-local-union.c
+END
+indirect-goto.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/85487/cfe/trunk/test/CodeGen/indirect-goto.c
+END
+pascal-string.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/68181/cfe/trunk/test/CodeGen/pascal-string.c
+END
+builtin-unwind-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/85154/cfe/trunk/test/CodeGen/builtin-unwind-init.c
+END
+2008-07-17-no-emit-on-error.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/89465/cfe/trunk/test/CodeGen/2008-07-17-no-emit-on-error.c
+END
+2008-07-31-promotion-of-compound-pointer-arithmetic.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/2008-07-31-promotion-of-compound-pointer-arithmetic.c
+END
+staticinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/staticinit.c
+END
+2008-08-25-incompatible-cond-expr.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/CodeGen/2008-08-25-incompatible-cond-expr.m
+END
+volatile-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/CodeGen/volatile-1.c
+END
+thread-specifier.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/69553/cfe/trunk/test/CodeGen/thread-specifier.c
+END
+alignof.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/alignof.c
+END
+address-space-field1.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/86800/cfe/trunk/test/CodeGen/address-space-field1.c
+END
+whilestmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/whilestmt.c
+END
+pragma-pack-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/76884/cfe/trunk/test/CodeGen/pragma-pack-1.c
+END
+predefined-expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/CodeGen/predefined-expr.c
+END
+arm-arguments.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/89501/cfe/trunk/test/CodeGen/arm-arguments.c
+END
+2008-07-22-bitfield-init-after-zero-len-array.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/90071/cfe/trunk/test/CodeGen/2008-07-22-bitfield-init-after-zero-len-array.c
+END
+bitfield-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/71194/cfe/trunk/test/CodeGen/bitfield-init.c
+END
+empty-union-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/empty-union-init.c
+END
+libcalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/89315/cfe/trunk/test/CodeGen/libcalls.c
+END
+PR4611-bitfield-layout.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/CodeGen/PR4611-bitfield-layout.c
+END
+kr-func-promote.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/kr-func-promote.c
+END
+long-double-x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/CodeGen/long-double-x86.c
+END
+tentative-decls.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86432/cfe/trunk/test/CodeGen/tentative-decls.c
+END
+palignr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/91269/cfe/trunk/test/CodeGen/palignr.c
+END
+rdr-6732143-dangling-block-reference.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/CodeGen/rdr-6732143-dangling-block-reference.m
+END
+uint128_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70480/cfe/trunk/test/CodeGen/uint128_t.c
+END

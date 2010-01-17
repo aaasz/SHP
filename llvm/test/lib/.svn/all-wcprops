@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/llvm-project/!svn/ver/81664/llvm/trunk/test/lib
+END
+llvm.exp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/81664/llvm/trunk/test/lib/llvm.exp
+END
+llvm2cpp.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/79994/llvm/trunk/test/lib/llvm2cpp.exp
+END

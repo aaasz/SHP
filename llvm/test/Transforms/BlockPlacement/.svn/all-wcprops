@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/BlockPlacement
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/BlockPlacement/dg.exp
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/BlockPlacement/basictest.ll
+END

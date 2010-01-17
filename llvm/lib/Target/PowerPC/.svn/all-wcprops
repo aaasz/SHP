@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/90634/llvm/trunk/lib/Target/PowerPC
+END
+PPCMachineFunctionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/72969/llvm/trunk/lib/Target/PowerPC/PPCMachineFunctionInfo.h
+END
+PPCBranchSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/85043/llvm/trunk/lib/Target/PowerPC/PPCBranchSelector.cpp
+END
+README_ALTIVEC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/README_ALTIVEC.txt
+END
+PPC.td
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPC.td
+END
+PPCCodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/85043/llvm/trunk/lib/Target/PowerPC/PPCCodeEmitter.cpp
+END
+PPCMachOWriterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCMachOWriterInfo.h
+END
+PPCRegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/87027/llvm/trunk/lib/Target/PowerPC/PPCRegisterInfo.h
+END
+PPCSubtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/86397/llvm/trunk/lib/Target/PowerPC/PPCSubtarget.h
+END
+PPCJITInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89715/llvm/trunk/lib/Target/PowerPC/PPCJITInfo.h
+END
+PPCISelLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86050/llvm/trunk/lib/Target/PowerPC/PPCISelLowering.h
+END
+PPCInstrBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/75971/llvm/trunk/lib/Target/PowerPC/PPCInstrBuilder.h
+END
+PPCFrameInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/89824/llvm/trunk/lib/Target/PowerPC/PPCFrameInfo.h
+END
+PPCScheduleG3.td
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCScheduleG3.td
+END
+PPCMCAsmInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/89819/llvm/trunk/lib/Target/PowerPC/PPCMCAsmInfo.cpp
+END
+PPCScheduleG5.td
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCScheduleG5.td
+END
+PPCTargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/78802/llvm/trunk/lib/Target/PowerPC/PPCTargetMachine.h
+END
+PPCInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/90634/llvm/trunk/lib/Target/PowerPC/PPCInstrInfo.h
+END
+PPCPredicates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/75640/llvm/trunk/lib/Target/PowerPC/PPCPredicates.cpp
+END
+PPCHazardRecognizers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/79833/llvm/trunk/lib/Target/PowerPC/PPCHazardRecognizers.cpp
+END
+PPCRelocations.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCRelocations.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/75751/llvm/trunk/lib/Target/PowerPC/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/80584/llvm/trunk/lib/Target/PowerPC/CMakeLists.txt
+END
+PPCInstrAltivec.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/73009/llvm/trunk/lib/Target/PowerPC/PPCInstrAltivec.td
+END
+PPCInstr64Bit.td
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/86050/llvm/trunk/lib/Target/PowerPC/PPCInstr64Bit.td
+END
+PPCSubtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/78742/llvm/trunk/lib/Target/PowerPC/PPCSubtarget.cpp
+END
+PPCInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/89711/llvm/trunk/lib/Target/PowerPC/PPCInstrInfo.td
+END
+PPCMachOWriterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/75640/llvm/trunk/lib/Target/PowerPC/PPCMachOWriterInfo.cpp
+END
+PPCRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/89811/llvm/trunk/lib/Target/PowerPC/PPCRegisterInfo.cpp
+END
+PPCJITInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/89715/llvm/trunk/lib/Target/PowerPC/PPCJITInfo.cpp
+END
+PPCISelLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/89724/llvm/trunk/lib/Target/PowerPC/PPCISelLowering.cpp
+END
+PPCPerfectShuffle.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCPerfectShuffle.h
+END
+PPCInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/90634/llvm/trunk/lib/Target/PowerPC/PPCInstrInfo.cpp
+END
+PPCTargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/Target/PowerPC/PPCTargetMachine.cpp
+END
+PPCScheduleG4.td
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCScheduleG4.td
+END
+PPCInstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCInstrFormats.td
+END
+PPCScheduleG4Plus.td
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCScheduleG4Plus.td
+END
+PPCMCAsmInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/79773/llvm/trunk/lib/Target/PowerPC/PPCMCAsmInfo.h
+END
+PPCSchedule.td
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCSchedule.td
+END
+PPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/77052/llvm/trunk/lib/Target/PowerPC/PPC.h
+END
+PPCCallingConv.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/74766/llvm/trunk/lib/Target/PowerPC/PPCCallingConv.td
+END
+PPCRegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/82266/llvm/trunk/lib/Target/PowerPC/PPCRegisterInfo.td
+END
+PPCISelDAGToDAG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/89724/llvm/trunk/lib/Target/PowerPC/PPCISelDAGToDAG.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/76920/llvm/trunk/lib/Target/PowerPC/README.txt
+END
+PPCPredicates.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCPredicates.h
+END
+PPCHazardRecognizers.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/PPCHazardRecognizers.h
+END

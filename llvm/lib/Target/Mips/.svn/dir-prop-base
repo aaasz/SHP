@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 49
+*.inc
+Debug
+Release
+Release-Asserts
+Debug+Checks
+
+END

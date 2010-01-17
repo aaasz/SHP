@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/81155/llvm/trunk/test/BugPoint
+END
+crash-narrowfunctiontest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81155/llvm/trunk/test/BugPoint/crash-narrowfunctiontest.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/BugPoint/dg.exp
+END
+remove_arguments_test.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81155/llvm/trunk/test/BugPoint/remove_arguments_test.ll
+END

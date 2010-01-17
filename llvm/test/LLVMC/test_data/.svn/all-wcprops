@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/86450/llvm/trunk/test/LLVMC/test_data
+END
+together.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86450/llvm/trunk/test/LLVMC/test_data/together.c
+END
+false.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81709/llvm/trunk/test/LLVMC/test_data/false.c
+END
+false.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86450/llvm/trunk/test/LLVMC/test_data/false.cpp
+END
+false2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86450/llvm/trunk/test/LLVMC/test_data/false2.cpp
+END

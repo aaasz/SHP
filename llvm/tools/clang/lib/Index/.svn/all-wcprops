@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/llvm-project/!svn/ver/90808/cfe/trunk/lib/Index
+END
+Indexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/lib/Index/Indexer.cpp
+END
+ProgramImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/lib/Index/ProgramImpl.h
+END
+Handlers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/77535/cfe/trunk/lib/Index/Handlers.cpp
+END
+GlobalSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/84436/cfe/trunk/lib/Index/GlobalSelector.cpp
+END
+EntityImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/lib/Index/EntityImpl.h
+END
+Program.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/77526/cfe/trunk/lib/Index/Program.cpp
+END
+ResolveLocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90743/cfe/trunk/lib/Index/ResolveLocation.cpp
+END
+ASTVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/90808/cfe/trunk/lib/Index/ASTVisitor.h
+END
+Entity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/84436/cfe/trunk/lib/Index/Entity.cpp
+END
+SelectorMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90044/cfe/trunk/lib/Index/SelectorMap.cpp
+END
+ASTLocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/84386/cfe/trunk/lib/Index/ASTLocation.cpp
+END
+IndexProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/77524/cfe/trunk/lib/Index/IndexProvider.cpp
+END
+DeclReferenceMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90044/cfe/trunk/lib/Index/DeclReferenceMap.cpp
+END
+Analyzer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/90044/cfe/trunk/lib/Index/Analyzer.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/90443/cfe/trunk/lib/Index/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/83582/cfe/trunk/lib/Index/Makefile
+END
+CallGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/90424/cfe/trunk/lib/Index/CallGraph.cpp
+END

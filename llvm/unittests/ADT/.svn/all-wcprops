@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/90447/llvm/trunk/unittests/ADT
+END
+TripleTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/79359/llvm/trunk/unittests/ADT/TripleTest.cpp
+END
+SmallStringTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/79451/llvm/trunk/unittests/ADT/SmallStringTest.cpp
+END
+DeltaAlgorithmTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/90447/llvm/trunk/unittests/ADT/DeltaAlgorithmTest.cpp
+END
+StringRefTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89357/llvm/trunk/unittests/ADT/StringRefTest.cpp
+END
+StringMapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/85086/llvm/trunk/unittests/ADT/StringMapTest.cpp
+END
+ValueMapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/89385/llvm/trunk/unittests/ADT/ValueMapTest.cpp
+END
+DenseSetTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/unittests/ADT/DenseSetTest.cpp
+END
+APIntTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/83962/llvm/trunk/unittests/ADT/APIntTest.cpp
+END
+SparseBitVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/77025/llvm/trunk/unittests/ADT/SparseBitVectorTest.cpp
+END
+TwineTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/77617/llvm/trunk/unittests/ADT/TwineTest.cpp
+END
+APFloatTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/80965/llvm/trunk/unittests/ADT/APFloatTest.cpp
+END
+SmallVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/79433/llvm/trunk/unittests/ADT/SmallVectorTest.cpp
+END
+ImmutableSetTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/unittests/ADT/ImmutableSetTest.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/unittests/ADT/Makefile
+END
+DenseMapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86636/llvm/trunk/unittests/ADT/DenseMapTest.cpp
+END

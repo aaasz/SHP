@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/89645/llvm/trunk/include/llvm/Transforms/Utils
+END
+Cloning.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/86748/llvm/trunk/include/llvm/Transforms/Utils/Cloning.h
+END
+Local.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/89297/llvm/trunk/include/llvm/Transforms/Utils/Local.h
+END
+SSAUpdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/85009/llvm/trunk/include/llvm/Transforms/Utils/SSAUpdater.h
+END
+BasicBlockUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/85733/llvm/trunk/include/llvm/Transforms/Utils/BasicBlockUtils.h
+END
+SSI.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/86186/llvm/trunk/include/llvm/Transforms/Utils/SSI.h
+END
+ValueMapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/85020/llvm/trunk/include/llvm/Transforms/Utils/ValueMapper.h
+END
+BasicInliner.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/83998/llvm/trunk/include/llvm/Transforms/Utils/BasicInliner.h
+END
+AddrModeMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/77033/llvm/trunk/include/llvm/Transforms/Utils/AddrModeMatcher.h
+END
+UnifyFunctionExitNodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/include/llvm/Transforms/Utils/UnifyFunctionExitNodes.h
+END
+PromoteMemToReg.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/89645/llvm/trunk/include/llvm/Transforms/Utils/PromoteMemToReg.h
+END
+UnrollLoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/75529/llvm/trunk/include/llvm/Transforms/Utils/UnrollLoop.h
+END
+FunctionUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/75529/llvm/trunk/include/llvm/Transforms/Utils/FunctionUtils.h
+END

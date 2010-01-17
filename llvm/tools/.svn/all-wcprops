@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/llvm-project/!svn/ver/91404/llvm/trunk/tools
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/83288/llvm/trunk/tools/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/83288/llvm/trunk/tools/CMakeLists.txt
+END

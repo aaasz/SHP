@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/91232/llvm/trunk/lib/Target/MSP430
+END
+MSP430ISelDAGToDAG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/91232/llvm/trunk/lib/Target/MSP430/MSP430ISelDAGToDAG.cpp
+END
+MSP430MachineFunctionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/90740/llvm/trunk/lib/Target/MSP430/MSP430MachineFunctionInfo.h
+END
+MSP430Subtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/77918/llvm/trunk/lib/Target/MSP430/MSP430Subtarget.cpp
+END
+MSP430InstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/91221/llvm/trunk/lib/Target/MSP430/MSP430InstrInfo.td
+END
+MSP430RegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/90739/llvm/trunk/lib/Target/MSP430/MSP430RegisterInfo.cpp
+END
+MSP430ISelLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/91221/llvm/trunk/lib/Target/MSP430/MSP430ISelLowering.cpp
+END
+MSP430.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86379/llvm/trunk/lib/Target/MSP430/MSP430.td
+END
+MSP430Subtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/77918/llvm/trunk/lib/Target/MSP430/MSP430Subtarget.h
+END
+MSP430RegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/87027/llvm/trunk/lib/Target/MSP430/MSP430RegisterInfo.h
+END
+MSP430ISelLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/91221/llvm/trunk/lib/Target/MSP430/MSP430ISelLowering.h
+END
+MSP430TargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/86397/llvm/trunk/lib/Target/MSP430/MSP430TargetMachine.cpp
+END
+MSP430InstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/90634/llvm/trunk/lib/Target/MSP430/MSP430InstrInfo.cpp
+END
+MSP430MCAsmInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/89571/llvm/trunk/lib/Target/MSP430/MSP430MCAsmInfo.cpp
+END
+MSP430TargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/78802/llvm/trunk/lib/Target/MSP430/MSP430TargetMachine.h
+END
+MSP430InstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/MSP430/MSP430InstrFormats.td
+END
+MSP430InstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/90634/llvm/trunk/lib/Target/MSP430/MSP430InstrInfo.h
+END
+MSP430MCAsmInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/79763/llvm/trunk/lib/Target/MSP430/MSP430MCAsmInfo.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86381/llvm/trunk/lib/Target/MSP430/README.txt
+END
+MSP430CallingConv.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/MSP430/MSP430CallingConv.td
+END
+MSP430.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/84773/llvm/trunk/lib/Target/MSP430/MSP430.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/80584/llvm/trunk/lib/Target/MSP430/CMakeLists.txt
+END
+MSP430RegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/MSP430/MSP430RegisterInfo.td
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/79012/llvm/trunk/lib/Target/MSP430/Makefile
+END

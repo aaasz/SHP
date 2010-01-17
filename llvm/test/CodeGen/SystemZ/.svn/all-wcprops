@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ
+END
+07-SelectCC.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/07-SelectCC.ll
+END
+02-RetOr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetOr.ll
+END
+07-CmpImm32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/07-CmpImm32.ll
+END
+08-DivRem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/08-DivRem.ll
+END
+03-RetXorImmSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetXorImmSubreg.ll
+END
+05-MemRegLoads.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/05-MemRegLoads.ll
+END
+05-MemLoadsStores.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/05-MemLoadsStores.ll
+END
+02-RetSub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetSub.ll
+END
+09-DynamicAlloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/09-DynamicAlloca.ll
+END
+2009-07-04-Shl32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-07-04-Shl32.ll
+END
+07-BrCond.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/07-BrCond.ll
+END
+05-MemRegStores.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/05-MemRegStores.ll
+END
+07-BrUnCond.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/07-BrUnCond.ll
+END
+2009-07-05-Shifts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-07-05-Shifts.ll
+END
+07-CmpImm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/07-CmpImm.ll
+END
+08-DivRemMemOp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/08-DivRemMemOp.ll
+END
+01-RetImm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/01-RetImm.ll
+END
+03-RetXorSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetXorSubreg.ll
+END
+2009-06-05-InvalidArgLoad.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-06-05-InvalidArgLoad.ll
+END
+03-RetNegImmSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetNegImmSubreg.ll
+END
+02-RetAddImm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetAddImm.ll
+END
+02-RetSubImm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetSubImm.ll
+END
+03-RetOrImmSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetOrImmSubreg.ll
+END
+2009-06-02-Rotate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-06-02-Rotate.ll
+END
+2009-07-11-InvalidRIISel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-07-11-InvalidRIISel.ll
+END
+00-RetVoid.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/00-RetVoid.ll
+END
+05-MemLoadsStores16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/05-MemLoadsStores16.ll
+END
+11-BSwap.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/11-BSwap.ll
+END
+03-RetSubSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetSubSubreg.ll
+END
+03-RetAddImmSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetAddImmSubreg.ll
+END
+2009-08-22-FCopySign.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-08-22-FCopySign.ll
+END
+07-BrCond32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/07-BrCond32.ll
+END
+02-RetXor.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetXor.ll
+END
+2009-05-29-InvalidRetResult.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-05-29-InvalidRetResult.ll
+END
+02-RetNeg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetNeg.ll
+END
+09-Globals.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/09-Globals.ll
+END
+03-RetArgSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetArgSubreg.ll
+END
+02-RetOrImm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetOrImm.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/75910/llvm/trunk/test/CodeGen/SystemZ/dg.exp
+END
+08-SimpleMuls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/08-SimpleMuls.ll
+END
+09-Switches.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/09-Switches.ll
+END
+03-RetOrSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetOrSubreg.ll
+END
+03-RetImmSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetImmSubreg.ll
+END
+06-LocalFrame.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/06-LocalFrame.ll
+END
+10-FuncsPic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/10-FuncsPic.ll
+END
+03-RetAddSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetAddSubreg.ll
+END
+05-LoadAddr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/05-LoadAddr.ll
+END
+04-RetShifts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/04-RetShifts.ll
+END
+10-GlobalsPic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/10-GlobalsPic.ll
+END
+01-RetArg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/01-RetArg.ll
+END
+2009-08-21-InlineAsmRConstraint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-08-21-InlineAsmRConstraint.ll
+END
+2009-06-02-And32Imm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-06-02-And32Imm.ll
+END
+03-RetAndSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetAndSubreg.ll
+END
+02-RetAdd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetAdd.ll
+END
+06-FrameIdxLoad.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/06-FrameIdxLoad.ll
+END
+06-CallViaStack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/06-CallViaStack.ll
+END
+02-MemArith.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-MemArith.ll
+END
+02-RetAnd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetAnd.ll
+END
+03-RetSubImmSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetSubImmSubreg.ll
+END
+02-RetAndImm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetAndImm.ll
+END
+2009-07-11-FloatBitConvert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-07-11-FloatBitConvert.ll
+END
+05-MemImmStores.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/05-MemImmStores.ll
+END
+02-RetXorImm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/02-RetXorImm.ll
+END
+2009-07-10-BadIncomingArgOffset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/2009-07-10-BadIncomingArgOffset.ll
+END
+06-SimpleCall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/06-SimpleCall.ll
+END
+03-RetAndImmSubreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/SystemZ/03-RetAndImmSubreg.ll
+END

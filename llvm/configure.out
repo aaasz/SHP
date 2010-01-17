@@ -1,0 +1,149 @@
+running CONFIG_SHELL=/bin/sh /bin/sh ./configure   --no-create --no-recursion
+checking build system type... i686-pc-linux-gnu
+checking host system type... i686-pc-linux-gnu
+checking target system type... i686-pc-linux-gnu
+checking type of operating system we're going to host on... Linux
+checking type of operating system we're going to target... Linux
+checking target architecture... x86
+checking for gcc... gcc
+checking for C compiler default output file name... a.out
+checking whether the C compiler works... yes
+checking whether we are cross compiling... no
+checking for suffix of executables... 
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking whether byte ordering is bigendian... no
+checking optimization flags... -O2
+checking how to run the C preprocessor... gcc -E
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to accept ISO C89... (cached) none needed
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking for BSD-compatible nm... /usr/bin/nm -B
+checking for GNU make... make
+checking whether ln -s works... yes
+checking for cmp... /usr/bin/cmp
+checking for cp... /bin/cp
+checking for date... /bin/date
+checking for find... /usr/bin/find
+checking for grep... (cached) /bin/grep
+checking for mkdir... /bin/mkdir
+checking for mv... /bin/mv
+checking for ranlib... ranlib
+checking for rm... /bin/rm
+checking for sed... /bin/sed
+checking for tar... /bin/tar
+checking for pwd... /bin/pwd
+checking for Graphviz... echo Graphviz
+checking for dot... echo dot
+checking for fdp... echo fdp
+checking for neato... echo neato
+checking for twopi... echo twopi
+checking for circo... echo circo
+checking for gv... no
+checking for gsview32... no
+checking for dotty... echo dotty
+checking for perl... /usr/bin/perl
+checking for Perl 5.006 or newer... yes
+checking for a BSD-compatible install... /usr/bin/install -c
+checking for bzip2... /bin/bzip2
+checking for doxygen... no
+checking for groff... /usr/bin/groff
+checking for gzip... /bin/gzip
+checking for pod2html... /usr/bin/pod2html
+checking for pod2man... /usr/bin/pod2man
+checking for runtest... no
+checking for the tclsh program in tclinclude directory... none
+checking for tclsh8.4... /usr/bin/tclsh8.4
+checking for zip... /opt/Xilinx/10.1/ISE/bin/lin/zip
+checking for ocamlc... no
+checking for ocamlopt... no
+checking for ocamldep... no
+checking for ocamldoc... no
+checking for gas... no
+checking for as... /usr/bin/as
+checking for compiler -Wl,-R<path> option... yes
+checking for compiler -Wl,-export-dynamic option... yes
+checking for an ANSI C-conforming const... yes
+checking for dirent.h that defines DIR... yes
+checking for library containing opendir... none required
+checking dlfcn.h usability... yes
+checking dlfcn.h presence... yes
+checking for dlfcn.h... yes
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking which extension is used for loadable modules... .so
+checking which variable specifies run-time library path... LD_LIBRARY_PATH
+checking for the default library search path... /lib /usr/lib /lib/i486-linux-gnu /usr/lib/i486-linux-gnu /usr/lib/alsa-lib /usr/local/lib 
+checking for objdir... .libs
+checking command to parse /usr/bin/nm -B output from  object... ok
+checking whether libtool supports -dlopen/-dlpreopen... yes
+checking for shl_load... no
+checking for shl_load in -ldld... no
+checking for dlopen in -ldl... yes
+checking for dlerror... yes
+checking for _ prefix in compiled symbols... no
+checking whether deplibs are loaded by dlopen... yes
+checking argz.h usability... yes
+checking argz.h presence... yes
+checking for argz.h... yes
+checking for error_t... yes
+checking for argz_append... yes
+checking for argz_create_sep... yes
+checking for argz_insert... yes
+checking for argz_next... yes
+checking for argz_stringify... yes
+checking assert.h usability... yes
+checking assert.h presence... yes
+checking for assert.h... yes
+checking ctype.h usability... yes
+checking ctype.h presence... yes
+checking for ctype.h... yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking malloc.h usability... yes
+checking malloc.h presence... yes
+checking for malloc.h... yes
+checking for memory.h... (cached) yes
+checking for stdlib.h... (cached) yes
+checking stdio.h usability... yes
+checking stdio.h presence... yes
+checking for stdio.h... yes
+checking for unistd.h... (cached) yes
+checking dl.h usability... no
+checking dl.h presence... no
+checking for dl.h... no
+checking sys/dl.h usability... no
+checking sys/dl.h presence... no
+checking for sys/dl.h... no
+checking dld.h usability... no
+checking dld.h presence... no
+checking for dld.h... no
+checking mach-o/dyld.h usability... no
+checking mach-o/dyld.h presence... no
+checking for mach-o/dyld.h... no
+checking for string.h... (cached) yes
+checking for strchr... yes
+checking for strrchr... yes
+checking for memcpy... yes
+checking for memmove... yes
+checking for strcmp... yes
+checking for closedir... yes
+checking for opendir... 

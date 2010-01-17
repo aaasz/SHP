@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/84853/llvm/trunk/test/FrontendAda
+END
+unc_constructor.adb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/unc_constructor.adb
+END
+var_offset.adb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/var_offset.adb
+END
+field_order.ads
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/field_order.ads
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/dg.exp
+END
+fat_fields.adb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/fat_fields.adb
+END
+switch.adb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/switch.adb
+END
+non_lvalue.adb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/non_lvalue.adb
+END
+array_size.adb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/array_size.adb
+END
+debug_var_size.ads
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/debug_var_size.ads
+END
+global_constant.adb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/global_constant.adb
+END
+array_ref.adb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/array_ref.adb
+END
+negative_field_offset.adb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/84853/llvm/trunk/test/FrontendAda/negative_field_offset.adb
+END
+vce.adb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/vce.adb
+END
+non_bitfield.ads
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/non_bitfield.ads
+END
+constant_fold.ads
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/constant_fold.ads
+END
+init_size.ads
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/init_size.ads
+END
+vce_lv.adb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/vce_lv.adb
+END
+asm.adb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/asm.adb
+END
+placeholder.adb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/placeholder.adb
+END
+var_size.adb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/var_size.adb
+END
+element_copy.adb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/element_copy.adb
+END
+array_constructor.adb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/array_constructor.adb
+END
+array_range_ref.adb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/array_range_ref.adb
+END
+emit_var.ads
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/emit_var.ads
+END

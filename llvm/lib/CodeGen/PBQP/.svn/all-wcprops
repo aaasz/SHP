@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/81116/llvm/trunk/lib/CodeGen/PBQP
+END
+HeuristicSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/79146/llvm/trunk/lib/CodeGen/PBQP/HeuristicSolver.h
+END
+Solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/78359/llvm/trunk/lib/CodeGen/PBQP/Solver.h
+END
+SimpleGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/78359/llvm/trunk/lib/CodeGen/PBQP/SimpleGraph.h
+END
+GraphBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/78447/llvm/trunk/lib/CodeGen/PBQP/GraphBase.h
+END
+PBQPMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/78667/llvm/trunk/lib/CodeGen/PBQP/PBQPMath.h
+END
+Solution.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/78359/llvm/trunk/lib/CodeGen/PBQP/Solution.h
+END
+AnnotatedGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/78359/llvm/trunk/lib/CodeGen/PBQP/AnnotatedGraph.h
+END
+ExhaustiveSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/78359/llvm/trunk/lib/CodeGen/PBQP/ExhaustiveSolver.h
+END

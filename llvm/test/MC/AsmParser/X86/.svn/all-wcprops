@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/85548/llvm/trunk/test/MC/AsmParser/X86
+END
+x86_word_directive.s
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/82419/llvm/trunk/test/MC/AsmParser/X86/x86_word_directive.s
+END
+x86_operands.s
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/82419/llvm/trunk/test/MC/AsmParser/X86/x86_operands.s
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/82419/llvm/trunk/test/MC/AsmParser/X86/dg.exp
+END
+x86_instructions.s
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/82419/llvm/trunk/test/MC/AsmParser/X86/x86_instructions.s
+END

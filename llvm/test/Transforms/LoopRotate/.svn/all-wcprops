@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/89484/llvm/trunk/test/Transforms/LoopRotate
+END
+preserve-scev.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/preserve-scev.ll
+END
+LRCrash-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/LRCrash-1.ll
+END
+LRCrash-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/LRCrash-2.ll
+END
+2009-01-25-SingleEntryPhi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/2009-01-25-SingleEntryPhi.ll
+END
+LRCrash-3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/LRCrash-3.ll
+END
+LRCrash-4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/LRCrash-4.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/LoopRotate/dg.exp
+END
+LRCrash-5.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/LRCrash-5.ll
+END
+PhiSelfRefernce-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/PhiSelfRefernce-1.ll
+END
+indirectbr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/89484/llvm/trunk/test/Transforms/LoopRotate/indirectbr.ll
+END
+pr2639.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/pr2639.ll
+END
+PhiRename-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/85017/llvm/trunk/test/Transforms/LoopRotate/PhiRename-1.ll
+END

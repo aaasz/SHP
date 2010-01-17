@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/85699/llvm/trunk/lib/Bitcode/Writer
+END
+SerializeAPFloat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Bitcode/Writer/SerializeAPFloat.cpp
+END
+ValueEnumerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/85699/llvm/trunk/lib/Bitcode/Writer/ValueEnumerator.cpp
+END
+SerializeAPInt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Bitcode/Writer/SerializeAPInt.cpp
+END
+ValueEnumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/85376/llvm/trunk/lib/Bitcode/Writer/ValueEnumerator.h
+END
+BitcodeWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/85699/llvm/trunk/lib/Bitcode/Writer/BitcodeWriter.cpp
+END
+Serialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/79842/llvm/trunk/lib/Bitcode/Writer/Serialize.cpp
+END
+BitWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/79990/llvm/trunk/lib/Bitcode/Writer/BitWriter.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Bitcode/Writer/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Bitcode/Writer/Makefile
+END
+BitcodeWriterPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/79840/llvm/trunk/lib/Bitcode/Writer/BitcodeWriterPass.cpp
+END

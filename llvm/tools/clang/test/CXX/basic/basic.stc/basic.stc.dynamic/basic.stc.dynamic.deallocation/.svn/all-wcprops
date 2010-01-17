@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/91180/cfe/trunk/test/CXX/basic/basic.stc/basic.stc.dynamic/basic.stc.dynamic.deallocation
+END
+p1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/91180/cfe/trunk/test/CXX/basic/basic.stc/basic.stc.dynamic/basic.stc.dynamic.deallocation/p1.cpp
+END

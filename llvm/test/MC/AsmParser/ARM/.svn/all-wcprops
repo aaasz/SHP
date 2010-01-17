@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/85548/llvm/trunk/test/MC/AsmParser/ARM
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/82419/llvm/trunk/test/MC/AsmParser/ARM/dg.exp
+END
+arm_word_directive.s
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/82419/llvm/trunk/test/MC/AsmParser/ARM/arm_word_directive.s
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup
+END
+2008-05-13-InfiniteLoop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/2008-05-13-InfiniteLoop.ll
+END
+2003-06-24-Simpleloop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/2003-06-24-Simpleloop.ll
+END
+if-tail-dup.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/if-tail-dup.ll
+END
+2009-07-31-phicrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/2009-07-31-phicrash.ll
+END
+2003-08-31-UnreachableBlocks.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/2003-08-31-UnreachableBlocks.ll
+END
+MergeTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/MergeTest.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/TailDup/dg.exp
+END
+2003-08-23-InvalidatedPointers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/2003-08-23-InvalidatedPointers.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/basictest.ll
+END
+PHIUpdateTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/PHIUpdateTest.ll
+END
+basictest2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/basictest2.ll
+END
+2003-07-22-InfiniteLoop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/2003-07-22-InfiniteLoop.ll
+END
+2004-04-01-DemoteRegToStack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/2004-04-01-DemoteRegToStack.ll
+END
+2008-06-11-AvoidDupLoopHeader.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailDup/2008-06-11-AvoidDupLoopHeader.ll
+END

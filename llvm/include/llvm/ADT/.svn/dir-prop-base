@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 33
+hash_map.h
+hash_set.h
+iterator.h
+
+END

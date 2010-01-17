@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/90314/cfe/trunk/test/Index/Inputs
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/Inputs/lit.local.cfg
+END
+t1.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/Inputs/t1.m
+END
+t2.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/Inputs/t2.m
+END
+objc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/Inputs/objc.h
+END
+c-index-pch.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/Inputs/c-index-pch.h
+END
+t1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/Inputs/t1.c
+END
+t2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/Inputs/t2.c
+END
+foo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/Inputs/foo.h
+END
+remap-complete-to.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/90314/cfe/trunk/test/Index/Inputs/remap-complete-to.c
+END

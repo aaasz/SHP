@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/88697/llvm/trunk/lib/Target/PIC16/AsmPrinter
+END
+PIC16AsmPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/88697/llvm/trunk/lib/Target/PIC16/AsmPrinter/PIC16AsmPrinter.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/78914/llvm/trunk/lib/Target/PIC16/AsmPrinter/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/80584/llvm/trunk/lib/Target/PIC16/AsmPrinter/Makefile
+END
+PIC16AsmPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/85052/llvm/trunk/lib/Target/PIC16/AsmPrinter/PIC16AsmPrinter.h
+END

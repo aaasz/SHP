@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/Basic
+END
+Builtins.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Basic/Builtins.h
+END
+DiagnosticFrontendKinds.td
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/91154/cfe/trunk/include/clang/Basic/DiagnosticFrontendKinds.td
+END
+TargetBuiltins.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/73318/cfe/trunk/include/clang/Basic/TargetBuiltins.h
+END
+PartialDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/91212/cfe/trunk/include/clang/Basic/PartialDiagnostic.h
+END
+TargetOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/88833/cfe/trunk/include/clang/Basic/TargetOptions.h
+END
+TargetInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89520/cfe/trunk/include/clang/Basic/TargetInfo.h
+END
+OnDiskHashTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/90040/cfe/trunk/include/clang/Basic/OnDiskHashTable.h
+END
+BuiltinsPPC.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/73318/cfe/trunk/include/clang/Basic/BuiltinsPPC.def
+END
+Diagnostic.td
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/73332/cfe/trunk/include/clang/Basic/Diagnostic.td
+END
+DiagnosticGroups.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/91415/cfe/trunk/include/clang/Basic/DiagnosticGroups.td
+END
+TemplateKinds.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/68081/cfe/trunk/include/clang/Basic/TemplateKinds.h
+END
+DiagnosticASTKinds.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67004/cfe/trunk/include/clang/Basic/DiagnosticASTKinds.td
+END
+DiagnosticLexKinds.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/91415/cfe/trunk/include/clang/Basic/DiagnosticLexKinds.td
+END
+TypeTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90361/cfe/trunk/include/clang/Basic/TypeTraits.h
+END
+DiagnosticDriverKinds.td
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/91154/cfe/trunk/include/clang/Basic/DiagnosticDriverKinds.td
+END
+TokenKinds.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Basic/TokenKinds.h
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/83321/cfe/trunk/include/clang/Basic/Version.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/69357/cfe/trunk/include/clang/Basic/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86912/cfe/trunk/include/clang/Basic/Makefile
+END
+SourceLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/Basic/SourceLocation.h
+END
+IdentifierTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/Basic/IdentifierTable.h
+END
+OperatorKinds.def
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/69299/cfe/trunk/include/clang/Basic/OperatorKinds.def
+END
+SourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/90701/cfe/trunk/include/clang/Basic/SourceManager.h
+END
+PrettyStackTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/66146/cfe/trunk/include/clang/Basic/PrettyStackTrace.h
+END
+LangOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91198/cfe/trunk/include/clang/Basic/LangOptions.h
+END
+ConvertUTF.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Basic/ConvertUTF.h
+END
+Builtins.def
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90736/cfe/trunk/include/clang/Basic/Builtins.def
+END
+DiagnosticAnalysisKinds.td
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/67004/cfe/trunk/include/clang/Basic/DiagnosticAnalysisKinds.td
+END
+DiagnosticSemaKinds.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/91395/cfe/trunk/include/clang/Basic/DiagnosticSemaKinds.td
+END
+DiagnosticCommonKinds.td
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/91057/cfe/trunk/include/clang/Basic/DiagnosticCommonKinds.td
+END
+BuiltinsX86.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/91269/cfe/trunk/include/clang/Basic/BuiltinsX86.def
+END
+FileManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/90329/cfe/trunk/include/clang/Basic/FileManager.h
+END
+SourceManagerInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Basic/SourceManagerInternals.h
+END
+TokenKinds.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/90361/cfe/trunk/include/clang/Basic/TokenKinds.def
+END
+OperatorKinds.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/85989/cfe/trunk/include/clang/Basic/OperatorKinds.h
+END
+Diagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90664/cfe/trunk/include/clang/Basic/Diagnostic.h
+END
+DiagnosticParseKinds.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/90730/cfe/trunk/include/clang/Basic/DiagnosticParseKinds.td
+END

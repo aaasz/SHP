@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/85851/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit
+END
+p1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/84129/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p1.cpp
+END
+p10.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/85347/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p10.cpp
+END
+p9-linkage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/85340/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p9-linkage.cpp
+END
+p2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/84182/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p2.cpp
+END
+p12.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/85243/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p12.cpp
+END
+p3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/85851/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p3.cpp
+END
+p4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/84185/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p4.cpp
+END
+p5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/85620/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p5.cpp
+END
+p1-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/84182/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p1-0x.cpp
+END
+p6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/85243/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p6.cpp
+END
+p7.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/85244/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p7.cpp
+END
+p8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/85270/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p8.cpp
+END
+p9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/85300/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p9.cpp
+END
+p1-emit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/84141/cfe/trunk/test/CXX/temp/temp.spec/temp.explicit/p1-emit.cpp
+END

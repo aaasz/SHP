@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/74153/llvm/trunk/tools/llvmc/example/Skeleton/driver
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/tools/llvmc/example/Skeleton/driver/Main.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/74153/llvm/trunk/tools/llvmc/example/Skeleton/driver/Makefile
+END

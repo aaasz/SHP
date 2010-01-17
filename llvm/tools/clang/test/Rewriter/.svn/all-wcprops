@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter
+END
+ivar-encoding-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/ivar-encoding-2.m
+END
+rewrite-foreach-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-foreach-1.m
+END
+va-method.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/va-method.m
+END
+rewrite-foreach-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-foreach-2.m
+END
+rewrite-foreach-3.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-foreach-3.m
+END
+rewrite-foreach-4.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-foreach-4.m
+END
+rewrite-foreach-5.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-foreach-5.m
+END
+rewrite-nest.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-nest.m
+END
+rewrite-foreach-6.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-foreach-6.m
+END
+properties.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/properties.m
+END
+rewrite-protocol-type-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-protocol-type-1.m
+END
+finally.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/finally.m
+END
+crash.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/crash.m
+END
+static-type-protocol-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/static-type-protocol-1.m
+END
+undecl-objc-h.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/undecl-objc-h.m
+END
+protocol-rewrite-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/protocol-rewrite-1.m
+END
+objc-string-concat-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/objc-string-concat-1.m
+END
+objc-super-test.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/objc-super-test.m
+END
+objc-synchronized-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/objc-synchronized-1.m
+END
+metadata-test-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/metadata-test-1.m
+END
+metadata-test-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/metadata-test-2.m
+END
+block-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/block-test.c
+END
+method-encoding-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/method-encoding-1.m
+END
+rewrite-api-bug.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-api-bug.m
+END
+id-test-3.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/id-test-3.m
+END
+objc-encoding-bug-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/objc-encoding-bug-1.m
+END
+undef-field-reference-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/undef-field-reference-1.m
+END
+objc-ivar-receiver-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/objc-ivar-receiver-1.m
+END
+rewrite-try-catch.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/rewrite-try-catch.m
+END
+undeclared-method-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/undeclared-method-1.m
+END
+ivar-encoding-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91299/cfe/trunk/test/Rewriter/ivar-encoding-1.m
+END

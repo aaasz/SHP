@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha
+END
+zapnot.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/zapnot.ll
+END
+ctlz.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/ctlz.ll
+END
+illegal-element-type.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/illegal-element-type.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/CodeGen/Alpha/dg.exp
+END
+2008-11-10-smul_lohi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2008-11-10-smul_lohi.ll
+END
+2006-04-04-zextload.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2006-04-04-zextload.ll
+END
+mul5.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/mul5.ll
+END
+2009-07-16-PromoteFloatCompare.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2009-07-16-PromoteFloatCompare.ll
+END
+ctpop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/ctpop.ll
+END
+bsr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/bsr.ll
+END
+rpcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/rpcc.ll
+END
+add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/add.ll
+END
+jmp_table.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/jmp_table.ll
+END
+bic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/bic.ll
+END
+mb.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/mb.ll
+END
+2006-01-18-MissedGlobal.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2006-01-18-MissedGlobal.ll
+END
+zapnot3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/zapnot3.ll
+END
+not.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/not.ll
+END
+ornot.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/ornot.ll
+END
+cmov.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/cmov.ll
+END
+2008-11-12-Add128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2008-11-12-Add128.ll
+END
+private.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/private.ll
+END
+ctlz_e.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/ctlz_e.ll
+END
+2006-07-03-ASMFormalLowering.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2006-07-03-ASMFormalLowering.ll
+END
+srl_and.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/srl_and.ll
+END
+add128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/add128.ll
+END
+sub128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/sub128.ll
+END
+wmb.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/wmb.ll
+END
+i32_sub_1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/i32_sub_1.ll
+END
+weak.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/weak.ll
+END
+2005-12-12-MissingFCMov.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2005-12-12-MissingFCMov.ll
+END
+mul128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/mul128.ll
+END
+call_adj.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/call_adj.ll
+END
+neg1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/neg1.ll
+END
+eqv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/eqv.ll
+END
+cmpbge.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/cmpbge.ll
+END
+2006-01-26-VaargBreak.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2006-01-26-VaargBreak.ll
+END
+zapnot2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/zapnot2.ll
+END
+zapnot4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/zapnot4.ll
+END
+2007-11-27-mulneg3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2007-11-27-mulneg3.ll
+END
+2006-11-01-vastart.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2006-11-01-vastart.ll
+END
+2005-07-12-TwoMallocCalls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/Alpha/2005-07-12-TwoMallocCalls.ll
+END

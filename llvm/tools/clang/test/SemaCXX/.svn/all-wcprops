@@ -1,0 +1,1151 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/91253/cfe/trunk/test/SemaCXX
+END
+attr-format.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/SemaCXX/attr-format.cpp
+END
+decltype-overloaded-functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/74472/cfe/trunk/test/SemaCXX/decltype-overloaded-functions.cpp
+END
+warn-assignment-condition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/83907/cfe/trunk/test/SemaCXX/warn-assignment-condition.cpp
+END
+implicit-int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90066/cfe/trunk/test/SemaCXX/implicit-int.cpp
+END
+overloaded-builtin-operators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/88811/cfe/trunk/test/SemaCXX/overloaded-builtin-operators.cpp
+END
+trivial-destructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/69345/cfe/trunk/test/SemaCXX/trivial-destructor.cpp
+END
+friend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/91146/cfe/trunk/test/SemaCXX/friend.cpp
+END
+qual-id-test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90161/cfe/trunk/test/SemaCXX/qual-id-test.cpp
+END
+builtin-ptrtomember-overload-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/83862/cfe/trunk/test/SemaCXX/builtin-ptrtomember-overload-1.cpp
+END
+member-operator-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/80608/cfe/trunk/test/SemaCXX/member-operator-expr.cpp
+END
+overloaded-operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/90992/cfe/trunk/test/SemaCXX/overloaded-operator.cpp
+END
+vector-casts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/82072/cfe/trunk/test/SemaCXX/vector-casts.cpp
+END
+no-implicit-builtin-decls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/no-implicit-builtin-decls.cpp
+END
+copy-assignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/83175/cfe/trunk/test/SemaCXX/copy-assignment.cpp
+END
+class-base-member-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/SemaCXX/class-base-member-init.cpp
+END
+overload-call.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91253/cfe/trunk/test/SemaCXX/overload-call.cpp
+END
+using-decl-pr4441.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/74362/cfe/trunk/test/SemaCXX/using-decl-pr4441.cpp
+END
+static-assert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/static-assert.cpp
+END
+attr-unavailable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/attr-unavailable.cpp
+END
+typedef-redecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90066/cfe/trunk/test/SemaCXX/typedef-redecl.cpp
+END
+trivial-constructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/69345/cfe/trunk/test/SemaCXX/trivial-constructor.cpp
+END
+ambig-user-defined-conversions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/83004/cfe/trunk/test/SemaCXX/ambig-user-defined-conversions.cpp
+END
+destructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/76577/cfe/trunk/test/SemaCXX/destructor.cpp
+END
+switch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/89656/cfe/trunk/test/SemaCXX/switch.cpp
+END
+conversion-delete-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81930/cfe/trunk/test/SemaCXX/conversion-delete-expr.cpp
+END
+prefetch-enum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90504/cfe/trunk/test/SemaCXX/prefetch-enum.cpp
+END
+virtual-override.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/90467/cfe/trunk/test/SemaCXX/virtual-override.cpp
+END
+ms-exception-spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/ms-exception-spec.cpp
+END
+class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/89816/cfe/trunk/test/SemaCXX/class.cpp
+END
+ref-init-ambiguous.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/90992/cfe/trunk/test/SemaCXX/ref-init-ambiguous.cpp
+END
+fntype-decl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/fntype-decl.cpp
+END
+cast-conversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86234/cfe/trunk/test/SemaCXX/cast-conversion.cpp
+END
+pseudo-destructors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/89493/cfe/trunk/test/SemaCXX/pseudo-destructors.cpp
+END
+do-while-scope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/do-while-scope.cpp
+END
+class-layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/89611/cfe/trunk/test/SemaCXX/class-layout.cpp
+END
+function-redecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/function-redecl.cpp
+END
+constructor-recovery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/88724/cfe/trunk/test/SemaCXX/constructor-recovery.cpp
+END
+references.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90992/cfe/trunk/test/SemaCXX/references.cpp
+END
+type-dependent-exprs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/type-dependent-exprs.cpp
+END
+constructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/85851/cfe/trunk/test/SemaCXX/constructor.cpp
+END
+exception-spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91052/cfe/trunk/test/SemaCXX/exception-spec.cpp
+END
+using-decl-pr4450.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/74258/cfe/trunk/test/SemaCXX/using-decl-pr4450.cpp
+END
+libstdcxx_is_pod_hack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/80988/cfe/trunk/test/SemaCXX/libstdcxx_is_pod_hack.cpp
+END
+wchar_t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/74808/cfe/trunk/test/SemaCXX/wchar_t.cpp
+END
+overload-member-call.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86079/cfe/trunk/test/SemaCXX/overload-member-call.cpp
+END
+new-delete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/91244/cfe/trunk/test/SemaCXX/new-delete.cpp
+END
+deleted-function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81898/cfe/trunk/test/SemaCXX/deleted-function.cpp
+END
+cstyle-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/77076/cfe/trunk/test/SemaCXX/cstyle-cast.cpp
+END
+overload-call-copycon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/91094/cfe/trunk/test/SemaCXX/overload-call-copycon.cpp
+END
+member-name-lookup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81451/cfe/trunk/test/SemaCXX/member-name-lookup.cpp
+END
+copy-initialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/copy-initialization.cpp
+END
+reinterpret-fn-obj-pedantic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/reinterpret-fn-obj-pedantic.cpp
+END
+warn-missing-prototypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/90943/cfe/trunk/test/SemaCXX/warn-missing-prototypes.cpp
+END
+member-pointers-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/89578/cfe/trunk/test/SemaCXX/member-pointers-2.cpp
+END
+invalid-member-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/85930/cfe/trunk/test/SemaCXX/invalid-member-expr.cpp
+END
+__null.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/SemaCXX/__null.cpp
+END
+aggregate-initialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/aggregate-initialization.cpp
+END
+empty-class-layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/82831/cfe/trunk/test/SemaCXX/empty-class-layout.cpp
+END
+warn-unused-variables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/89106/cfe/trunk/test/SemaCXX/warn-unused-variables.cpp
+END
+value-dependent-exprs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/82217/cfe/trunk/test/SemaCXX/value-dependent-exprs.cpp
+END
+overload-decl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/overload-decl.cpp
+END
+auto-cxx0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/75327/cfe/trunk/test/SemaCXX/auto-cxx0x.cpp
+END
+array-bound-merge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91044/cfe/trunk/test/SemaCXX/array-bound-merge.cpp
+END
+complex-overload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/complex-overload.cpp
+END
+builtin-ptrtomember-ambig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/84289/cfe/trunk/test/SemaCXX/builtin-ptrtomember-ambig.cpp
+END
+type-definition-in-specifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/72555/cfe/trunk/test/SemaCXX/type-definition-in-specifier.cpp
+END
+struct-class-redecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/71773/cfe/trunk/test/SemaCXX/struct-class-redecl.cpp
+END
+default-assignment-operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/90935/cfe/trunk/test/SemaCXX/default-assignment-operator.cpp
+END
+using-decl-templates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/90843/cfe/trunk/test/SemaCXX/using-decl-templates.cpp
+END
+address-of.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/address-of.cpp
+END
+convert-to-bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90992/cfe/trunk/test/SemaCXX/convert-to-bool.cpp
+END
+return-stack-addr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/return-stack-addr.cpp
+END
+reinterpret-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/89583/cfe/trunk/test/SemaCXX/reinterpret-cast.cpp
+END
+member-expr-anonymous-union.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/90555/cfe/trunk/test/SemaCXX/member-expr-anonymous-union.cpp
+END
+unused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/70384/cfe/trunk/test/SemaCXX/unused.cpp
+END
+abstract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/89248/cfe/trunk/test/SemaCXX/abstract.cpp
+END
+function-type-qual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/function-type-qual.cpp
+END
+default1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/default1.cpp
+END
+decltype-crash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/77070/cfe/trunk/test/SemaCXX/decltype-crash.cpp
+END
+dependent-types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86165/cfe/trunk/test/SemaCXX/dependent-types.cpp
+END
+warn-for-var-in-else.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86143/cfe/trunk/test/SemaCXX/warn-for-var-in-else.cpp
+END
+vararg-default-arg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/88759/cfe/trunk/test/SemaCXX/vararg-default-arg.cpp
+END
+offsetof.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/91210/cfe/trunk/test/SemaCXX/offsetof.cpp
+END
+dynamic-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/dynamic-cast.cpp
+END
+decltype-this.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/88749/cfe/trunk/test/SemaCXX/decltype-this.cpp
+END
+static-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/88848/cfe/trunk/test/SemaCXX/static-cast.cpp
+END
+user-defined-conversions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/user-defined-conversions.cpp
+END
+type-convert-construct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/type-convert-construct.cpp
+END
+namespace-alias.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/68086/cfe/trunk/test/SemaCXX/namespace-alias.cpp
+END
+copy-constructor-error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/88724/cfe/trunk/test/SemaCXX/copy-constructor-error.cpp
+END
+switch-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/89655/cfe/trunk/test/SemaCXX/switch-0x.cpp
+END
+constant-expression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/72490/cfe/trunk/test/SemaCXX/constant-expression.cpp
+END
+compare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/90965/cfe/trunk/test/SemaCXX/compare.cpp
+END
+statements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/statements.cpp
+END
+nested-name-spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/90730/cfe/trunk/test/SemaCXX/nested-name-spec.cpp
+END
+builtins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/88816/cfe/trunk/test/SemaCXX/builtins.cpp
+END
+bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/84231/cfe/trunk/test/SemaCXX/bool.cpp
+END
+namespace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/84053/cfe/trunk/test/SemaCXX/namespace.cpp
+END
+qualified-names-print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/qualified-names-print.cpp
+END
+value-initialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86579/cfe/trunk/test/SemaCXX/value-initialization.cpp
+END
+missing-members.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/84028/cfe/trunk/test/SemaCXX/missing-members.cpp
+END
+overload-value-dep-arg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/80369/cfe/trunk/test/SemaCXX/overload-value-dep-arg.cpp
+END
+function-overloaded-redecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/83104/cfe/trunk/test/SemaCXX/function-overloaded-redecl.cpp
+END
+qualified-id-lookup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/90341/cfe/trunk/test/SemaCXX/qualified-id-lookup.cpp
+END
+decltype-pr4444.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/74175/cfe/trunk/test/SemaCXX/decltype-pr4444.cpp
+END
+virtual-member-functions-key-function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/90752/cfe/trunk/test/SemaCXX/virtual-member-functions-key-function.cpp
+END
+ptrtomember-overload-resolution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/84660/cfe/trunk/test/SemaCXX/ptrtomember-overload-resolution.cpp
+END
+qualification-conversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/qualification-conversion.cpp
+END
+default-constructor-initializers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/86579/cfe/trunk/test/SemaCXX/default-constructor-initializers.cpp
+END
+decltype-pr4448.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/74257/cfe/trunk/test/SemaCXX/decltype-pr4448.cpp
+END
+builtin-ptrtomember-overload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/84187/cfe/trunk/test/SemaCXX/builtin-ptrtomember-overload.cpp
+END
+const-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/72747/cfe/trunk/test/SemaCXX/const-cast.cpp
+END
+cast-explicit-ctor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/80377/cfe/trunk/test/SemaCXX/cast-explicit-ctor.cpp
+END
+inline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/68541/cfe/trunk/test/SemaCXX/inline.cpp
+END
+exceptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/70256/cfe/trunk/test/SemaCXX/exceptions.cpp
+END
+type-traits-incomplete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/74937/cfe/trunk/test/SemaCXX/type-traits-incomplete.cpp
+END
+attr-cxx0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90239/cfe/trunk/test/SemaCXX/attr-cxx0x.cpp
+END
+rval-references.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90992/cfe/trunk/test/SemaCXX/rval-references.cpp
+END
+ambiguous-builtin-unary-operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/84289/cfe/trunk/test/SemaCXX/ambiguous-builtin-unary-operator.cpp
+END
+implicit-member-functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/90605/cfe/trunk/test/SemaCXX/implicit-member-functions.cpp
+END
+using-decl-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90948/cfe/trunk/test/SemaCXX/using-decl-1.cpp
+END
+attr-sentinel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/89778/cfe/trunk/test/SemaCXX/attr-sentinel.cpp
+END
+functional-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/77451/cfe/trunk/test/SemaCXX/functional-cast.cpp
+END
+member-pointer-size.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/SemaCXX/member-pointer-size.cpp
+END
+composite-pointer-type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/88960/cfe/trunk/test/SemaCXX/composite-pointer-type.cpp
+END
+nullptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/71405/cfe/trunk/test/SemaCXX/nullptr.cpp
+END
+warn-reorder-ctor-initialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/SemaCXX/warn-reorder-ctor-initialization.cpp
+END
+linkage-spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90859/cfe/trunk/test/SemaCXX/linkage-spec.cpp
+END
+enum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/90965/cfe/trunk/test/SemaCXX/enum.cpp
+END
+c99.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/81490/cfe/trunk/test/SemaCXX/c99.cpp
+END
+static-cast-complete-type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81151/cfe/trunk/test/SemaCXX/static-cast-complete-type.cpp
+END
+invalid-template-specifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/85989/cfe/trunk/test/SemaCXX/invalid-template-specifier.cpp
+END
+member-expr-static.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/SemaCXX/member-expr-static.cpp
+END
+incomplete-call.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/84745/cfe/trunk/test/SemaCXX/incomplete-call.cpp
+END
+static-array-member.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81309/cfe/trunk/test/SemaCXX/static-array-member.cpp
+END
+implicit-virtual-member-functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/90327/cfe/trunk/test/SemaCXX/implicit-virtual-member-functions.cpp
+END
+decl-expr-ambiguity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/77780/cfe/trunk/test/SemaCXX/decl-expr-ambiguity.cpp
+END
+access-base-class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/71706/cfe/trunk/test/SemaCXX/access-base-class.cpp
+END
+addr-of-overloaded-function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/83495/cfe/trunk/test/SemaCXX/addr-of-overloaded-function.cpp
+END
+expressions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/expressions.cpp
+END
+overloaded-operator-decl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/overloaded-operator-decl.cpp
+END
+types_compatible_p.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/72142/cfe/trunk/test/SemaCXX/types_compatible_p.cpp
+END
+arrow-operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/89180/cfe/trunk/test/SemaCXX/arrow-operator.cpp
+END
+dcl_init_aggr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81394/cfe/trunk/test/SemaCXX/dcl_init_aggr.cpp
+END
+elaborated-type-specifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/70829/cfe/trunk/test/SemaCXX/elaborated-type-specifier.cpp
+END
+auto-cxx98.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/74307/cfe/trunk/test/SemaCXX/auto-cxx98.cpp
+END
+access-control-check.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/SemaCXX/access-control-check.cpp
+END
+primary-base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86115/cfe/trunk/test/SemaCXX/primary-base.cpp
+END
+attr-after-definition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/80403/cfe/trunk/test/SemaCXX/attr-after-definition.cpp
+END
+access.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/67726/cfe/trunk/test/SemaCXX/access.cpp
+END
+converting-constructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/89494/cfe/trunk/test/SemaCXX/converting-constructor.cpp
+END
+using-directive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90859/cfe/trunk/test/SemaCXX/using-directive.cpp
+END
+illegal-member-initialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/SemaCXX/illegal-member-initialization.cpp
+END
+class-names.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/83674/cfe/trunk/test/SemaCXX/class-names.cpp
+END
+constructor-initializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/88847/cfe/trunk/test/SemaCXX/constructor-initializer.cpp
+END
+qualified-names-diag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/68207/cfe/trunk/test/SemaCXX/qualified-names-diag.cpp
+END
+this.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/this.cpp
+END
+attr-deprecated.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81715/cfe/trunk/test/SemaCXX/attr-deprecated.cpp
+END
+alignof-sizeof-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/89668/cfe/trunk/test/SemaCXX/alignof-sizeof-reference.cpp
+END
+virtuals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/virtuals.cpp
+END
+literal-type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/90361/cfe/trunk/test/SemaCXX/literal-type.cpp
+END
+member-location.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70390/cfe/trunk/test/SemaCXX/member-location.cpp
+END
+return.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/83222/cfe/trunk/test/SemaCXX/return.cpp
+END
+ptrtomember-badcall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/85401/cfe/trunk/test/SemaCXX/ptrtomember-badcall.cpp
+END
+warn-char-subscripts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81747/cfe/trunk/test/SemaCXX/warn-char-subscripts.cpp
+END
+member-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90270/cfe/trunk/test/SemaCXX/member-expr.cpp
+END
+attr-noreturn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90913/cfe/trunk/test/SemaCXX/attr-noreturn.cpp
+END
+PR5086-ambig-resolution-enum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/83350/cfe/trunk/test/SemaCXX/PR5086-ambig-resolution-enum.cpp
+END
+member-pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/83562/cfe/trunk/test/SemaCXX/member-pointer.cpp
+END
+type-traits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90463/cfe/trunk/test/SemaCXX/type-traits.cpp
+END
+unreachable-catch-clauses.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/77475/cfe/trunk/test/SemaCXX/unreachable-catch-clauses.cpp
+END
+i-c-e-cxx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/90480/cfe/trunk/test/SemaCXX/i-c-e-cxx.cpp
+END
+vararg-non-pod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91213/cfe/trunk/test/SemaCXX/vararg-non-pod.cpp
+END
+direct-initializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81930/cfe/trunk/test/SemaCXX/direct-initializer.cpp
+END
+default-argument-temporaries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/80206/cfe/trunk/test/SemaCXX/default-argument-temporaries.cpp
+END
+unknown-type-name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/84053/cfe/trunk/test/SemaCXX/unknown-type-name.cpp
+END
+typeid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/typeid.cpp
+END
+cxx-member-pointer-op.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/89255/cfe/trunk/test/SemaCXX/cxx-member-pointer-op.cpp
+END
+inherit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/SemaCXX/inherit.cpp
+END
+default2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/81548/cfe/trunk/test/SemaCXX/default2.cpp
+END
+conversion-function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/88670/cfe/trunk/test/SemaCXX/conversion-function.cpp
+END
+dcl_ambig_res.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/77076/cfe/trunk/test/SemaCXX/dcl_ambig_res.cpp
+END
+friend-class-nodecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/SemaCXX/friend-class-nodecl.cpp
+END
+blocks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/72409/cfe/trunk/test/SemaCXX/blocks.cpp
+END
+anonymous-union.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/anonymous-union.cpp
+END
+conditional-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/86233/cfe/trunk/test/SemaCXX/conditional-expr.cpp
+END
+decl-init-ref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90992/cfe/trunk/test/SemaCXX/decl-init-ref.cpp
+END
+condition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/89817/cfe/trunk/test/SemaCXX/condition.cpp
+END
+derived-to-base-ambig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaCXX/derived-to-base-ambig.cpp
+END
+format-attribute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/89113/cfe/trunk/test/SemaCXX/format-attribute.cpp
+END
+static-initializers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/SemaCXX/static-initializers.cpp
+END

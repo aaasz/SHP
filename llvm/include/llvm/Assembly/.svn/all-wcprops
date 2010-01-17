@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/81256/llvm/trunk/include/llvm/Assembly
+END
+PrintModulePass.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/include/llvm/Assembly/PrintModulePass.h
+END
+Parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81256/llvm/trunk/include/llvm/Assembly/Parser.h
+END
+Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/79825/llvm/trunk/include/llvm/Assembly/Writer.h
+END
+AsmAnnotationWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/include/llvm/Assembly/AsmAnnotationWriter.h
+END

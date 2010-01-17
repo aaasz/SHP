@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/Index
+END
+STLExtras.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Index/STLExtras.h
+END
+Entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/Index/Entity.h
+END
+CallGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90424/cfe/trunk/include/clang/Index/CallGraph.h
+END
+Indexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/84499/cfe/trunk/include/clang/Index/Indexer.h
+END
+SelectorMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Index/SelectorMap.h
+END
+TranslationUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/77542/cfe/trunk/include/clang/Index/TranslationUnit.h
+END
+ASTLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/84386/cfe/trunk/include/clang/Index/ASTLocation.h
+END
+Handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Index/Handlers.h
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/85425/cfe/trunk/include/clang/Index/Utils.h
+END
+GlobalSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/Index/GlobalSelector.h
+END
+IndexProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/77543/cfe/trunk/include/clang/Index/IndexProvider.h
+END
+DeclReferenceMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Index/DeclReferenceMap.h
+END
+Analyzer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/77551/cfe/trunk/include/clang/Index/Analyzer.h
+END
+Program.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Index/Program.h
+END

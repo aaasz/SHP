@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/91404/llvm/trunk/tools/llvmc/doc
+END
+LLVMC-Reference.rst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91404/llvm/trunk/tools/llvmc/doc/LLVMC-Reference.rst
+END
+LLVMC-Tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/73596/llvm/trunk/tools/llvmc/doc/LLVMC-Tutorial.rst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/tools/llvmc/doc/Makefile
+END

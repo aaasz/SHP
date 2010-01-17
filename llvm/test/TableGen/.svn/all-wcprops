@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/89581/llvm/trunk/test/TableGen
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/dg.exp
+END
+MultiClass.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/MultiClass.td
+END
+TargetInstrSpec.td
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/71811/llvm/trunk/test/TableGen/TargetInstrSpec.td
+END
+TargetInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/TargetInstrInfo.td
+END
+Include.td
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/Include.td
+END
+LazyChange.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/LazyChange.td
+END
+DagIntSubst.td
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/71277/llvm/trunk/test/TableGen/DagIntSubst.td
+END
+cast.td
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/71794/llvm/trunk/test/TableGen/cast.td
+END
+DagDefSubst.td
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/71277/llvm/trunk/test/TableGen/DagDefSubst.td
+END
+if.td
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/73091/llvm/trunk/test/TableGen/if.td
+END
+Slice.td
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/73090/llvm/trunk/test/TableGen/Slice.td
+END
+subst.td
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/71801/llvm/trunk/test/TableGen/subst.td
+END
+ListArgsSimple.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/74445/llvm/trunk/test/TableGen/ListArgsSimple.td
+END
+MultiClassInherit.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/MultiClassInherit.td
+END
+2006-09-18-LargeInt.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/2006-09-18-LargeInt.td
+END
+lisp.td
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/71805/llvm/trunk/test/TableGen/lisp.td
+END
+nameconcat.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/nameconcat.td
+END
+GeneralList.td
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/GeneralList.td
+END
+BitsInitOverflow.td
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/BitsInitOverflow.td
+END
+AnonDefinitionOnDemand.td
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/AnonDefinitionOnDemand.td
+END
+IntBitInit.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/IntBitInit.td
+END
+ListSlices.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/ListSlices.td
+END
+ListConversion.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/ListConversion.td
+END
+UnsetBitInit.td
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/89581/llvm/trunk/test/TableGen/UnsetBitInit.td
+END
+nested-comment.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/nested-comment.td
+END
+UnterminatedComment.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/UnterminatedComment.td
+END
+TreeNames.td
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/TreeNames.td
+END
+Include.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/Include.inc
+END
+CStyleComment.td
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/CStyleComment.td
+END
+ListArgs.td
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/74445/llvm/trunk/test/TableGen/ListArgs.td
+END
+2003-08-03-PassCode.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/2003-08-03-PassCode.td
+END
+TemplateArgRename.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/TemplateArgRename.td
+END
+DefmInherit.td
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/DefmInherit.td
+END
+Tree.td
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/Tree.td
+END
+MultiClassDefName.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70979/llvm/trunk/test/TableGen/MultiClassDefName.td
+END
+strconcat.td
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/strconcat.td
+END
+ForwardRef.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/ForwardRef.td
+END
+SuperSubclassSameName.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/SuperSubclassSameName.td
+END
+String.td
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/TableGen/String.td
+END
+foreach.td
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/71811/llvm/trunk/test/TableGen/foreach.td
+END

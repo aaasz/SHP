@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/90923/llvm/trunk/test/DebugInfo
+END
+2009-10-16-Phi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/84303/llvm/trunk/test/DebugInfo/2009-10-16-Phi.ll
+END
+2009-11-05-DeadGlobalVariable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/86212/llvm/trunk/test/DebugInfo/2009-11-05-DeadGlobalVariable.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/DebugInfo/dg.exp
+END
+2009-02-27-licm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/DebugInfo/2009-02-27-licm.ll
+END
+2009-03-03-store-to-load-forward.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/DebugInfo/2009-03-03-store-to-load-forward.ll
+END
+2009-11-03-InsertExtractValue.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/85921/llvm/trunk/test/DebugInfo/2009-11-03-InsertExtractValue.ll
+END
+2009-03-05-gvn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81540/llvm/trunk/test/DebugInfo/2009-03-05-gvn.ll
+END
+2009-11-06-InvalidDerivedType.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/86281/llvm/trunk/test/DebugInfo/2009-11-06-InvalidDerivedType.ll
+END
+funccall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/DebugInfo/funccall.ll
+END
+2009-11-06-NamelessGlobalVariable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/86259/llvm/trunk/test/DebugInfo/2009-11-06-NamelessGlobalVariable.ll
+END
+2009-11-10-CurrentFn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86795/llvm/trunk/test/DebugInfo/2009-11-10-CurrentFn.ll
+END
+2009-12-01-CurrentFn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/90247/llvm/trunk/test/DebugInfo/2009-12-01-CurrentFn.ll
+END
+2009-10-08-DebugInfo-NullGlobalVariable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/83573/llvm/trunk/test/DebugInfo/2009-10-08-DebugInfo-NullGlobalVariable.ll
+END
+globalGetElementPtr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/DebugInfo/globalGetElementPtr.ll
+END
+2009-01-15-member.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81226/llvm/trunk/test/DebugInfo/2009-01-15-member.ll
+END
+2009-03-03-deadstore.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/DebugInfo/2009-03-03-deadstore.ll
+END
+2009-10-16-Scope.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/84303/llvm/trunk/test/DebugInfo/2009-10-16-Scope.ll
+END
+2009-03-03-cheapdse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/DebugInfo/2009-03-03-cheapdse.ll
+END
+2009-01-15-dbg_declare.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81226/llvm/trunk/test/DebugInfo/2009-01-15-dbg_declare.ll
+END
+deaddebuglabel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81226/llvm/trunk/test/DebugInfo/deaddebuglabel.ll
+END
+printdbginfo2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/DebugInfo/printdbginfo2.ll
+END
+2009-11-10-ParentScope.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/86763/llvm/trunk/test/DebugInfo/2009-11-10-ParentScope.ll
+END

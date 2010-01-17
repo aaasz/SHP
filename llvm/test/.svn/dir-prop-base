@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 30
+*.log
+*.sum
+site.exp
+site.bak
+
+END

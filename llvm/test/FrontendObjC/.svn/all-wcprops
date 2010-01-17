@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/90626/llvm/trunk/test/FrontendObjC
+END
+2007-10-18-ProDescriptor.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2007-10-18-ProDescriptor.m
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/dg.exp
+END
+2009-01-26-WriteBarrier-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2009-01-26-WriteBarrier-2.m
+END
+2007-09-25-EH.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2007-09-25-EH.m
+END
+2007-10-17-SJLJExceptions.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/76382/llvm/trunk/test/FrontendObjC/2007-10-17-SJLJExceptions.m
+END
+2009-11-30-Objc-ID.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/90626/llvm/trunk/test/FrontendObjC/2009-11-30-Objc-ID.m
+END
+2008-10-3-EhValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2008-10-3-EhValue.m
+END
+2009-04-14-AsmSection.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/80598/llvm/trunk/test/FrontendObjC/2009-04-14-AsmSection.m
+END
+2008-11-24-ConstCFStrings.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2008-11-24-ConstCFStrings.m
+END
+2007-05-02-Strong.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2007-05-02-Strong.m
+END
+2009-08-17-DebugInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/90626/llvm/trunk/test/FrontendObjC/2009-08-17-DebugInfo.m
+END
+2009-08-05-utf16.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/78251/llvm/trunk/test/FrontendObjC/2009-08-05-utf16.m
+END
+2008-11-12-Metadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2008-11-12-Metadata.m
+END
+2009-04-27-bitfield-vs-ivar.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/80598/llvm/trunk/test/FrontendObjC/2009-04-27-bitfield-vs-ivar.m
+END
+2008-11-25-Blocks.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2008-11-25-Blocks.m
+END
+2009-02-05-VolatileProp.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2009-02-05-VolatileProp.m
+END
+2007-10-23-GC-WriteBarrier.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2007-10-23-GC-WriteBarrier.m
+END
+2009-04-28-bitfield-vs-vbc.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2009-04-28-bitfield-vs-vbc.m
+END
+2007-04-03-ObjcEH.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendObjC/2007-04-03-ObjcEH.m
+END

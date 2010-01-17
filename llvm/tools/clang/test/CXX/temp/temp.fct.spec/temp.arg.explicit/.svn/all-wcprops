@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/84417/cfe/trunk/test/CXX/temp/temp.fct.spec/temp.arg.explicit
+END
+p1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/74576/cfe/trunk/test/CXX/temp/temp.fct.spec/temp.arg.explicit/p1.cpp
+END
+p3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/77249/cfe/trunk/test/CXX/temp/temp.fct.spec/temp.arg.explicit/p3.cpp
+END

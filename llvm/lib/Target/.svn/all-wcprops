@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/llvm-project/!svn/ver/91417/llvm/trunk/lib/Target
+END
+TargetSubtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/88682/llvm/trunk/lib/Target/TargetSubtarget.cpp
+END
+TargetRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/83677/llvm/trunk/lib/Target/TargetRegisterInfo.cpp
+END
+TargetMachOWriterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/TargetMachOWriterInfo.cpp
+END
+TargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/82418/llvm/trunk/lib/Target/TargetMachine.cpp
+END
+SubtargetFeature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89893/llvm/trunk/lib/Target/SubtargetFeature.cpp
+END
+TargetFrameInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/TargetFrameInfo.cpp
+END
+TargetData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/90656/llvm/trunk/lib/Target/TargetData.cpp
+END
+TargetInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/79777/llvm/trunk/lib/Target/TargetInstrInfo.cpp
+END
+TargetLoweringObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/89379/llvm/trunk/lib/Target/TargetLoweringObjectFile.cpp
+END
+TargetIntrinsicInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/84192/llvm/trunk/lib/Target/TargetIntrinsicInfo.cpp
+END
+TargetELFWriterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/74686/llvm/trunk/lib/Target/TargetELFWriterInfo.cpp
+END
+Target.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/78948/llvm/trunk/lib/Target/Target.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/91230/llvm/trunk/lib/Target/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/80124/llvm/trunk/lib/Target/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/Makefile
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/81663/llvm/trunk/test/LLVMC/C
+END
+opt-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/81663/llvm/trunk/test/LLVMC/C/opt-test.c
+END
+wall.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/81663/llvm/trunk/test/LLVMC/C/wall.c
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/81663/llvm/trunk/test/LLVMC/C/hello.c
+END
+include.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/81661/llvm/trunk/test/LLVMC/C/include.c
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/81661/llvm/trunk/test/LLVMC/C/dg.exp
+END
+sink.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/81663/llvm/trunk/test/LLVMC/C/sink.c
+END
+emit-llvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/81661/llvm/trunk/test/LLVMC/C/emit-llvm.c
+END

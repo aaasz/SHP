@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC
+END
+MCExpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCExpr.cpp
+END
+MCAsmLexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/78980/llvm/trunk/lib/MC/MCAsmLexer.cpp
+END
+MCInstPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/83318/llvm/trunk/lib/MC/MCInstPrinter.cpp
+END
+MCStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/79324/llvm/trunk/lib/MC/MCStreamer.cpp
+END
+MCAsmStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCAsmStreamer.cpp
+END
+TargetAsmParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/76257/llvm/trunk/lib/MC/TargetAsmParser.cpp
+END
+MCContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCContext.cpp
+END
+MCAsmInfoCOFF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/79773/llvm/trunk/lib/MC/MCAsmInfoCOFF.cpp
+END
+MCMachOStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCMachOStreamer.cpp
+END
+MCSectionELF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCSectionELF.cpp
+END
+MCAsmInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/85086/llvm/trunk/lib/MC/MCAsmInfo.cpp
+END
+MCAsmParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/76453/llvm/trunk/lib/MC/MCAsmParser.cpp
+END
+MCAsmInfoDarwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81991/llvm/trunk/lib/MC/MCAsmInfoDarwin.cpp
+END
+MCSection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCSection.cpp
+END
+MCCodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/80193/llvm/trunk/lib/MC/MCCodeEmitter.cpp
+END
+MCSymbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCSymbol.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/81757/llvm/trunk/lib/MC/CMakeLists.txt
+END
+MCSectionMachO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCSectionMachO.cpp
+END
+MCValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/80890/llvm/trunk/lib/MC/MCValue.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/74013/llvm/trunk/lib/MC/Makefile
+END
+MCNullStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCNullStreamer.cpp
+END
+MCInst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/81628/llvm/trunk/lib/MC/MCInst.cpp
+END
+MCDisassembler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/83318/llvm/trunk/lib/MC/MCDisassembler.cpp
+END
+MCAssembler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/MC/MCAssembler.cpp
+END

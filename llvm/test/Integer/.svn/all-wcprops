@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/81081/llvm/trunk/test/Integer
+END
+a9.ll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/a9.ll
+END
+simplecalltest_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/simplecalltest_bt.ll
+END
+newcasts_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/newcasts_bt.ll
+END
+packed_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/packed_bt.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/dg.exp
+END
+packed_struct_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/packed_struct_bt.ll
+END
+properties_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/properties_bt.ll
+END
+a31.ll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/a31.ll
+END
+globalredefinition_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/globalredefinition_bt.ll
+END
+a15.ll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/a15.ll
+END
+a33.ll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/a33.ll
+END
+fold-fpcast_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/fold-fpcast_bt.ll
+END
+BitIcmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/BitIcmp.ll
+END
+a17.ll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/a17.ll
+END
+a63.ll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/a63.ll
+END
+BitCast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/BitCast.ll
+END
+instructions_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/instructions_bt.ll
+END
+testvarargs_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testvarargs_bt.ll
+END
+prototype_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/prototype_bt.ll
+END
+2007-01-19-TruncSext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/2007-01-19-TruncSext.ll
+END
+testarith_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testarith_bt.ll
+END
+testmemory_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testmemory_bt.ll
+END
+small_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/small_bt.ll
+END
+recursivetype_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/recursivetype_bt.ll
+END
+varargs_new_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/varargs_new_bt.ll
+END
+alignment_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/alignment_bt.ll
+END
+opaquetypes_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/opaquetypes_bt.ll
+END
+indirectcall2_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/indirectcall2_bt.ll
+END
+testlogical_new_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testlogical_new_bt.ll
+END
+constexpr_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/constexpr_bt.ll
+END
+constpointer_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/constpointer_bt.ll
+END
+a7.ll.out
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/78865/llvm/trunk/test/Integer/a7.ll.out
+END
+BitBit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/BitBit.ll
+END
+BitMem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/BitMem.ll
+END
+testicmp_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testicmp_bt.ll
+END
+a9.ll.out
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/78865/llvm/trunk/test/Integer/a9.ll.out
+END
+testalloca_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testalloca_bt.ll
+END
+globalvars_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/globalvars_bt.ll
+END
+indirectcall_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/indirectcall_bt.ll
+END
+forwardreftest_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/forwardreftest_bt.ll
+END
+BitPacked.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/BitPacked.ll
+END
+testswitch_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testswitch_bt.ll
+END
+undefined_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/undefined_bt.ll
+END
+cfgstructures_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/cfgstructures_bt.ll
+END
+BitMisc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/BitMisc.ll
+END
+a31.ll.out
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/78865/llvm/trunk/test/Integer/a31.ll.out
+END
+varargs_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81081/llvm/trunk/test/Integer/varargs_bt.ll
+END
+a15.ll.out
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/78865/llvm/trunk/test/Integer/a15.ll.out
+END
+a33.ll.out
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/78865/llvm/trunk/test/Integer/a33.ll.out
+END
+a17.ll.out
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/78865/llvm/trunk/test/Integer/a17.ll.out
+END
+unreachable_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/unreachable_bt.ll
+END
+a63.ll.out
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/78865/llvm/trunk/test/Integer/a63.ll.out
+END
+testlogical_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testlogical_bt.ll
+END
+testconstants_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/testconstants_bt.ll
+END
+paramattrs_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/paramattrs_bt.ll
+END
+basictest_bt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/basictest_bt.ll
+END
+BitArith.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/BitArith.ll
+END
+a7.ll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Integer/a7.ll
+END

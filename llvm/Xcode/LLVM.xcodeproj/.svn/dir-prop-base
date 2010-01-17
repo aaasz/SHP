@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 60
+*.perspective
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+END

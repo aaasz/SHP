@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 19
+Output
+*.log
+*.sum
+
+K 13
+svn:mergeinfo
+V 0
+
+END

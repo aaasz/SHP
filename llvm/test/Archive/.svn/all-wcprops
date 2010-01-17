@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/81287/llvm/trunk/test/Archive
+END
+extract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/81287/llvm/trunk/test/Archive/extract.ll
+END
+SVR4.toc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/SVR4.toc
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/dg.exp
+END
+evenlen
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/evenlen
+END
+toc_xpg4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/toc_xpg4.ll
+END
+xpg4.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/xpg4.a
+END
+very_long_bytecode_file_name.bc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/very_long_bytecode_file_name.bc
+END
+toc_GNU.ll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/toc_GNU.ll
+END
+IsNAN.o
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/IsNAN.o
+END
+oddlen
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/oddlen
+END
+toc_MacOSX.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/toc_MacOSX.ll
+END
+xpg4.toc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/xpg4.toc
+END
+GNU.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/GNU.a
+END
+MacOSX.a
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/MacOSX.a
+END
+toc_SVR4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/toc_SVR4.ll
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/README.txt
+END
+SVR4.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/SVR4.a
+END
+GNU.toc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/GNU.toc
+END
+MacOSX.toc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/MacOSX.toc
+END

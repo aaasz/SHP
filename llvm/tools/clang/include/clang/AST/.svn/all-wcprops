@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/91424/cfe/trunk/include/clang/AST
+END
+CanonicalType.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91180/cfe/trunk/include/clang/AST/CanonicalType.h
+END
+PrettyPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/PrettyPrinter.h
+END
+ASTDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/ASTDiagnostic.h
+END
+TypeLocVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91207/cfe/trunk/include/clang/AST/TypeLocVisitor.h
+END
+StmtGraphTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/StmtGraphTraits.h
+END
+StmtIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/85087/cfe/trunk/include/clang/AST/StmtIterator.h
+END
+TypeVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/TypeVisitor.h
+END
+DeclBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91256/cfe/trunk/include/clang/AST/DeclBase.h
+END
+ASTConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86070/cfe/trunk/include/clang/AST/ASTConsumer.h
+END
+DeclTemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90743/cfe/trunk/include/clang/AST/DeclTemplate.h
+END
+TemplateBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91207/cfe/trunk/include/clang/AST/TemplateBase.h
+END
+DeclNodes.def
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90313/cfe/trunk/include/clang/AST/DeclNodes.def
+END
+StmtVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/StmtVisitor.h
+END
+Attr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/90140/cfe/trunk/include/clang/AST/Attr.h
+END
+ExternalASTSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/ExternalASTSource.h
+END
+TypeOrdering.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91424/cfe/trunk/include/clang/AST/TypeOrdering.h
+END
+TemplateName.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90306/cfe/trunk/include/clang/AST/TemplateName.h
+END
+CXXInheritance.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/84426/cfe/trunk/include/clang/AST/CXXInheritance.h
+END
+ExprObjC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/ExprObjC.h
+END
+RecordLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90745/cfe/trunk/include/clang/AST/RecordLayout.h
+END
+Expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91315/cfe/trunk/include/clang/AST/Expr.h
+END
+TypeLocNodes.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/84386/cfe/trunk/include/clang/AST/TypeLocNodes.def
+END
+TypeNodes.def
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90614/cfe/trunk/include/clang/AST/TypeNodes.def
+END
+DeclGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/85087/cfe/trunk/include/clang/AST/DeclGroup.h
+END
+DeclarationName.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/AST/DeclarationName.h
+END
+AST.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/63750/cfe/trunk/include/clang/AST/AST.h
+END
+StmtNodes.def
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90161/cfe/trunk/include/clang/AST/StmtNodes.def
+END
+DeclCXX.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90992/cfe/trunk/include/clang/AST/DeclCXX.h
+END
+DeclContextInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/91234/cfe/trunk/include/clang/AST/DeclContextInternals.h
+END
+ASTContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91189/cfe/trunk/include/clang/AST/ASTContext.h
+END
+APValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/APValue.h
+END
+ExprCXX.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/91218/cfe/trunk/include/clang/AST/ExprCXX.h
+END
+Redeclarable.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89822/cfe/trunk/include/clang/AST/Redeclarable.h
+END
+DeclObjC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90743/cfe/trunk/include/clang/AST/DeclObjC.h
+END
+Decl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/90965/cfe/trunk/include/clang/AST/Decl.h
+END
+StmtCXX.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90604/cfe/trunk/include/clang/AST/StmtCXX.h
+END
+NestedNameSpecifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/NestedNameSpecifier.h
+END
+TypeLoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90743/cfe/trunk/include/clang/AST/TypeLoc.h
+END
+Type.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91424/cfe/trunk/include/clang/AST/Type.h
+END
+StmtObjC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/StmtObjC.h
+END
+TypeLocBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/90743/cfe/trunk/include/clang/AST/TypeLocBuilder.h
+END
+Stmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/90161/cfe/trunk/include/clang/AST/Stmt.h
+END
+ParentMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/AST/ParentMap.h
+END
+DeclVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/68522/cfe/trunk/include/clang/AST/DeclVisitor.h
+END

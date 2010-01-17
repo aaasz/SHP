@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/91238/cfe/trunk/tools/CIndex
+END
+CIndex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/91238/cfe/trunk/tools/CIndex/CIndex.cpp
+END
+CIndex.exports
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90385/cfe/trunk/tools/CIndex/CIndex.exports
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90350/cfe/trunk/tools/CIndex/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/90350/cfe/trunk/tools/CIndex/Makefile
+END

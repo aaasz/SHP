@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/Support
+END
+global_constant.ads
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/Support/global_constant.ads
+END
+unc_constructor.ads
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/Support/unc_constructor.ads
+END
+var_offset.ads
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/Support/var_offset.ads
+END
+fat_fields.ads
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/Support/fat_fields.ads
+END
+non_lvalue.ads
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/Support/non_lvalue.ads
+END
+var_size.ads
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/Support/var_size.ads
+END
+element_copy.ads
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/FrontendAda/Support/element_copy.ads
+END

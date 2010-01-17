@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/86107/cfe/trunk/include/clang/Rewrite
+END
+DeltaTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Rewrite/DeltaTree.h
+END
+Rewriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Rewrite/Rewriter.h
+END
+TokenRewriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Rewrite/TokenRewriter.h
+END
+HTMLRewrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/86107/cfe/trunk/include/clang/Rewrite/HTMLRewrite.h
+END
+RewriteRope.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Rewrite/RewriteRope.h
+END

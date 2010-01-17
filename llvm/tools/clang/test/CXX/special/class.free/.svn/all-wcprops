@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/91180/cfe/trunk/test/CXX/special/class.free
+END
+p1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/88858/cfe/trunk/test/CXX/special/class.free/p1.cpp
+END
+p6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91180/cfe/trunk/test/CXX/special/class.free/p6.cpp
+END

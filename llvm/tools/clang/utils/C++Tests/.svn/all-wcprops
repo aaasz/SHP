@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/91326/cfe/trunk/utils/C++Tests
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/89937/cfe/trunk/utils/C++Tests/lit.cfg
+END

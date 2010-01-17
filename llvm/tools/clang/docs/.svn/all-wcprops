@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/llvm-project/!svn/ver/91367/cfe/trunk/docs
+END
+AnalyzerRegions.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/69587/cfe/trunk/docs/AnalyzerRegions.html
+END
+doxygen.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/54103/cfe/trunk/docs/doxygen.cfg.in
+END
+DriverArchitecture.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/68030/cfe/trunk/docs/DriverArchitecture.png
+END
+BlockLanguageSpec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/66413/cfe/trunk/docs/BlockLanguageSpec.txt
+END
+PCHLayout.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/72779/cfe/trunk/docs/PCHLayout.png
+END
+PCHInternals.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/91178/cfe/trunk/docs/PCHInternals.html
+END
+InternalsManual.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/81811/cfe/trunk/docs/InternalsManual.html
+END
+libIndex.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/91178/cfe/trunk/docs/libIndex.html
+END
+UsersManual.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/91367/cfe/trunk/docs/UsersManual.html
+END
+doxygen.header
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/54103/cfe/trunk/docs/doxygen.header
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/54111/cfe/trunk/docs/doxygen.css
+END
+LanguageExtensions.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90390/cfe/trunk/docs/LanguageExtensions.html
+END
+doxygen.intro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/54103/cfe/trunk/docs/doxygen.intro
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/40471/cfe/trunk/docs/index.html
+END
+doxygen.footer
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/54113/cfe/trunk/docs/doxygen.footer
+END
+doxygen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/54103/cfe/trunk/docs/doxygen.cfg
+END
+PCHLayout.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/72779/cfe/trunk/docs/PCHLayout.graffle
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/70589/cfe/trunk/docs/Makefile
+END
+PTHInternals.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/91178/cfe/trunk/docs/PTHInternals.html
+END
+DriverInternals.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/78991/cfe/trunk/docs/DriverInternals.html
+END
+BlockImplementation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/90833/cfe/trunk/docs/BlockImplementation.txt
+END

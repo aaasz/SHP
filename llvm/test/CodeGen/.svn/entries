@@ -1,0 +1,79 @@
+10
+
+dir
+91430
+http://llvm.org/svn/llvm-project/llvm/trunk/test/CodeGen
+http://llvm.org/svn/llvm-project
+
+
+
+2009-12-15T03:27:52.144622Z
+91410
+kennethuil
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+ARM
+dir
+
+PowerPC
+dir
+
+Thumb
+dir
+
+XCore
+dir
+
+CPP
+dir
+
+PIC16
+dir
+
+Alpha
+dir
+
+X86
+dir
+
+MSP430
+dir
+
+CBackend
+dir
+
+Thumb2
+dir
+
+CellSPU
+dir
+
+Mips
+dir
+
+SPARC
+dir
+
+Blackfin
+dir
+
+Generic
+dir
+
+SystemZ
+dir
+

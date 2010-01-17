@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/83488/llvm/trunk/test/MC/MachO
+END
+zerofill-1.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/80347/llvm/trunk/test/MC/MachO/zerofill-1.s
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/80213/llvm/trunk/test/MC/MachO/dg.exp
+END
+zerofill-2.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/80347/llvm/trunk/test/MC/MachO/zerofill-2.s
+END
+zerofill-3.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/80347/llvm/trunk/test/MC/MachO/zerofill-3.s
+END
+symbols-1.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/80162/llvm/trunk/test/MC/MachO/symbols-1.s
+END
+sections.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/83488/llvm/trunk/test/MC/MachO/sections.s
+END
+comm-1.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/80351/llvm/trunk/test/MC/MachO/comm-1.s
+END
+section-align-1.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/80067/llvm/trunk/test/MC/MachO/section-align-1.s
+END
+section-align-2.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/80067/llvm/trunk/test/MC/MachO/section-align-2.s
+END
+lcomm-attributes.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/80347/llvm/trunk/test/MC/MachO/lcomm-attributes.s
+END
+values.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/80065/llvm/trunk/test/MC/MachO/values.s
+END
+symbol-flags.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/79899/llvm/trunk/test/MC/MachO/symbol-flags.s
+END
+symbol-indirect.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/80069/llvm/trunk/test/MC/MachO/symbol-indirect.s
+END
+reloc.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/80089/llvm/trunk/test/MC/MachO/reloc.s
+END
+data.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/79737/llvm/trunk/test/MC/MachO/data.s
+END

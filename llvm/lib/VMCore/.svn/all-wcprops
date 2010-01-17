@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/llvm-project/!svn/ver/91421/llvm/trunk/lib/VMCore
+END
+ConstantFold.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/82349/llvm/trunk/lib/VMCore/ConstantFold.h
+END
+Instructions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/86712/llvm/trunk/lib/VMCore/Instructions.cpp
+END
+LeakDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/85728/llvm/trunk/lib/VMCore/LeakDetector.cpp
+END
+LeaksContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/85728/llvm/trunk/lib/VMCore/LeaksContext.h
+END
+Verifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/89646/llvm/trunk/lib/VMCore/Verifier.cpp
+END
+Constants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90834/llvm/trunk/lib/VMCore/Constants.cpp
+END
+AsmWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90738/llvm/trunk/lib/VMCore/AsmWriter.cpp
+END
+TypesContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/80590/llvm/trunk/lib/VMCore/TypesContext.h
+END
+LLVMContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/84801/llvm/trunk/lib/VMCore/LLVMContext.cpp
+END
+InlineAsm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/VMCore/InlineAsm.cpp
+END
+AutoUpgrade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/84106/llvm/trunk/lib/VMCore/AutoUpgrade.cpp
+END
+Type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/85728/llvm/trunk/lib/VMCore/Type.cpp
+END
+Instruction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/85936/llvm/trunk/lib/VMCore/Instruction.cpp
+END
+Mangler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/82454/llvm/trunk/lib/VMCore/Mangler.cpp
+END
+Function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91109/llvm/trunk/lib/VMCore/Function.cpp
+END
+ConstantsContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/85728/llvm/trunk/lib/VMCore/ConstantsContext.h
+END
+Attributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/80063/llvm/trunk/lib/VMCore/Attributes.cpp
+END
+Core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/89648/llvm/trunk/lib/VMCore/Core.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/78118/llvm/trunk/lib/VMCore/CMakeLists.txt
+END
+BasicBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/90365/llvm/trunk/lib/VMCore/BasicBlock.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/VMCore/Makefile
+END
+ConstantFold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/85375/llvm/trunk/lib/VMCore/ConstantFold.cpp
+END
+IntrinsicInst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/80778/llvm/trunk/lib/VMCore/IntrinsicInst.cpp
+END
+ModuleProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/VMCore/ModuleProvider.cpp
+END
+ValueTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/80406/llvm/trunk/lib/VMCore/ValueTypes.cpp
+END
+PassManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90855/llvm/trunk/lib/VMCore/PassManager.cpp
+END
+LLVMContextImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/91421/llvm/trunk/lib/VMCore/LLVMContextImpl.h
+END
+Pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/91319/llvm/trunk/lib/VMCore/Pass.cpp
+END
+ValueSymbolTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/VMCore/ValueSymbolTable.cpp
+END
+Value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/85728/llvm/trunk/lib/VMCore/Value.cpp
+END
+Dominators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/85011/llvm/trunk/lib/VMCore/Dominators.cpp
+END
+TypeSymbolTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/VMCore/TypeSymbolTable.cpp
+END
+Metadata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/90015/llvm/trunk/lib/VMCore/Metadata.cpp
+END
+Globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/89014/llvm/trunk/lib/VMCore/Globals.cpp
+END
+Module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86251/llvm/trunk/lib/VMCore/Module.cpp
+END
+SymbolTableListTraitsImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/VMCore/SymbolTableListTraitsImpl.h
+END
+PrintModulePass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/85043/llvm/trunk/lib/VMCore/PrintModulePass.cpp
+END
+Use.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/81107/llvm/trunk/lib/VMCore/Use.cpp
+END

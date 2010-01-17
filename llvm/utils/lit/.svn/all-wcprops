@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/llvm-project/!svn/ver/90871/llvm/trunk/utils/lit
+END
+ShUtil.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/81190/llvm/trunk/utils/lit/ShUtil.py
+END
+lit.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/90871/llvm/trunk/utils/lit/lit.py
+END
+ProgressBar.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/81190/llvm/trunk/utils/lit/ProgressBar.py
+END
+TestRunner.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/88827/llvm/trunk/utils/lit/TestRunner.py
+END
+TestFormats.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/89210/llvm/trunk/utils/lit/TestFormats.py
+END
+ShCommands.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/81194/llvm/trunk/utils/lit/ShCommands.py
+END
+Util.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/85018/llvm/trunk/utils/lit/Util.py
+END
+LitConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/86137/llvm/trunk/utils/lit/LitConfig.py
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/81190/llvm/trunk/utils/lit/TODO
+END
+Test.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/88827/llvm/trunk/utils/lit/Test.py
+END
+TclUtil.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/81194/llvm/trunk/utils/lit/TclUtil.py
+END
+TestingConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86436/llvm/trunk/utils/lit/TestingConfig.py
+END
+LitFormats.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/88844/llvm/trunk/utils/lit/LitFormats.py
+END

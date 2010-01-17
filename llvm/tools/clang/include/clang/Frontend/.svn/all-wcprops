@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/Frontend
+END
+HeaderSearchOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/91370/cfe/trunk/include/clang/Frontend/HeaderSearchOptions.h
+END
+FrontendOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/90422/cfe/trunk/include/clang/Frontend/FrontendOptions.h
+END
+VerifyDiagnosticsClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/89092/cfe/trunk/include/clang/Frontend/VerifyDiagnosticsClient.h
+END
+LangStandards.def
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/89919/cfe/trunk/include/clang/Frontend/LangStandards.def
+END
+AnalysisConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/90810/cfe/trunk/include/clang/Frontend/AnalysisConsumer.h
+END
+ChainedDiagnosticClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/88835/cfe/trunk/include/clang/Frontend/ChainedDiagnosticClient.h
+END
+CompilerInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/90704/cfe/trunk/include/clang/Frontend/CompilerInstance.h
+END
+DocumentXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/82705/cfe/trunk/include/clang/Frontend/DocumentXML.h
+END
+FrontendActions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/88774/cfe/trunk/include/clang/Frontend/FrontendActions.h
+END
+PreprocessorOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/90307/cfe/trunk/include/clang/Frontend/PreprocessorOptions.h
+END
+LangStandard.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/90053/cfe/trunk/include/clang/Frontend/LangStandard.h
+END
+CompilerInvocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/91370/cfe/trunk/include/clang/Frontend/CompilerInvocation.h
+END
+DeclContextXML.def
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/73402/cfe/trunk/include/clang/Frontend/DeclContextXML.def
+END
+FrontendAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/90073/cfe/trunk/include/clang/Frontend/FrontendAction.h
+END
+TextDiagnosticBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/90125/cfe/trunk/include/clang/Frontend/TextDiagnosticBuffer.h
+END
+FrontendDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Frontend/FrontendDiagnostic.h
+END
+PCHBitCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/90614/cfe/trunk/include/clang/Frontend/PCHBitCodes.h
+END
+PCHReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/90743/cfe/trunk/include/clang/Frontend/PCHReader.h
+END
+TextDiagnosticPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/88744/cfe/trunk/include/clang/Frontend/TextDiagnosticPrinter.h
+END
+DeclXML.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/89744/cfe/trunk/include/clang/Frontend/DeclXML.def
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86968/cfe/trunk/include/clang/Frontend/Utils.h
+END
+DiagnosticOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/87044/cfe/trunk/include/clang/Frontend/DiagnosticOptions.h
+END
+CommandLineSourceLoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/89855/cfe/trunk/include/clang/Frontend/CommandLineSourceLoc.h
+END
+DocumentXML.def
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/73402/cfe/trunk/include/clang/Frontend/DocumentXML.def
+END
+FixItRewriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Frontend/FixItRewriter.h
+END
+PCHWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91422/cfe/trunk/include/clang/Frontend/PCHWriter.h
+END
+TypeXML.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/88969/cfe/trunk/include/clang/Frontend/TypeXML.def
+END
+DependencyOutputOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/88835/cfe/trunk/include/clang/Frontend/DependencyOutputOptions.h
+END
+StmtXML.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/89817/cfe/trunk/include/clang/Frontend/StmtXML.def
+END
+PathDiagnosticClients.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/90035/cfe/trunk/include/clang/Frontend/PathDiagnosticClients.h
+END
+PreprocessorOutputOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/86880/cfe/trunk/include/clang/Frontend/PreprocessorOutputOptions.h
+END
+ASTConsumers.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/91176/cfe/trunk/include/clang/Frontend/ASTConsumers.h
+END
+Analyses.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/86464/cfe/trunk/include/clang/Frontend/Analyses.def
+END
+FrontendPluginRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/88824/cfe/trunk/include/clang/Frontend/FrontendPluginRegistry.h
+END
+ASTUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91238/cfe/trunk/include/clang/Frontend/ASTUnit.h
+END

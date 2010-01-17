@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/llvm-project/!svn/ver/91270/cfe/trunk/test/Lexer
+END
+char-escapes.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/73153/cfe/trunk/test/Lexer/char-escapes.c
+END
+pragma-mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/pragma-mark.c
+END
+11-27-2007-FloatLiterals.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/84005/cfe/trunk/test/Lexer/11-27-2007-FloatLiterals.c
+END
+comment-escape.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/test/Lexer/comment-escape.c
+END
+badstring_in_if0.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/badstring_in_if0.c
+END
+dollar-idents.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Lexer/dollar-idents.c
+END
+cxx0x_keyword_as_cxx98.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/cxx0x_keyword_as_cxx98.cpp
+END
+msdos-cpm-eof.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/90860/cfe/trunk/test/Lexer/msdos-cpm-eof.c
+END
+unknown-char.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/unknown-char.c
+END
+numeric-literal-trash.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/numeric-literal-trash.c
+END
+multiple-include.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/multiple-include.c
+END
+constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/71572/cfe/trunk/test/Lexer/constants.c
+END
+cxx0x_keyword.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/cxx0x_keyword.cpp
+END
+digraph.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/89070/cfe/trunk/test/Lexer/digraph.c
+END
+counter.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Lexer/counter.c
+END
+conflict-marker.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91270/cfe/trunk/test/Lexer/conflict-marker.c
+END
+escape_newline.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Lexer/escape_newline.c
+END
+block_cmt_end.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Lexer/block_cmt_end.c
+END
+token-concat-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/73408/cfe/trunk/test/Lexer/token-concat-2.c
+END
+token-concat.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Lexer/token-concat.c
+END
+has_feature_exceptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/90378/cfe/trunk/test/Lexer/has_feature_exceptions.cpp
+END
+has_feature_rtti.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90376/cfe/trunk/test/Lexer/has_feature_rtti.cpp
+END
+constants-ms.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90036/cfe/trunk/test/Lexer/constants-ms.c
+END
+c90.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/c90.c
+END
+rdr-6096838-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/Lexer/rdr-6096838-2.c
+END
+rdr-6096838.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Lexer/rdr-6096838.c
+END

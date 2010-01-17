@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/llvm-project/!svn/ver/91352/llvm/trunk/docs
+END
+CFEBuildInstrs.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/CFEBuildInstrs.html
+END
+BitCodeFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/85479/llvm/trunk/docs/BitCodeFormat.html
+END
+CompilerWriterInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/CompilerWriterInfo.html
+END
+WritingAnLLVMPass.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/WritingAnLLVMPass.html
+END
+CompilerDriver.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90776/llvm/trunk/docs/CompilerDriver.html
+END
+Bugpoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/83865/llvm/trunk/docs/Bugpoint.html
+END
+GettingStarted.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/90972/llvm/trunk/docs/GettingStarted.html
+END
+Projects.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/78930/llvm/trunk/docs/Projects.html
+END
+ReleaseNotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/85951/llvm/trunk/docs/ReleaseNotes.html
+END
+TestingGuide.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/82892/llvm/trunk/docs/TestingGuide.html
+END
+AliasAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/89599/llvm/trunk/docs/AliasAnalysis.html
+END
+Passes.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/85372/llvm/trunk/docs/Passes.html
+END
+llvm.css
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/71055/llvm/trunk/docs/llvm.css
+END
+GettingStartedVS.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/78196/llvm/trunk/docs/GettingStartedVS.html
+END
+ExceptionHandling.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/84106/llvm/trunk/docs/ExceptionHandling.html
+END
+SourceLevelDebugging.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/90184/llvm/trunk/docs/SourceLevelDebugging.html
+END
+WritingAnLLVMBackend.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81651/llvm/trunk/docs/WritingAnLLVMBackend.html
+END
+DebuggingJITedCode.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/82425/llvm/trunk/docs/DebuggingJITedCode.html
+END
+doxygen.footer
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/doxygen.footer
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/91352/llvm/trunk/docs/Makefile
+END
+doxygen.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/72092/llvm/trunk/docs/doxygen.cfg.in
+END
+LangRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/90644/llvm/trunk/docs/LangRef.html
+END
+GetElementPtr.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/GetElementPtr.html
+END
+re_format.7
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/80493/llvm/trunk/docs/re_format.7
+END
+CMake.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/90188/llvm/trunk/docs/CMake.html
+END
+ExtendingLLVM.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/ExtendingLLVM.html
+END
+CodeGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/83733/llvm/trunk/docs/CodeGenerator.html
+END
+UsingLibraries.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/76920/llvm/trunk/docs/UsingLibraries.html
+END
+TableGenFundamentals.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/85517/llvm/trunk/docs/TableGenFundamentals.html
+END
+HowToSubmitABug.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/HowToSubmitABug.html
+END
+LinkTimeOptimization.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/LinkTimeOptimization.html
+END
+CommandLine.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/CommandLine.html
+END
+GCCFEBuildInstrs.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/74793/llvm/trunk/docs/GCCFEBuildInstrs.html
+END
+MakefileGuide.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/MakefileGuide.html
+END
+HowToReleaseLLVM.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/HowToReleaseLLVM.html
+END
+ProgrammersManual.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/84902/llvm/trunk/docs/ProgrammersManual.html
+END
+Lexicon.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/Lexicon.html
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/doxygen.css
+END
+doxygen.header
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/doxygen.header
+END
+GoldPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/75000/llvm/trunk/docs/GoldPlugin.html
+END
+GarbageCollection.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/78196/llvm/trunk/docs/GarbageCollection.html
+END
+doxygen.intro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/doxygen.intro
+END
+DeveloperPolicy.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/83734/llvm/trunk/docs/DeveloperPolicy.html
+END
+FAQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/FAQ.html
+END
+CodingStandards.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/83849/llvm/trunk/docs/CodingStandards.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/82425/llvm/trunk/docs/index.html
+END
+SystemLibrary.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/76240/llvm/trunk/docs/SystemLibrary.html
+END
+CompilerDriverTutorial.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/73597/llvm/trunk/docs/CompilerDriverTutorial.html
+END
+ExtendedIntegerResults.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/docs/ExtendedIntegerResults.txt
+END

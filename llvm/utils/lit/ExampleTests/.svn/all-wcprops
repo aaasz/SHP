@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests
+END
+xpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/xpass.c
+END
+xfail.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/xfail.c
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/lit.cfg
+END
+pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/pass.c
+END
+fail.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/fail.c
+END

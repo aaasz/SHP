@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/LLVM.OutOfTree/obj/test
+END
+site.exp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/LLVM.OutOfTree/obj/test/site.exp
+END
+lit.site.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/LLVM.OutOfTree/obj/test/lit.site.cfg
+END

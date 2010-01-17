@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/77839/llvm/trunk/lib/Target/MSIL/TargetInfo
+END
+MSILTargetInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/77114/llvm/trunk/lib/Target/MSIL/TargetInfo/MSILTargetInfo.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/75751/llvm/trunk/lib/Target/MSIL/TargetInfo/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/75751/llvm/trunk/lib/Target/MSIL/TargetInfo/Makefile
+END

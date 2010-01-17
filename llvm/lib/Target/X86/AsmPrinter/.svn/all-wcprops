@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/89509/llvm/trunk/lib/Target/X86/AsmPrinter
+END
+X86AsmPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/82716/llvm/trunk/lib/Target/X86/AsmPrinter/X86AsmPrinter.h
+END
+X86ATTInstPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/84526/llvm/trunk/lib/Target/X86/AsmPrinter/X86ATTInstPrinter.cpp
+END
+X86MCInstLower.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/89506/llvm/trunk/lib/Target/X86/AsmPrinter/X86MCInstLower.h
+END
+X86IntelInstPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/82395/llvm/trunk/lib/Target/X86/AsmPrinter/X86IntelInstPrinter.cpp
+END
+X86ATTInstPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/84526/llvm/trunk/lib/Target/X86/AsmPrinter/X86ATTInstPrinter.h
+END
+X86IntelInstPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/82388/llvm/trunk/lib/Target/X86/AsmPrinter/X86IntelInstPrinter.h
+END
+X86AsmPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/88697/llvm/trunk/lib/Target/X86/AsmPrinter/X86AsmPrinter.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/84008/llvm/trunk/lib/Target/X86/AsmPrinter/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/75697/llvm/trunk/lib/Target/X86/AsmPrinter/Makefile
+END
+X86MCInstLower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/89509/llvm/trunk/lib/Target/X86/AsmPrinter/X86MCInstLower.cpp
+END

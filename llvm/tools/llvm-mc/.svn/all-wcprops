@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/85748/llvm/trunk/tools/llvm-mc
+END
+AsmLexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/82911/llvm/trunk/tools/llvm-mc/AsmLexer.cpp
+END
+AsmParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/82926/llvm/trunk/tools/llvm-mc/AsmParser.h
+END
+AsmLexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/85086/llvm/trunk/tools/llvm-mc/AsmLexer.h
+END
+llvm-mc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/85748/llvm/trunk/tools/llvm-mc/llvm-mc.cpp
+END
+AsmCond.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/78463/llvm/trunk/tools/llvm-mc/AsmCond.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/80567/llvm/trunk/tools/llvm-mc/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/79604/llvm/trunk/tools/llvm-mc/Makefile
+END
+AsmParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/84233/llvm/trunk/tools/llvm-mc/AsmParser.cpp
+END

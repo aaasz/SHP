@@ -1,0 +1,27 @@
+K 10
+svn:ignore
+V 280
+Debug
+Release
+Release-Asserts
+mklib
+Makefile.config
+config.log
+config.status
+cvs.out
+autom4te.cache
+configure.out
+LLVM-*
+_distcheckdir
+llvm.spec
+svn-commit.*
+*.patch
+*.patch.raw
+cscope.*
+Debug+Coverage-Asserts
+Release+Coverage-Asserts
+Debug+Coverage
+Release+Coverage
+Debug+Checks
+
+END

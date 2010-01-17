@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/Index
+END
+complete-property-flags.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/89281/cfe/trunk/test/Index/complete-property-flags.m
+END
+find-defs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/find-defs.c
+END
+c-index-pch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/89115/cfe/trunk/test/Index/c-index-pch.c
+END
+complete-interfaces.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89207/cfe/trunk/test/Index/complete-interfaces.m
+END
+cxx-operator-overload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81394/cfe/trunk/test/Index/cxx-operator-overload.cpp
+END
+complete-protocols.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/89196/cfe/trunk/test/Index/complete-protocols.m
+END
+complete-categories.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89223/cfe/trunk/test/Index/complete-categories.m
+END
+TestClassDecl.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/Index/TestClassDecl.m
+END
+find-decls.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/find-decls.c
+END
+complete-at-exprstmt.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/90757/cfe/trunk/test/Index/complete-at-exprstmt.m
+END
+objc-message.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/Index/objc-message.m
+END
+remap-complete.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90448/cfe/trunk/test/Index/remap-complete.c
+END
+multiple-redecls.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Index/multiple-redecls.c
+END
+c-index-api-loadTU-test.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/Index/c-index-api-loadTU-test.m
+END
+complete-properties.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/89265/cfe/trunk/test/Index/complete-properties.m
+END
+find-refs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/86431/cfe/trunk/test/Index/find-refs.c
+END
+complete-objc-message.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/91081/cfe/trunk/test/Index/complete-objc-message.m
+END
+objc-decls.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/Index/objc-decls.m
+END
+code-completion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91133/cfe/trunk/test/Index/code-completion.cpp
+END
+cindex-on-invalid.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90643/cfe/trunk/test/Index/cindex-on-invalid.m
+END
+complete-at-directives.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/90756/cfe/trunk/test/Index/complete-at-directives.m
+END
+cindex-from-source.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91235/cfe/trunk/test/Index/cindex-from-source.m
+END
+comments.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Index/comments.c
+END
+complete-member-access.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/89194/cfe/trunk/test/Index/complete-member-access.m
+END
+c-index-getCursor-test.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/Index/c-index-getCursor-test.m
+END
+resolve-loc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/Index/resolve-loc.c
+END
+c-index-api-fn-scan.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/Index/c-index-api-fn-scan.m
+END
+TestClassForwardDecl.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/Index/TestClassForwardDecl.m
+END
+complete-property-getset.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/89335/cfe/trunk/test/Index/complete-property-getset.m
+END

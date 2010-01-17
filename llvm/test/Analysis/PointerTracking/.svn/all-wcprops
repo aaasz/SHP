@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86676/llvm/trunk/test/Analysis/PointerTracking
+END
+sizes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86676/llvm/trunk/test/Analysis/PointerTracking/sizes.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/75657/llvm/trunk/test/Analysis/PointerTracking/dg.exp
+END

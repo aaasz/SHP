@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC
+END
+AppendCmdHook.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/AppendCmdHook.td
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/81661/llvm/trunk/test/LLVMC/dg.exp
+END
+OptionPreprocessor.td
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/OptionPreprocessor.td
+END
+EmptyCompilationGraph.td
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91404/llvm/trunk/test/LLVMC/EmptyCompilationGraph.td
+END
+ExternOptions.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/ExternOptions.td
+END
+HookWithArguments.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/HookWithArguments.td
+END
+HookWithInFile.td
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/HookWithInFile.td
+END
+MultiValuedOption.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/MultiValuedOption.td
+END
+MultiplePluginPriorities.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/84350/llvm/trunk/test/LLVMC/MultiplePluginPriorities.td
+END
+TestWarnings.td
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/91404/llvm/trunk/test/LLVMC/TestWarnings.td
+END
+ForwardAs.td
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/ForwardAs.td
+END
+EnvParentheses.td
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/91404/llvm/trunk/test/LLVMC/EnvParentheses.td
+END
+NoCompilationGraph.td
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91404/llvm/trunk/test/LLVMC/NoCompilationGraph.td
+END
+NoActions.td
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/NoActions.td
+END
+MultipleCompilationGraphs.td
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/91404/llvm/trunk/test/LLVMC/MultipleCompilationGraphs.td
+END
+ForwardValue.td
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/ForwardValue.td
+END
+Init.td
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/Init.td
+END
+OneOrMore.td
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/OneOrMore.td
+END
+ForwardTransformedValue.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/ForwardTransformedValue.td
+END
+OutputSuffixHook.td
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91420/llvm/trunk/test/LLVMC/OutputSuffixHook.td
+END

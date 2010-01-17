@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/ShInternal
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/ShInternal/lit.local.cfg
+END

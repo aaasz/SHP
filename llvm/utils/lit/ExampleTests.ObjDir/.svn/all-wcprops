@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests.ObjDir
+END
+lit.site.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests.ObjDir/lit.site.cfg
+END

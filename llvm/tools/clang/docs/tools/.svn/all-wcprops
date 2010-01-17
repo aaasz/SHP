@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/llvm-project/!svn/ver/85188/cfe/trunk/docs/tools
+END
+manpage.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/70355/cfe/trunk/docs/tools/manpage.css
+END
+clang.pod
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/85188/cfe/trunk/docs/tools/clang.pod
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/81983/cfe/trunk/docs/tools/Makefile
+END

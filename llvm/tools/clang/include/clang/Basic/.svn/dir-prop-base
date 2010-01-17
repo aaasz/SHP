@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 283
+Debug
+Debug+Checks
+Debug+Coverage
+Release
+Release-Asserts
+
+DiagnosticASTKinds.inc
+DiagnosticAnalysisKinds.inc
+DiagnosticCommonKinds.inc
+DiagnosticDriverKinds.inc
+DiagnosticFrontendKinds.inc
+DiagnosticGroups.inc
+DiagnosticLexKinds.inc
+DiagnosticParseKinds.inc
+DiagnosticSemaKinds.inc
+
+END

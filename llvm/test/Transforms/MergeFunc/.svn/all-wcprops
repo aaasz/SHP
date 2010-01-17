@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/MergeFunc
+END
+fold-weak.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/MergeFunc/fold-weak.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/MergeFunc/dg.exp
+END
+phi-speculation1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/MergeFunc/phi-speculation1.ll
+END
+phi-speculation2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/MergeFunc/phi-speculation2.ll
+END

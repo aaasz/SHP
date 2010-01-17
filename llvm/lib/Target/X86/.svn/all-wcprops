@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/91417/llvm/trunk/lib/Target/X86
+END
+README-UNIMPLEMENTED.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/X86/README-UNIMPLEMENTED.txt
+END
+X86MachineFunctionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/72969/llvm/trunk/lib/Target/X86/X86MachineFunctionInfo.h
+END
+X86Instr64bit.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91417/llvm/trunk/lib/Target/X86/X86Instr64bit.td
+END
+README-X86-64.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/78511/llvm/trunk/lib/Target/X86/README-X86-64.txt
+END
+X86InstrSSE.td
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/90984/llvm/trunk/lib/Target/X86/X86InstrSSE.td
+END
+X86InstrFPStack.td
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/85517/llvm/trunk/lib/Target/X86/X86InstrFPStack.td
+END
+X86InstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/91381/llvm/trunk/lib/Target/X86/X86InstrInfo.td
+END
+X86RegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/90365/llvm/trunk/lib/Target/X86/X86RegisterInfo.cpp
+END
+X86ISelLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/91405/llvm/trunk/lib/Target/X86/X86ISelLowering.cpp
+END
+X86CodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/89711/llvm/trunk/lib/Target/X86/X86CodeEmitter.cpp
+END
+X86.td
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/82395/llvm/trunk/lib/Target/X86/X86.td
+END
+X86Subtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/89506/llvm/trunk/lib/Target/X86/X86Subtarget.h
+END
+X86JITInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/89715/llvm/trunk/lib/Target/X86/X86JITInfo.h
+END
+X86FastISel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/87022/llvm/trunk/lib/Target/X86/X86FastISel.cpp
+END
+README-SSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/X86/README-SSE.txt
+END
+X86MCAsmInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81991/llvm/trunk/lib/Target/X86/X86MCAsmInfo.cpp
+END
+X86TargetObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/82269/llvm/trunk/lib/Target/X86/X86TargetObjectFile.cpp
+END
+X86ELFWriterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/78176/llvm/trunk/lib/Target/X86/X86ELFWriterInfo.cpp
+END
+X86TargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/78802/llvm/trunk/lib/Target/X86/X86TargetMachine.h
+END
+X86InstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91104/llvm/trunk/lib/Target/X86/X86InstrInfo.h
+END
+X86CompilationCallback_Win64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/77968/llvm/trunk/lib/Target/X86/X86CompilationCallback_Win64.asm
+END
+X86COFF.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/X86/X86COFF.h
+END
+README-MMX.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/X86/README-MMX.txt
+END
+X86.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/90336/llvm/trunk/lib/Target/X86/X86.h
+END
+X86CallingConv.td
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91410/llvm/trunk/lib/Target/X86/X86CallingConv.td
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/89850/llvm/trunk/lib/Target/X86/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/82381/llvm/trunk/lib/Target/X86/CMakeLists.txt
+END
+X86Relocations.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/78129/llvm/trunk/lib/Target/X86/X86Relocations.h
+END
+X86FloatingPointRegKill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/85043/llvm/trunk/lib/Target/X86/X86FloatingPointRegKill.cpp
+END
+X86ISelDAGToDAG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/89506/llvm/trunk/lib/Target/X86/X86ISelDAGToDAG.cpp
+END
+X86COFFMachineModuleInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/90370/llvm/trunk/lib/Target/X86/X86COFFMachineModuleInfo.h
+END
+X86Subtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/90781/llvm/trunk/lib/Target/X86/X86Subtarget.cpp
+END
+X86JITInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/89715/llvm/trunk/lib/Target/X86/X86JITInfo.cpp
+END
+X86RegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/87027/llvm/trunk/lib/Target/X86/X86RegisterInfo.h
+END
+X86InstrMMX.td
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/85517/llvm/trunk/lib/Target/X86/X86InstrMMX.td
+END
+X86ISelLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/91381/llvm/trunk/lib/Target/X86/X86ISelLowering.h
+END
+X86InstrBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/84424/llvm/trunk/lib/Target/X86/X86InstrBuilder.h
+END
+X86InstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/91274/llvm/trunk/lib/Target/X86/X86InstrInfo.cpp
+END
+X86TargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/90336/llvm/trunk/lib/Target/X86/X86TargetMachine.cpp
+END
+X86FloatingPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/90365/llvm/trunk/lib/Target/X86/X86FloatingPoint.cpp
+END
+README-FPStack.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/X86/README-FPStack.txt
+END
+X86InstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/84506/llvm/trunk/lib/Target/X86/X86InstrFormats.td
+END
+X86MCAsmInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/79773/llvm/trunk/lib/Target/X86/X86MCAsmInfo.h
+END
+X86TargetObjectFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/82269/llvm/trunk/lib/Target/X86/X86TargetObjectFile.h
+END
+X86ELFWriterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/78176/llvm/trunk/lib/Target/X86/X86ELFWriterInfo.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/85334/llvm/trunk/lib/Target/X86/README.txt
+END
+X86COFFMachineModuleInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/82381/llvm/trunk/lib/Target/X86/X86COFFMachineModuleInfo.cpp
+END
+X86RegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/83307/llvm/trunk/lib/Target/X86/X86RegisterInfo.td
+END

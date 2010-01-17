@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/90774/llvm/trunk/tools/llvmc/example/mcc16/plugins/PIC16Base
+END
+PIC16Base.td
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/90774/llvm/trunk/tools/llvmc/example/mcc16/plugins/PIC16Base/PIC16Base.td
+END
+PluginMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/84752/llvm/trunk/tools/llvmc/example/mcc16/plugins/PIC16Base/PluginMain.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/73013/llvm/trunk/tools/llvmc/example/mcc16/plugins/PIC16Base/Makefile
+END

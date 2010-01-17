@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/llvm-project/!svn/ver/89893/llvm/trunk/tools/lto
+END
+lto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/77960/llvm/trunk/tools/lto/lto.cpp
+END
+LTOCodeGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/89893/llvm/trunk/tools/lto/LTOCodeGenerator.cpp
+END
+lto.exports
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/72823/llvm/trunk/tools/lto/lto.exports
+END
+LTOModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/89236/llvm/trunk/tools/lto/LTOModule.cpp
+END
+LTOCodeGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/77960/llvm/trunk/tools/lto/LTOCodeGenerator.h
+END
+LTOModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/89236/llvm/trunk/tools/lto/LTOModule.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/79296/llvm/trunk/tools/lto/Makefile
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/91215/cfe/trunk/include/clang/Parse
+END
+Scope.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/86143/cfe/trunk/include/clang/Parse/Scope.h
+END
+AccessSpecifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/58817/cfe/trunk/include/clang/Parse/AccessSpecifier.h
+END
+Template.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/86720/cfe/trunk/include/clang/Parse/Template.h
+END
+Parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91024/cfe/trunk/include/clang/Parse/Parser.h
+END
+Action.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/91146/cfe/trunk/include/clang/Parse/Action.h
+END
+Ownership.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86708/cfe/trunk/include/clang/Parse/Ownership.h
+END
+AttributeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/89837/cfe/trunk/include/clang/Parse/AttributeList.h
+END
+Designator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Parse/Designator.h
+END
+ParseDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81346/cfe/trunk/include/clang/Parse/ParseDiagnostic.h
+END
+DeclSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/91215/cfe/trunk/include/clang/Parse/DeclSpec.h
+END

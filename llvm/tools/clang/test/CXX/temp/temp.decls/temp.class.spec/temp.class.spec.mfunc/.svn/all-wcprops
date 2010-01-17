@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/89512/cfe/trunk/test/CXX/temp/temp.decls/temp.class.spec/temp.class.spec.mfunc
+END
+p1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/89512/cfe/trunk/test/CXX/temp/temp.decls/temp.class.spec/temp.class.spec.mfunc/p1.cpp
+END
+p1-neg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/77606/cfe/trunk/test/CXX/temp/temp.decls/temp.class.spec/temp.class.spec.mfunc/p1-neg.cpp
+END

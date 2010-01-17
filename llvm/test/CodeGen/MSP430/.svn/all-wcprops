@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/91175/llvm/trunk/test/CodeGen/MSP430
+END
+Inst8rr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86471/llvm/trunk/test/CodeGen/MSP430/Inst8rr.ll
+END
+Inst16mi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/83837/llvm/trunk/test/CodeGen/MSP430/Inst16mi.ll
+END
+2009-05-10-CyclicDAG.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/MSP430/2009-05-10-CyclicDAG.ll
+END
+2009-05-17-Shift.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/MSP430/2009-05-17-Shift.ll
+END
+2009-09-18-AbsoluteAddr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/86382/llvm/trunk/test/CodeGen/MSP430/2009-09-18-AbsoluteAddr.ll
+END
+Inst16mm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/84808/llvm/trunk/test/CodeGen/MSP430/Inst16mm.ll
+END
+bit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/90819/llvm/trunk/test/CodeGen/MSP430/bit.ll
+END
+Inst16ri.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/84705/llvm/trunk/test/CodeGen/MSP430/Inst16ri.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/71392/llvm/trunk/test/CodeGen/MSP430/dg.exp
+END
+Inst16rm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86471/llvm/trunk/test/CodeGen/MSP430/Inst16rm.ll
+END
+2009-11-20-NewNode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/90005/llvm/trunk/test/CodeGen/MSP430/2009-11-20-NewNode.ll
+END
+2009-08-25-DynamicStackAlloc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/MSP430/2009-08-25-DynamicStackAlloc.ll
+END
+2009-10-10-OrImpDef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/83739/llvm/trunk/test/CodeGen/MSP430/2009-10-10-OrImpDef.ll
+END
+Inst8mi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/83837/llvm/trunk/test/CodeGen/MSP430/Inst8mi.ll
+END
+Inst8mm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/84808/llvm/trunk/test/CodeGen/MSP430/Inst8mm.ll
+END
+Inst8ri.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/84705/llvm/trunk/test/CodeGen/MSP430/Inst8ri.ll
+END
+setcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/91175/llvm/trunk/test/CodeGen/MSP430/setcc.ll
+END
+Inst8rm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86471/llvm/trunk/test/CodeGen/MSP430/Inst8rm.ll
+END
+2009-11-05-8BitLibcalls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/86384/llvm/trunk/test/CodeGen/MSP430/2009-11-05-8BitLibcalls.ll
+END
+postinc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86466/llvm/trunk/test/CodeGen/MSP430/postinc.ll
+END
+AddrMode-bis-xr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86382/llvm/trunk/test/CodeGen/MSP430/AddrMode-bis-xr.ll
+END
+AddrMode-bis-rx.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86382/llvm/trunk/test/CodeGen/MSP430/AddrMode-bis-rx.ll
+END
+Inst16mr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86471/llvm/trunk/test/CodeGen/MSP430/Inst16mr.ll
+END
+2009-05-19-DoubleSplit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/MSP430/2009-05-19-DoubleSplit.ll
+END
+Inst16rr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/86471/llvm/trunk/test/CodeGen/MSP430/Inst16rr.ll
+END
+2009-11-08-InvalidResNo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/86462/llvm/trunk/test/CodeGen/MSP430/2009-11-08-InvalidResNo.ll
+END
+inline-asm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/86382/llvm/trunk/test/CodeGen/MSP430/inline-asm.ll
+END
+2009-05-17-Rot.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/MSP430/2009-05-17-Rot.ll
+END
+Inst8mr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86471/llvm/trunk/test/CodeGen/MSP430/Inst8mr.ll
+END
+AddrMode-mov-rx.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86382/llvm/trunk/test/CodeGen/MSP430/AddrMode-mov-rx.ll
+END
+AddrMode-mov-xr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86382/llvm/trunk/test/CodeGen/MSP430/AddrMode-mov-xr.ll
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/TclTest
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/TclTest/lit.local.cfg
+END
+stderr-pipe.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/TclTest/stderr-pipe.ll
+END
+tcl-redir-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/86654/llvm/trunk/utils/lit/ExampleTests/TclTest/tcl-redir-1.ll
+END

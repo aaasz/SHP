@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 272
+Debug
+SystemZGenAsmWriter.inc
+SystemZGenCallingConv.inc
+SystemZGenDAGISel.inc
+SystemZGenInstrInfo.inc
+SystemZGenInstrNames.inc
+SystemZGenRegisterInfo.h.inc
+SystemZGenRegisterInfo.inc
+SystemZGenRegisterNames.inc
+SystemZGenSubtarget.inc
+Release-Asserts
+Release
+Debug+Checks
+
+END

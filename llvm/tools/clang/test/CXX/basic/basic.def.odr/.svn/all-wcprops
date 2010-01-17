@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/84417/cfe/trunk/test/CXX/basic/basic.def.odr
+END
+p2-typeid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/74540/cfe/trunk/test/CXX/basic/basic.def.odr/p2-typeid.cpp
+END

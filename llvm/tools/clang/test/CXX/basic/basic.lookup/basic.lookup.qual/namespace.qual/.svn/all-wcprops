@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/89216/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.qual/namespace.qual
+END
+p2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/89216/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.qual/namespace.qual/p2.cpp
+END
+p3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/83700/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.qual/namespace.qual/p3.cpp
+END
+p4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/83700/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.qual/namespace.qual/p4.cpp
+END
+p5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/83700/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.qual/namespace.qual/p5.cpp
+END

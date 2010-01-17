@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/ConstantMerge
+END
+2002-09-23-CPR-Update.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/ConstantMerge/2002-09-23-CPR-Update.ll
+END
+2006-03-07-DontMergeDiffSections.ll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/ConstantMerge/2006-03-07-DontMergeDiffSections.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/ConstantMerge/dg.exp
+END
+2003-10-28-MergeExternalConstants.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/81083/llvm/trunk/test/Transforms/ConstantMerge/2003-10-28-MergeExternalConstants.ll
+END

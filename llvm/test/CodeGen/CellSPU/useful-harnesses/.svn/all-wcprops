@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/84460/llvm/trunk/test/CodeGen/CellSPU/useful-harnesses
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/84460/llvm/trunk/test/CodeGen/CellSPU/useful-harnesses/lit.local.cfg
+END
+i32operations.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/CodeGen/CellSPU/useful-harnesses/i32operations.c
+END
+vecoperations.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/CodeGen/CellSPU/useful-harnesses/vecoperations.c
+END
+i64operations.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/CodeGen/CellSPU/useful-harnesses/i64operations.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/CodeGen/CellSPU/useful-harnesses/README.txt
+END
+i64operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/CodeGen/CellSPU/useful-harnesses/i64operations.h
+END

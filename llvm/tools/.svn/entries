@@ -1,0 +1,159 @@
+10
+
+dir
+91430
+http://llvm.org/svn/llvm-project/llvm/trunk/tools
+http://llvm.org/svn/llvm-project
+
+
+
+2009-12-15T03:04:52.110580Z
+91404
+foldr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+llvm-ranlib
+dir
+
+lli
+dir
+
+llvm-extract
+dir
+
+llvm-nm
+dir
+
+llvm-stub
+dir
+
+gold
+dir
+
+bugpoint
+dir
+
+llvm-dis
+dir
+
+lto
+dir
+
+llvm2cpp
+dir
+
+opt
+dir
+
+llvm-bcanalyzer
+dir
+
+llvm-link
+dir
+
+llvm-ld
+dir
+
+llvm-mc
+dir
+
+llvm-ar
+dir
+
+llc
+dir
+
+llvm-as
+dir
+
+llvm-config
+dir
+
+llvmc
+dir
+
+Makefile
+file
+
+
+
+
+2009-12-15T14:10:06.621910Z
+f6dd367c1564ca92c6c1db758d46d578
+2009-10-05T02:29:51.026621Z
+83288
+lattner
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1358
+
+CMakeLists.txt
+file
+
+
+
+
+2009-12-15T14:10:06.621910Z
+3ee537e56d120fbbcf4ed4126a575b62
+2009-10-05T02:29:51.026621Z
+83288
+lattner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1271
+
+llvm-prof
+dir
+

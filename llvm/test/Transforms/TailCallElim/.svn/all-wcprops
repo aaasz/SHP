@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/86403/llvm/trunk/test/Transforms/TailCallElim
+END
+move_alloca_for_tail_call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/81257/llvm/trunk/test/Transforms/TailCallElim/move_alloca_for_tail_call.ll
+END
+dont-tce-tail-marked-call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailCallElim/dont-tce-tail-marked-call.ll
+END
+ackermann.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/Transforms/TailCallElim/ackermann.ll
+END
+dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/TailCallElim/dg.exp
+END
+nocapture.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/86353/llvm/trunk/test/Transforms/TailCallElim/nocapture.ll
+END
+accum_recursion.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailCallElim/accum_recursion.ll
+END
+reorder_load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/81540/llvm/trunk/test/Transforms/TailCallElim/reorder_load.ll
+END
+switch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86403/llvm/trunk/test/Transforms/TailCallElim/switch.ll
+END
+accum_recursion_constant_arg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailCallElim/accum_recursion_constant_arg.ll
+END
+inf-recursion.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailCallElim/inf-recursion.ll
+END
+intervening-inst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailCallElim/intervening-inst.ll
+END
+trivial_codegen_tailcall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailCallElim/trivial_codegen_tailcall.ll
+END
+dont_reorder_load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/81540/llvm/trunk/test/Transforms/TailCallElim/dont_reorder_load.ll
+END
+return_constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/TailCallElim/return_constant.ll
+END

@@ -1,0 +1,761 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/91359/cfe/trunk/test/SemaTemplate
+END
+instantiate-static-var.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/90460/cfe/trunk/test/SemaTemplate/instantiate-static-var.cpp
+END
+instantiate-expr-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/84365/cfe/trunk/test/SemaTemplate/instantiate-expr-2.cpp
+END
+temp_arg_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaTemplate/temp_arg_type.cpp
+END
+ackermann.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/75395/cfe/trunk/test/SemaTemplate/ackermann.cpp
+END
+instantiate-array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaTemplate/instantiate-array.cpp
+END
+instantiate-expr-3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/72299/cfe/trunk/test/SemaTemplate/instantiate-expr-3.cpp
+END
+instantiate-expr-4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/91218/cfe/trunk/test/SemaTemplate/instantiate-expr-4.cpp
+END
+instantiation-backtrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaTemplate/instantiation-backtrace.cpp
+END
+instantiate-member-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/89475/cfe/trunk/test/SemaTemplate/instantiate-member-template.cpp
+END
+instantiate-expr-5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/76807/cfe/trunk/test/SemaTemplate/instantiate-expr-5.cpp
+END
+explicit-specialization-member.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/82732/cfe/trunk/test/SemaTemplate/explicit-specialization-member.cpp
+END
+overload-uneval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/89652/cfe/trunk/test/SemaTemplate/overload-uneval.cpp
+END
+member-function-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/89042/cfe/trunk/test/SemaTemplate/member-function-template.cpp
+END
+instantiate-deeply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/86031/cfe/trunk/test/SemaTemplate/instantiate-deeply.cpp
+END
+operator-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/88733/cfe/trunk/test/SemaTemplate/operator-template.cpp
+END
+instantiate-clang.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/72299/cfe/trunk/test/SemaTemplate/instantiate-clang.cpp
+END
+temp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/71598/cfe/trunk/test/SemaTemplate/temp.cpp
+END
+class-template-spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/89042/cfe/trunk/test/SemaTemplate/class-template-spec.cpp
+END
+example-typelist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/73147/cfe/trunk/test/SemaTemplate/example-typelist.cpp
+END
+dependent-names.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/89796/cfe/trunk/test/SemaTemplate/dependent-names.cpp
+END
+friend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/82875/cfe/trunk/test/SemaTemplate/friend.cpp
+END
+class-template-id.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/90239/cfe/trunk/test/SemaTemplate/class-template-id.cpp
+END
+variadic-unsupported.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/73267/cfe/trunk/test/SemaTemplate/variadic-unsupported.cpp
+END
+instantiate-using-decl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/90367/cfe/trunk/test/SemaTemplate/instantiate-using-decl.cpp
+END
+temp_func_order.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81807/cfe/trunk/test/SemaTemplate/temp_func_order.cpp
+END
+instantiate-expr-basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/71954/cfe/trunk/test/SemaTemplate/instantiate-expr-basic.cpp
+END
+operator-function-id-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/85989/cfe/trunk/test/SemaTemplate/operator-function-id-template.cpp
+END
+canonical-expr-type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/77678/cfe/trunk/test/SemaTemplate/canonical-expr-type.cpp
+END
+ambiguous-ovl-print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81907/cfe/trunk/test/SemaTemplate/ambiguous-ovl-print.cpp
+END
+instantiate-enum-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/91089/cfe/trunk/test/SemaTemplate/instantiate-enum-2.cpp
+END
+instantiate-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/80143/cfe/trunk/test/SemaTemplate/instantiate-init.cpp
+END
+instantiate-dependent-nested-name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/73285/cfe/trunk/test/SemaTemplate/instantiate-dependent-nested-name.cpp
+END
+instantiate-enum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaTemplate/instantiate-enum.cpp
+END
+instantiate-decl-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/86460/cfe/trunk/test/SemaTemplate/instantiate-decl-init.cpp
+END
+member-template-access-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/86060/cfe/trunk/test/SemaTemplate/member-template-access-expr.cpp
+END
+instantiate-overloaded-arrow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/88938/cfe/trunk/test/SemaTemplate/instantiate-overloaded-arrow.cpp
+END
+constructor-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/91315/cfe/trunk/test/SemaTemplate/constructor-template.cpp
+END
+instantiate-subscript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/85524/cfe/trunk/test/SemaTemplate/instantiate-subscript.cpp
+END
+temp_explicit_cxx0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/71689/cfe/trunk/test/SemaTemplate/temp_explicit_cxx0x.cpp
+END
+temp_class_spec_blocks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/73232/cfe/trunk/test/SemaTemplate/temp_class_spec_blocks.cpp
+END
+instantiate-method.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/90266/cfe/trunk/test/SemaTemplate/instantiate-method.cpp
+END
+copy-ctor-assign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/85629/cfe/trunk/test/SemaTemplate/copy-ctor-assign.cpp
+END
+temp_class_spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81866/cfe/trunk/test/SemaTemplate/temp_class_spec.cpp
+END
+current-instantiation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/89653/cfe/trunk/test/SemaTemplate/current-instantiation.cpp
+END
+instantiate-default-assignment-operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/90935/cfe/trunk/test/SemaTemplate/instantiate-default-assignment-operator.cpp
+END
+instantiate-field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaTemplate/instantiate-field.cpp
+END
+temp_explicit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/89651/cfe/trunk/test/SemaTemplate/temp_explicit.cpp
+END
+injected-class-name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/77462/cfe/trunk/test/SemaTemplate/injected-class-name.cpp
+END
+destructor-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/89480/cfe/trunk/test/SemaTemplate/destructor-template.cpp
+END
+member-initializers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/80211/cfe/trunk/test/SemaTemplate/member-initializers.cpp
+END
+friend-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/91359/cfe/trunk/test/SemaTemplate/friend-template.cpp
+END
+instantiate-non-type-template-parameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/85669/cfe/trunk/test/SemaTemplate/instantiate-non-type-template-parameter.cpp
+END
+template-class-traits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/90682/cfe/trunk/test/SemaTemplate/template-class-traits.cpp
+END
+metafun-apply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/78292/cfe/trunk/test/SemaTemplate/metafun-apply.cpp
+END
+instantiate-objc-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/SemaTemplate/instantiate-objc-1.mm
+END
+instantiate-declref-ice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/85741/cfe/trunk/test/SemaTemplate/instantiate-declref-ice.cpp
+END
+dependent-base-member-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/80123/cfe/trunk/test/SemaTemplate/dependent-base-member-init.cpp
+END
+typename-specifier-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/72590/cfe/trunk/test/SemaTemplate/typename-specifier-2.cpp
+END
+typename-specifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/84053/cfe/trunk/test/SemaTemplate/typename-specifier.cpp
+END
+typename-specifier-3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/73178/cfe/trunk/test/SemaTemplate/typename-specifier-3.cpp
+END
+typename-specifier-4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/80784/cfe/trunk/test/SemaTemplate/typename-specifier-4.cpp
+END
+nested-linkage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/77653/cfe/trunk/test/SemaTemplate/nested-linkage.cpp
+END
+instantiate-case.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/89303/cfe/trunk/test/SemaTemplate/instantiate-case.cpp
+END
+qualified-id.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/90266/cfe/trunk/test/SemaTemplate/qualified-id.cpp
+END
+template-id-printing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/84974/cfe/trunk/test/SemaTemplate/template-id-printing.cpp
+END
+value-dependent-null-pointer-constant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/86430/cfe/trunk/test/SemaTemplate/value-dependent-null-pointer-constant.cpp
+END
+temp_arg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaTemplate/temp_arg.cpp
+END
+instantiate-anonymous-union.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/80662/cfe/trunk/test/SemaTemplate/instantiate-anonymous-union.cpp
+END
+default-arguments-cxx0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/89874/cfe/trunk/test/SemaTemplate/default-arguments-cxx0x.cpp
+END
+nested-name-spec-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/90066/cfe/trunk/test/SemaTemplate/nested-name-spec-template.cpp
+END
+instantiate-template-template-parm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/86992/cfe/trunk/test/SemaTemplate/instantiate-template-template-parm.cpp
+END
+explicit-instantiation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/84154/cfe/trunk/test/SemaTemplate/explicit-instantiation.cpp
+END
+qualified-names-diag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/83175/cfe/trunk/test/SemaTemplate/qualified-names-diag.cpp
+END
+class-template-id-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaTemplate/class-template-id-2.cpp
+END
+canonical-expr-type-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/77722/cfe/trunk/test/SemaTemplate/canonical-expr-type-0x.cpp
+END
+function-template-specialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/82824/cfe/trunk/test/SemaTemplate/function-template-specialization.cpp
+END
+instantiate-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/85532/cfe/trunk/test/SemaTemplate/instantiate-cast.cpp
+END
+dependent-type-identity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/80044/cfe/trunk/test/SemaTemplate/dependent-type-identity.cpp
+END
+fibonacci.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/67720/cfe/trunk/test/SemaTemplate/fibonacci.cpp
+END
+deduction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/86893/cfe/trunk/test/SemaTemplate/deduction.cpp
+END
+dependent-sized_array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/89407/cfe/trunk/test/SemaTemplate/dependent-sized_array.cpp
+END
+instantiate-typedef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/84053/cfe/trunk/test/SemaTemplate/instantiate-typedef.cpp
+END
+template-id-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/86066/cfe/trunk/test/SemaTemplate/template-id-expr.cpp
+END
+class-template-decl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/86171/cfe/trunk/test/SemaTemplate/class-template-decl.cpp
+END
+instantiate-declref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/86017/cfe/trunk/test/SemaTemplate/instantiate-declref.cpp
+END
+instantiate-member-pointers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/88722/cfe/trunk/test/SemaTemplate/instantiate-member-pointers.cpp
+END
+template-decl-fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/74021/cfe/trunk/test/SemaTemplate/template-decl-fail.cpp
+END
+variadic-parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/73247/cfe/trunk/test/SemaTemplate/variadic-parse.cpp
+END
+instantiate-call.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/72081/cfe/trunk/test/SemaTemplate/instantiate-call.cpp
+END
+variadic-class-template-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/73269/cfe/trunk/test/SemaTemplate/variadic-class-template-1.cpp
+END
+variadic-class-template-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/84216/cfe/trunk/test/SemaTemplate/variadic-class-template-2.cpp
+END
+extern-templates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/84216/cfe/trunk/test/SemaTemplate/extern-templates.cpp
+END
+virtual-member-functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/90753/cfe/trunk/test/SemaTemplate/virtual-member-functions.cpp
+END
+instantiate-type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/72440/cfe/trunk/test/SemaTemplate/instantiate-type.cpp
+END
+recursive-template-instantiation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/74540/cfe/trunk/test/SemaTemplate/recursive-template-instantiation.cpp
+END
+default-expr-arguments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/86581/cfe/trunk/test/SemaTemplate/default-expr-arguments.cpp
+END
+instantiate-function-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/89801/cfe/trunk/test/SemaTemplate/instantiate-function-1.cpp
+END
+class-template-ctor-initializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/74631/cfe/trunk/test/SemaTemplate/class-template-ctor-initializer.cpp
+END
+instantiation-default-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/72662/cfe/trunk/test/SemaTemplate/instantiation-default-1.cpp
+END
+instantiate-function-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/71895/cfe/trunk/test/SemaTemplate/instantiate-function-2.cpp
+END
+instantiation-default-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/86864/cfe/trunk/test/SemaTemplate/instantiation-default-2.cpp
+END
+partial-spec-instantiate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/77925/cfe/trunk/test/SemaTemplate/partial-spec-instantiate.cpp
+END
+instantiation-default-3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/67602/cfe/trunk/test/SemaTemplate/instantiation-default-3.cpp
+END
+instantiate-exception-spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/90863/cfe/trunk/test/SemaTemplate/instantiate-exception-spec.cpp
+END
+temp_arg_nontype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/89891/cfe/trunk/test/SemaTemplate/temp_arg_nontype.cpp
+END
+ext-vector-type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/84953/cfe/trunk/test/SemaTemplate/ext-vector-type.cpp
+END
+instantiate-try-catch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/72041/cfe/trunk/test/SemaTemplate/instantiate-try-catch.cpp
+END
+example-dynarray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/89085/cfe/trunk/test/SemaTemplate/example-dynarray.cpp
+END
+member-access-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/86079/cfe/trunk/test/SemaTemplate/member-access-expr.cpp
+END
+enum-argument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/86197/cfe/trunk/test/SemaTemplate/enum-argument.cpp
+END
+instantiate-c99.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/72236/cfe/trunk/test/SemaTemplate/instantiate-c99.cpp
+END
+temp_class_order.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81866/cfe/trunk/test/SemaTemplate/temp_class_order.cpp
+END
+instantiation-depth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/90122/cfe/trunk/test/SemaTemplate/instantiation-depth.cpp
+END
+default-arguments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86904/cfe/trunk/test/SemaTemplate/default-arguments.cpp
+END
+instantiate-complete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/86129/cfe/trunk/test/SemaTemplate/instantiate-complete.cpp
+END
+temp_arg_template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/86777/cfe/trunk/test/SemaTemplate/temp_arg_template.cpp
+END
+implicit-instantiation-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/77249/cfe/trunk/test/SemaTemplate/implicit-instantiation-1.cpp
+END
+instantiate-function-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/91303/cfe/trunk/test/SemaTemplate/instantiate-function-1.mm
+END
+instantiate-friend-class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/80277/cfe/trunk/test/SemaTemplate/instantiate-friend-class.cpp
+END
+instantiate-attr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/86344/cfe/trunk/test/SemaTemplate/instantiate-attr.cpp
+END
+instantiate-member-class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/67708/cfe/trunk/test/SemaTemplate/instantiate-member-class.cpp
+END
+nested-template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/86864/cfe/trunk/test/SemaTemplate/nested-template.cpp
+END
+instantiate-member-initializers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/80446/cfe/trunk/test/SemaTemplate/instantiate-member-initializers.cpp
+END
+instantiate-expr-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/91252/cfe/trunk/test/SemaTemplate/instantiate-expr-1.cpp
+END
+fun-template-def.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/84365/cfe/trunk/test/SemaTemplate/fun-template-def.cpp
+END
+temp_class_spec_neg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/83436/cfe/trunk/test/SemaTemplate/temp_class_spec_neg.cpp
+END

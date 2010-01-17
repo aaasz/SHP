@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/89875/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.unqual
+END
+p11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/73392/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.unqual/p11.cpp
+END
+p12.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/73392/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.unqual/p12.cpp
+END
+p3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/78274/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.unqual/p3.cpp
+END
+p13.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/73652/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.unqual/p13.cpp
+END
+p14.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/85880/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.unqual/p14.cpp
+END
+p15.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/89875/cfe/trunk/test/CXX/basic/basic.lookup/basic.lookup.unqual/p15.cpp
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/88845/cfe/trunk/utils/C++Tests/Clang-Code-Syntax
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/88845/cfe/trunk/utils/C++Tests/Clang-Code-Syntax/lit.local.cfg
+END

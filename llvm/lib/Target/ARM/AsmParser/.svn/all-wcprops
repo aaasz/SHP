@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/85823/llvm/trunk/lib/Target/ARM/AsmParser
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81827/llvm/trunk/lib/Target/ARM/AsmParser/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81817/llvm/trunk/lib/Target/ARM/AsmParser/Makefile
+END
+ARMAsmParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/85823/llvm/trunk/lib/Target/ARM/AsmParser/ARMAsmParser.cpp
+END
